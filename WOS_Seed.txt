@@ -1,0 +1,2526 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Simons, RE
+   Zevy, DL
+   Jafferany, M
+AF Simons, Robert E.
+   Zevy, Danna L.
+   Jafferany, Mohammad
+TI Psychodermatology of vitiligo: Psychological impact and consequences
+SO DERMATOLOGIC THERAPY
+LA English
+DT Review; Early Access
+DE psychocutaneous disorders; psychodermatology; psychological; vitiligo
+ID QUALITY-OF-LIFE; MORBIDITY
+AB Vitiligo is an autoimmune dermatologic disorder that causes chronic skin depigmentation, which affects an estimated 1% of the world's population. This disfiguring condition can have devastating psychological consequences on its sufferers. The field of psychodermatology examines psychiatric manifestations of dermatologic conditions. Although previous research in this area has been done on other skin disorders, no large-scale review exists on the dermatologic-psychiatric connection in vitiligo specifically. The current article will discuss the psychodermatology of vitiligo with an emphasis on depression, stress, and low self-esteem. The social and cultural considerations will also be explored. Finally, the implications of these psychiatric manifestations on treatment will be discussed, with the goal of implementing early psychiatric intervention for those with vitiligo.
+C1 [Simons, Robert E.; Zevy, Danna L.; Jafferany, Mohammad] Cent Michigan Univ, Dept Psychiat, Coll Med, Saginaw, MI 48602 USA.
+RP Jafferany, M (corresponding author), Cent Michigan Univ, Dept Psychiat, Coll Med, Saginaw, MI 48602 USA.
+EM mjafferany@yahoo.com
+OI Jafferany, Mohammad/0000-0001-6358-9068
+CR Bonotis K, 2016, J DTSCH DERMATOL GES, V14, P45, DOI 10.1111/ddg.12729
+   Gurpinar A, 2019, TURK J MED SCI, V49, P832, DOI 10.3906/sag-1812-84
+   Ongenae K, 2006, J EUR ACAD DERMATOL, V20, P1, DOI 10.1111/j.1468-3083.2005.01369.x
+   Osinubi O, 2018, BRIT J DERMATOL, V178, P863, DOI 10.1111/bjd.16049
+   Parsad Davinder, 2003, Health Qual Life Outcomes, V1, P58, DOI 10.1186/1477-7525-1-58
+   Sangma LN, 2015, INDIAN J DERMATOL, V60, P142, DOI 10.4103/0019-5154.152508
+   Sarkar S, 2018, INDIAN J DERMATOL, V63, P281, DOI 10.4103/ijd.IJD_142_18
+   Schmid-Ott G, 2007, J EUR ACAD DERMATOL, V21, P456, DOI 10.1111/j.1468-3083.2006.01897.x
+   Silvan M, 2004, CUTIS, V73, P163
+   Silverberg JI, 2015, CUTIS, V95, P255
+NR 10
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1396-0296
+EI 1529-8019
+J9 DERMATOL THER
+JI Dermatol. Ther.
+AR e13418
+DI 10.1111/dth.13418
+EA MAY 2020
+PG 4
+WC Dermatology
+SC Dermatology
+GA LJ8WV
+UT WOS:000530442900001
+PM 32297399
+DA 2020-07-08
+ER
+
+PT J
+AU Lacerda, KAP
+   Silva, LA
+   Mendonca, GS
+   Guimaraes, RA
+   Guild, LA
+AF Pereira Lacerda, Kenia Alves
+   Silva, Luiz Almeida
+   Mendonca, Guilherme Silva
+   Guimaraes, Rafael Alves
+   Guild, Lidia Andreu
+TI ASSOCIATION BETWEEN QUALITY OF LIFE AND PERCEIVED STRESS IN PATIENTS
+   WITH VITILIGO: CASE CONTROL STUDY
+SO BIOSCIENCE JOURNAL
+LA English
+DT Article
+DE Skin; Perceived Stress; Quality of life
+ID INDEX SCORE; IMPACT; EPIDEMIOLOGY; EVENTS
+AB To evaluate the association between quality of life (QL), perceived stress in patients with vitiligo and compare the perception of stress with noncarriers. The first study was cross-secctional, and the second case-control with 51 patients in outpatient treatment and 51 users of a blood center, matched by sex and age. Questionnaires used were Dermatology Life Quality Index and Perceived Stress Scale. Results: The mean score of quality of life in patients was 4.7 +/- 5.8, showing a slight impairment in QL. There was association between QL and black skin color (p <0.001), involvement of standard exposed vitiligo (p < 0.001) and perceived stress (p = 0.033). The perceived stress rated among the groups showed an average of 20.7 +/- 6.0 and 17.8 +/- 7.0 for cases and controls, respectively. Vitiligo patients had higher perceived stress compared to the control group (p = 0.022). The results showed a high perceived stress in patients with vitiligo, suggesting that the disease increases the level of stress. The overall score of the quality of life was relatively low indicating mild impairment of disease on quality of life.
+C1 [Pereira Lacerda, Kenia Alves] Fed Inst Educ Sci & Technol Goias, Campus Jatai, Jatai, Go, Brazil.
+   [Silva, Luiz Almeida] Fed Univ Catalao, Biotechnol Acad Unit, Catalao, Go, Brazil.
+   [Mendonca, Guilherme Silva] Univ Fed Uberlandia, Hlth Sci, Uberlandia, MG, Brazil.
+   [Mendonca, Guilherme Silva] Univ Fed Uberlandia, Hosp Clin, Uberlandia, MG, Brazil.
+   [Guimaraes, Rafael Alves] Goias Fed Univ, Grad Program Trop Med, Goiania, Go, Brazil.
+   [Guild, Lidia Andreu] Goias Fed Univ, Inst Biol Sci, Campus 2 Lab Cell Biochem, Goiania, Go, Brazil.
+RP Lacerda, KAP (corresponding author), Fed Inst Educ Sci & Technol Goias, Campus Jatai, Jatai, Go, Brazil.
+EM kenialacerdaalves@gmail.com
+OI Silva, Luiz Almeida/0000-0002-6661-035X
+CR Ahmed S, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0148211
+   Alikhan A, 2011, J AM ACAD DERMATOL, V65, P473, DOI 10.1016/j.jaad.2010.11.061
+   Amer AAA, 2016, INT J DERMATOL, V55, P608, DOI 10.1111/ijd.13198
+   BATISTA K. M., 2011, THESIS
+   Both H, 2007, J INVEST DERMATOL, V127, P2726, DOI 10.1038/sj.jid.5701142
+   Chan MF, 2013, INT J NURS PRACT, V19, P3, DOI 10.1111/ijn.12179
+   Dolatshahi M, 2008, INDIAN J DERMATOL VE, V74
+   Ghajarzadeh Mahsa, 2012, Acta Med Iran, V50, P511
+   Hongbo Y, 2005, J INVEST DERMATOL, V125, P659, DOI 10.1111/j.0022-202X.2005.23621.x
+   Ingordo V, 2012, GIORN ITAL DERMAT V, V147, P83
+   Kiprono S, 2013, INT J DERMATOL, V52, P191, DOI 10.1111/j.1365-4632.2012.05600.x
+   Kostopoulou P, 2009, BRIT J DERMATOL, V161, P128, DOI 10.1111/j.1365-2133.2009.09077.x
+   Manolache L, 2007, J EUR ACAD DERMATOL, V21, P921, DOI 10.1111/j.1468-3083.2006.02106.x
+   Martins Gladys Aires, 2004, An. Bras. Dermatol., V79, P521, DOI 10.1590/S0365-05962004000500002
+   Mashayekhi V, 2010, INDIAN J DERMATOL VE, V76, DOI 10.4103/0378-6323.69097
+   Mechri Anwar, 2006, Tunis Med, V84, P632
+   MERLI A., 2014, ARCH ARGENT DERMATOL, V64, P139
+   Ongenae K, 2005, BRIT J DERMATOL, V152, P1165, DOI 10.1111/j.1365-2133.2005.06456.x
+   Ongenae K, 2005, DERMATOLOGY, V210, P279, DOI 10.1159/000084751
+   Papadopoulos L, 1998, CLIN EXP DERMATOL, V23, P243
+   Parsad D, 2003, BRIT J DERMATOL, V148, P373, DOI 10.1046/j.1365-2133.2003.05097_9.x
+   Picardi A, 2003, PSYCHOTHER PSYCHOSOM, V72, P150, DOI 10.1159/000069731
+   Radtke MA, 2009, BRIT J DERMATOL, V161, P134, DOI 10.1111/j.1365-2133.2009.09091.x
+   Razali NM, 2011, J STAT MODELL ANAL, V2, P21, DOI DOI 10.1515/BILE-2015-0008
+   Reis RS, 2010, J HEALTH PSYCHOL, V15, P107, DOI 10.1177/1359105309346343
+   Shah M, 2006, BRIT J DERMATOL, V154, P150, DOI 10.1111/j.1365-2133.2005.06959.x
+   Silverberg JI, 2013, JAMA DERMATOL, V149, P159, DOI 10.1001/jamadermatol.2013.927
+   Silverberg NB, 2015, CURR DERMATOL REP, V4, P36, DOI 10.1007/s13671-014-0098-6
+   Taborda Maria-Laura V. V., 2005, An. Bras. Dermatol., V80, P351, DOI 10.1590/S0365-05962005000400004
+   Tanioka M, 2010, J COSMET DERMATOL-US, V9, P72, DOI 10.1111/j.1473-2165.2010.00479.x
+   Tavakol M, 2011, INT J MED EDUC, V2, P53, DOI 10.5116/ijme.4dfb.8dfd
+   Wang KY, 2011, J EUR ACAD DERMATOL, V25, P429, DOI 10.1111/j.1468-3083.2010.03808.x
+   WHITE H, 1980, ECONOMETRICA, V48, P817, DOI 10.2307/1912934
+   Wong SM, 2012, INT J DERMATOL, V51, P158, DOI 10.1111/j.1365-4632.2011.04932.x
+   Zhang YH, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0163806
+NR 35
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV FEDERAL UBERLANDIA
+PI UBERLANDIA
+PA AV PARA, 1720 CAMPUS UMUARAMA, UBERLANDIA, 38400-902, BRAZIL
+SN 1981-3163
+J9 BIOSCI J
+JI Biosci. J.
+PD MAY-JUN
+PY 2020
+VL 36
+IS 3
+BP 1032
+EP 1042
+DI 10.14393/BJ-v36n3a2020-45105
+PG 11
+WC Agriculture, Multidisciplinary; Agronomy; Biology
+SC Agriculture; Life Sciences & Biomedicine - Other Topics
+GA LH8TU
+UT WOS:000529057300035
+OA Bronze
+DA 2020-07-08
+ER
+
+PT J
+AU Yan, SL
+   Shi, JP
+   Sun, DJ
+   Lyu, LC
+AF Yan, Shili
+   Shi, Jingpei
+   Sun, Dongjie
+   Lyu, Lechun
+TI Current insight into the roles of microRNA in vitiligo
+SO MOLECULAR BIOLOGY REPORTS
+LA English
+DT Review
+DE Vitiligo; microRNA; Melanocyte; Melanin; Polymorphism
+ID OXIDATIVE STRESS; ENERGY-METABOLISM; PERIPHERAL-BLOOD; EXPRESSION;
+   ASSOCIATION; MIRNA; POLYMORPHISM; TARGETS; SUSCEPTIBILITY; MELANOCYTES
+AB Vitiligo is a common chronic depigmented skin disease characterized by melanocyte loss or dysfunction in the lesion. The pathogenesis of vitiligo has not been fully clarified. Most studies have suggested that the occurrence and progression of vitiligo are due to multiple factors and gene interactions in which noncoding RNAs contribute to an individual's susceptibility to vitiligo. Noncoding RNAs, including microRNAs (miRNAs), are a hot topic in posttranscriptional regulatory mechanism research. miRNAs are noncoding RNAs with a length of approximately 22 nucleotides and play a negative regulatory role by binding to the 3 '-UTR or 5 '-UTR of the target mRNA to inhibit translation or initiate mRNA degradation. Previous studies have screened the differential expression profiles of miRNAs in the skin lesions, melanocytes, peripheral blood mononuclear cells (PBMCs) and sera of patients and mouse models with vitiligo. Moreover, several studies have focused on miRNA-25, miRNA-155 and other miRNAs involved in melanin metabolism, oxidative stress, and melanocyte proliferation and apoptosis. These miRNAs and regulatory processes further illuminate the pathogenesis of vitiligo and provide hope for the application of small molecules in the treatment of vitiligo. In this review, we summarize miRNA expression profiles in different tissues of vitiligo patients and the mechanisms by which key miRNAs mediate vitiligo development.
+C1 [Yan, Shili; Shi, Jingpei; Lyu, Lechun] Kunming Med Univ, Sci & Technol Achievement Incubat Ctr, 1168 West Chunrong Rd,Yuhua Ave, Kunming 650500, Yunnan, Peoples R China.
+   [Yan, Shili; Sun, Dongjie] Kunming Med Univ, Affiliated Hosp 1, Dept Dermatol, Kunming, Yunnan, Peoples R China.
+   [Shi, Jingpei] Kunming Med Univ, Sch Basic Med Sci, Kunming, Yunnan, Peoples R China.
+RP Lyu, LC (corresponding author), Kunming Med Univ, Sci & Technol Achievement Incubat Ctr, 1168 West Chunrong Rd,Yuhua Ave, Kunming 650500, Yunnan, Peoples R China.
+EM minimillet@hotmail.com
+RI Lyu, Lechun/AAM-4839-2020
+OI Lyu, Lechun/0000-0003-0095-4050
+FU National Natural Science Foundation of China (NSFC)National Natural
+   Science Foundation of China [81560502, 81960354]; National Natural
+   Science Foundation of Yunnan Province [2017FB116]; Talent Project of
+   Yunnan Province [2019HB024]; 100 Talents Program of Kunming Medical
+   University
+FX Supported by grants from the National Natural Science Foundation of
+   China (NSFC; Grant Nos. 81560502, 81960354), the National Natural
+   Science Foundation of Yunnan Province (Grant No. 2017FB116), the Talent
+   Project of Yunnan Province (2019HB024), 100 Talents Program of Kunming
+   Medical University (Lechun Lyu). The authors acknowledge the editors and
+   reviewers for their positive and constructive comments and suggestions
+   on our study.
+CR Ahangari F, 2014, MED ONCOL, V31, DOI 10.1007/s12032-014-0173-7
+   Alivernini S, 2018, FRONT IMMUNOL, V8, DOI 10.3389/fimmu.2017.01932
+   Boniface K, 2016, GIORN ITAL DERMAT V, V151, P44
+   Bordignon M, 2013, J DERMATOL SCI, V71, P142, DOI 10.1016/j.jdermsci.2013.04.005
+   Cai Yimei, 2009, Genomics Proteomics & Bioinformatics, V7, P147, DOI 10.1016/S1672-0229(08)60044-3
+   Cui TT, 2015, ARCH DERMATOL RES, V307, P683, DOI 10.1007/s00403-015-1563-1
+   Dai XD, 2015, PIGM CELL MELANOMA R, V28, P217, DOI 10.1111/pcmr.12334
+   Delmas V, 2019, EXP DERMATOL, V28, P662, DOI 10.1111/exd.13858
+   El-Lithy GM, 2016, TRANSL RES, V177, P85, DOI 10.1016/j.trsl.2016.06.005
+   Ezzedine K, 2016, JAMA-J AM MED ASSOC, V316, P1708, DOI 10.1001/jama.2016.12399
+   Ezzedine K, 2015, LANCET, V386, P74, DOI 10.1016/S0140-6736(14)60763-7
+   Faria AR, 2017, PATHOL RES PRACT, V213, P199, DOI 10.1016/j.prp.2016.12.019
+   Grijalvo S, 2018, GENES-BASEL, V9, DOI 10.3390/genes9020074
+   Gu JY, 2017, BIOMED PHARMACOTHER, V93, P969, DOI 10.1016/j.biopha.2017.07.010
+   He YM, 2017, SCI REP-UK, V7, DOI 10.1038/srep42394
+   Huang Y, 2012, SINGLE NUCLEOTIDE PO
+   Huang Y, 2013, PIGM CELL MELANOMA R, V26, P338, DOI 10.1111/pcmr.12081
+   Jacquemin C, 2019, PIGM CELL MELANOMA R, V32, P588, DOI 10.1111/pcmr.12763
+   Jadeja SD, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0180958
+   Jia WR, 2018, MEDICINE, V97, DOI [10.1097/MD.0000000000009846, 10.1097/md.0000000000009846]
+   Lee AY, 2012, ANN DERMATOL, V24, P115, DOI 10.5021/ad.2012.24.2.115
+   Lee I, 2009, GENOME RES, V19, P1175, DOI 10.1101/gr.089367.108
+   Li YS, 2019, BRIEF BIOINFORM, V20, P1193, DOI 10.1093/bib/bbx137
+   Lu LC, 2014, GENE, V535, P12, DOI 10.1016/j.gene.2013.11.024
+   Lv MF, 2019, MOL MED REP, V20, P3617, DOI 10.3892/mmr.2019.10607
+   Majid Imran, 2015, Indian J Dermatol Venereol Leprol, V81, P600, DOI 10.4103/0378-6323.168325
+   Mansuri MS, 2017, BRIT J DERMATOL, V177, P1590, DOI 10.1111/bjd.15681
+   Mansuri MS, 2014, BRIT J DERMATOL, V171, P1263, DOI 10.1111/bjd.13109
+   Mazar J, 2016, MOL CELL BIOL, V36, P1090, DOI 10.1128/MCB.00762-15
+   Mione M, 2015, PIGM CELL MELANOMA R, V28, DOI 10.1111/pcmr.12346
+   Mohan GC, 2015, JAMA DERMATOL, V151, P522, DOI 10.1001/jamadermatol.2014.3324
+   Qiu L, 2014, J INVEST DERMATOL, V134, P2074, DOI 10.1038/jid.2014.241
+   Rashighi M, 2014, SCI TRANSL MED, V6, DOI 10.1126/scitranslmed.3007811
+   Sahmatova L, 2016, ACTA DERM-VENEREOL, V96, P742, DOI 10.2340/00015555-2394
+   Sahoo A, 2019, J INVEST DERMATOL, V139, P167, DOI 10.1016/j.jid.2018.06.189
+   Sahoo A, 2017, J INVEST DERMATOL, V137, P1965, DOI 10.1016/j.jid.2017.04.025
+   Sarkar D, 2015, EPIGENETICS-US, V10, P103, DOI 10.1080/15592294.2014.1003746
+   Shang Z, 2017, STUDY BIOL EFFECTS M
+   Shang ZW, 2017, J DERMATOL, V44, P1138, DOI 10.1111/1346-8138.13886
+   Shi Q, 2016, CELL DEATH DIFFER, V23, P496, DOI 10.1038/cdd.2015.117
+   Shi YL, 2014, EXP DERMATOL, V23, P140, DOI 10.1111/exd.12319
+   Shi YL, 2013, PIGM CELL MELANOMA R, V26, P418, DOI 10.1111/pcmr.12086
+   Singh RK, 2016, AUTOIMMUN REV, V15, P397, DOI 10.1016/j.autrev.2016.01.004
+   Speeckaert R, 2017, AUTOIMMUN REV, V16, P937, DOI 10.1016/j.autrev.2017.07.005
+   Speeckaert R, 2017, AM J CLIN DERMATOL, V18, P733, DOI 10.1007/s40257-017-0298-5
+   Spiegelman VS, 2017, J INVEST DERMATOL, V137, P1828, DOI 10.1016/j.jid.2017.06.012
+   Su MY, 2019, EXP CELL RES, V384, DOI 10.1016/j.yexcr.2019.111615
+   Vaish U, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-46529-6
+   Wang Y, 2016, IMMUNOBIOLOGY, V221, P1378, DOI 10.1016/j.imbio.2016.07.008
+   Wang Y, 2015, J DERMATOL, V42, P193, DOI 10.1111/1346-8138.12725
+   Zhang Y, 2011, MECH RES MIR 423 5P
+NR 51
+TC 0
+Z9 0
+U1 2
+U2 2
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0301-4851
+EI 1573-4978
+J9 MOL BIOL REP
+JI Mol. Biol. Rep.
+PD APR
+PY 2020
+VL 47
+IS 4
+BP 3211
+EP 3219
+DI 10.1007/s11033-020-05336-3
+EA FEB 2020
+PG 9
+WC Biochemistry & Molecular Biology
+SC Biochemistry & Molecular Biology
+GA LE1CZ
+UT WOS:000516341400002
+PM 32086720
+DA 2020-07-08
+ER
+
+PT J
+AU Henning, SW
+   Jaishankar, D
+   Barse, LW
+   Dellacecca, ER
+   Lancki, N
+   Webb, K
+   Janusek, L
+   Mathews, HL
+   Price, RN
+   Le Poole, IC
+AF Henning, Steven W.
+   Jaishankar, Dinesh
+   Barse, Levi W.
+   Dellacecca, Emilia R.
+   Lancki, Nicola
+   Webb, Kirsten
+   Janusek, Linda
+   Mathews, Herbert L.
+   Price, Ronald N., Jr.
+   Le Poole, I. Caroline
+TI The relationship between stress and vitiligo: Evaluating perceived
+   stress and electronic medical record data
+SO PLOS ONE
+LA English
+DT Article
+ID PSYCHOLOGICAL STRESS; METABOLIC SYNDROME; OXIDATIVE STRESS;
+   AUTOIMMUNE-DISEASES; IMMUNE FUNCTION; ASSOCIATION; DYSFUNCTION;
+   PREVALENCE; DEPRESSION; ADULTS
+AB Vitiligo is a T-cell mediated skin disorder characterized by progressive loss of skin color. In individuals genetically predisposed to the disease, various triggers contribute to the initiation of vitiligo. Precipitating factors can stress the skin, leading to T-cell activation and recruitment. Though hereditary factors are implicated in the pathogenesis of vitiligo, it is unknown whether precipitating, stressful events play a role in vitiligo. To understand this, we utilized a validated perceived stress scale (PSS) to measure this parameter in vitiligo patients compared to persons without vitiligo. Additionally, we probed a clinical database, using a knowledge linking software called ROCKET, to gauge stress-related conditions in the vitiligo patient population. From a pool of patients in an existing database, a hundred individuals with vitiligo and twenty-five age- and sex-matched comparison group of individuals without vitiligo completed an online survey to quantify their levels of perceived stress. In parallel, patients described specifics of their disease condition, including the affected body sites, the extent, duration and activity of their vitiligo. Perceived stress was significantly higher among vitiligo individuals compared to those without vitiligo. ROCKET analyses suggested signs of metabolic-related disease (i.e., 'stress') preceding vitiligo development. No correlation was found between perceived stress and the stage or the extent of disease, suggesting that elevated stress may not be a consequence of pigment loss alone. The data provide further support for stress as a precipitating factor in vitiligo development.
+C1 [Henning, Steven W.; Barse, Levi W.] Loyola Univ Chicago, Oncol Res Inst, Maywood, IL USA.
+   [Jaishankar, Dinesh; Dellacecca, Emilia R.] Northwestern Univ, Feinberg Sch Med, Dept Dermatol, Chicago, IL 60611 USA.
+   [Lancki, Nicola; Le Poole, I. Caroline] Northwestern Univ, Dept Prevent Med, Chicago, IL 60611 USA.
+   [Webb, Kirsten] Loyola Univ Chicago, Div Dermatol, Maywood, IL USA.
+   [Janusek, Linda] Loyola Univ Chicago, Marcella Niehoff Sch Nursing, Maywood, IL USA.
+   [Mathews, Herbert L.] Loyola Univ Chicago, Dept Microbiol & Immunol, Maywood, IL USA.
+   [Price, Ronald N., Jr.] Loyola Univ Chicago, Off Informat & Syst Dev, Maywood, IL USA.
+   [Le Poole, I. Caroline] Northwestern Univ, Feinberg Sch Med, Dept Microbiol & Immunol, Chicago, IL USA.
+RP Jaishankar, D (corresponding author), Northwestern Univ, Feinberg Sch Med, Dept Dermatol, Chicago, IL 60611 USA.
+EM dinesh.jaishankar@northwestern.edu
+OI Le Poole, I. Caroline/0000-0001-6853-4007; Dellacecca,
+   Emilia/0000-0001-9031-2240
+FU National Cancer InstituteUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Cancer
+   Institute (NCI) [R01CA191317]
+FX CLP, R01CA191317, National Cancer Institute; https://www.cancer.gov/The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Al-Harbi Mana, 2013, Skinmed, V11, P327
+   Al-Shobaili HA, 2011, INT J HEALTH SCI-IJH, V5, P167
+   ALABADIE MSK, 1994, BRIT J DERMATOL, V131, P160
+   ALBERT DM, 1979, OPHTHALMOLOGY, V86, P1145
+   Alkhateeb A, 2003, PIGM CELL RES, V16, P208, DOI 10.1034/j.1600-0749.2003.00032.x
+   Amer AAA, 2016, INT J DERMATOL, V55, P608, DOI 10.1111/ijd.13198
+   Asea A, 2007, J BIOSCIENCES, V32, P579, DOI 10.1007/s12038-007-0057-5
+   Atas H, 2017, BALK MED J, V34, P219, DOI 10.4274/balkanmedj.2016.1005
+   Baldini E, 2017, FRONT ENDOCRINOL, V8, DOI 10.3389/fendo.2017.00290
+   Beere HM, 2004, J CELL SCI, V117, P2641, DOI 10.1242/jcs.01284
+   Carella AM, 2010, CURR DIABETES REV, V6, P215, DOI 10.2174/157339910791658844
+   Cedercreutz K, 2010, J DERMAT NURSES ASSO, V2, P265, DOI 10.1097/JDN.0b013e3181fe9b33
+   Chandola T, 2006, BMJ-BRIT MED J, V332, P521, DOI 10.1136/bmj.38693.435301.80
+   COHEN S, 1983, J HEALTH SOC BEHAV, V24, P385, DOI 10.2307/2136404
+   Cohen S, 2012, J APPL SOC PSYCHOL, V42, P1320, DOI 10.1111/j.1559-1816.2012.00900.x
+   COHEN Y, 1988, J CHEM SOC PERK T 2, P31, DOI 10.1039/p29880000031
+   Cupertino F, 2017, CLIN DERMATOL, V35, P292, DOI 10.1016/j.clindermatol.2017.01.001
+   Dell'Anna ML, 2010, J CELL PHYSIOL, V223, P187, DOI 10.1002/jcp.22027
+   Dhabhar FS, 2014, IMMUNOL RES, V58, P193, DOI 10.1007/s12026-014-8517-0
+   Dhabhar FS, 2009, NEUROIMMUNOMODULAT, V16, P300, DOI 10.1159/000216188
+   El-Sayed MIK, 2018, FRONT ENDOCRINOL, V9, DOI 10.3389/fendo.2018.00197
+   Elenkov IJ, 2002, ANN NY ACAD SCI, V966, P290, DOI 10.1111/j.1749-6632.2002.tb04229.x
+   Ezzedine K, 2012, PIGM CELL MELANOMA R, V25, pE1, DOI 10.1111/j.1755-148X.2012.00997.x
+   Garvey WT, 2006, HDB CLIN NUTR, P357
+   Gill L, 2016, J AM ACAD DERMATOL, V74, P295, DOI 10.1016/j.jaad.2015.08.063
+   Glaser R, 2005, NAT REV IMMUNOL, V5, P243, DOI 10.1038/nri1571
+   He YM, 2017, SCI REP-UK, V7, DOI 10.1038/srep42394
+   HOWITZ J, 1977, ARCH DERMATOL, V113, P47, DOI 10.1001/archderm.113.1.47
+   Jin Y, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-08337-4
+   Kammerer R, 2002, J IMMUNOL, V168, P108, DOI 10.4049/jimmunol.168.1.108
+   Karsli N, 2014, J INT MED RES, V42, P799, DOI 10.1177/0300060513516294
+   Kruger C, 2015, ACTA DERM-VENEREOL, V95, P553, DOI 10.2340/00015555-1981
+   Kruger C, 2012, INT J DERMATOL, V51, P1206, DOI 10.1111/j.1365-4632.2011.05377.x
+   Lacetera N., 2016, INNATE IMMUNE RESPON, P107
+   Lazzeri L, 2016, BIOMED RES INT, V2016, P5, DOI [10.3389/fgene.2016.00003, DOI 10.3389/FGENE.2016.00003]
+   Le Poole IC, 2004, J INVEST DERM SYMP P, V9, P68, DOI 10.1111/j.1087-0024.2004.00825.x
+   Le Poole IC, 2001, PIGM CELL RES, V14, P475, DOI 10.1034/j.1600-0749.2001.140608.x
+   Liana Manolache D P-S, 2013, WORLD J DERMATOL, V2, P16
+   Manolache L, 2007, J EUR ACAD DERMATOL, V21, P921, DOI 10.1111/j.1468-3083.2006.02106.x
+   Mason CP, 2005, CLIN EXP DERMATOL, V30, P344, DOI 10.1111/j.1365-2230.2005.01779.x
+   Mastore M, 2005, FEBS J, V272, P2407, DOI 10.1111/j.1742-4658.2005.04661.x
+   Mohamed ES, 2017, EGYPT J OTOLARYNGOL, V33, P594, DOI 10.4103/ejo.ejo_6_17
+   Mosenson JA, 2014, PIGM CELL MELANOMA R, V27, DOI 10.1111/pcmr.12208
+   Mosenson JA, 2012, PIGM CELL MELANOMA R, V25, P88, DOI 10.1111/j.1755-148X.2011.00916.x
+   Nagarajan A, 2015, INDIAN J DERMATOL, V60, DOI 10.4103/0019-5154.147844
+   Nicolaidou E, 2012, J AM ACAD DERMATOL, V66, P954, DOI 10.1016/j.jaad.2011.07.010
+   Onder G, 2005, J GERONTOL A-BIOL, V60, P1168, DOI 10.1093/gerona/60.9.1168
+   Ott C, 2009, CURR HYPERTENS REP, V11, P143, DOI 10.1007/s11906-009-0025-6
+   Papadopoulos L, 1998, CLIN EXP DERMATOL, V23, P243
+   Parsad Davinder, 2003, Health Qual Life Outcomes, V1, P58, DOI 10.1186/1477-7525-1-58
+   Peng QL, 2020, CLIN EXP IMMUNOL, V199, P314, DOI 10.1111/cei.13404
+   Phillips A. C, 2013, ENCY BEHAV MED, P1453
+   Picardo M, 2015, J INVEST DERMATOL, V135, P1713, DOI 10.1038/jid.2015.92
+   Pietrzak A, 2012, DERMATOL THER, V25, pS41, DOI 10.1111/dth.12012
+   Pizzagalli DA, 2007, BEHAV RES THER, V45, P2742, DOI 10.1016/j.brat.2007.07.013
+   Plantinga L, 2017, LUPUS, V26, P1064, DOI 10.1177/0961203317693095
+   Pyykko nen AJ, 2009, BOT STUDY, P1935
+   Ryu H, 2018, NAT IMMUNOL, V19, P583, DOI 10.1038/s41590-018-0102-6
+   SALZER BA, 1995, DERMATOLOGY, V190, P109, DOI 10.1159/000246657
+   Sangma LN, 2015, INDIAN J DERMATOL, V60, P142, DOI 10.4103/0019-5154.152508
+   Shen CB, 2016, FRONT GENET, V7, DOI 10.3389/fgene.2016.00003
+   Silverberg JI, 2015, CUTIS, V95, P255
+   Slangier U, 2003, PSYCHOL ASSESSMENT, V15, P532, DOI 10.1037/1040-3590.15.4.532
+   Small HY, 2018, FREE RADICAL BIO MED, V125, P104, DOI 10.1016/j.freeradbiomed.2018.05.085
+   Stojanovich L, 2008, AUTOIMMUN REV, V7, P209, DOI 10.1016/j.autrev.2007.11.007
+   Tamashiro KL, 2011, STRESS, V14, P468, DOI 10.3109/10253890.2011.606341
+   Thompson AR, 2002, BRIT J HEALTH PSYCH, V7, P213, DOI 10.1348/135910702169457
+   Treharne GJ, 2007, BRIT J HEALTH PSYCH, V12, P323, DOI 10.1348/135910706X109288
+   Wei CL, 2008, INT J HEMATOL, V88, P52, DOI 10.1007/s12185-008-0105-4
+   Wolf VL, 2019, CURR HYPERTENS REP, V21, DOI 10.1007/s11906-019-0914-2
+   Yamaguchi Y, 2014, CSH PERSPECT MED, V4, DOI 10.1101/cshperspect.a017046
+   Yang LF, 2015, CURR NEUROPHARMACOL, V13, P494, DOI 10.2174/1570159X1304150831150507
+   Yang RL, 2008, J CLIN BIOCHEM NUTR, V43, P154, DOI 10.3164/jcbn.2008044
+   Yildirim M, 2003, J DERMATOL, V30, P104, DOI 10.1111/j.1346-8138.2003.tb00356.x
+   Zhang YH, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0163806
+NR 75
+TC 0
+Z9 0
+U1 1
+U2 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 27
+PY 2020
+VL 15
+IS 1
+AR e0227909
+DI 10.1371/journal.pone.0227909
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA LP8YP
+UT WOS:000534603400032
+PM 31986193
+OA DOAJ Gold, Green Published
+DA 2020-07-08
+ER
+
+PT J
+AU Bastonini, E
+   Kovacs, D
+   Iacovelli, P
+   Pacifico, A
+   Picardo, M
+AF Bastonini, E.
+   Kovacs, D.
+   Iacovelli, P.
+   Pacifico, A.
+   Picardo, M.
+TI Autophagy is an adaptive stress response in Vitiligo
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+LA English
+DT Meeting Abstract
+CT 49th Annual Meeting of the European-Society-for-Dermatological-Research
+   (ESDR)
+CY SEP 18-21, 2019
+CL Bordeaux, FRANCE
+SP European Soc Dermatol Res
+C1 [Bastonini, E.; Kovacs, D.; Iacovelli, P.; Pacifico, A.; Picardo, M.] IRCCS, San Gallicano Dermatol Inst, Rome, Italy.
+OI Iacovelli, Paolo/0000-0001-8711-4868
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-202X
+EI 1523-1747
+J9 J INVEST DERMATOL
+JI J. Invest. Dermatol.
+PD SEP
+PY 2019
+VL 139
+IS 9
+SU S
+MA 526
+BP S305
+EP S305
+DI 10.1016/j.jid.2019.07.441
+PG 1
+WC Dermatology
+SC Dermatology
+GA IX4MY
+UT WOS:000485661500521
+OA Bronze
+DA 2020-07-08
+ER
+
+PT J
+AU Li, DM
+   Liang, GZ
+   Calderone, R
+   Bellanti, JA
+AF Li, Dongmei
+   Liang, Guanzhao
+   Calderone, Richard
+   Bellanti, Joseph A.
+TI Vitiligo and Hashimoto's thyroiditis: Autoimmune diseases linked by
+   clinical presentation, biochemical commonality, and autoimmune/oxidative
+   stress-mediated toxicity pathogenesis
+SO MEDICAL HYPOTHESES
+LA English
+DT Article
+DE Vitiligo (VL); Hashimoto's thyroiditis (HT); Oxidative stress-mediated
+   toxicity; Quinone; Semiquinone; Hydroquinone; Reactive oxygen species
+   (ROS)
+ID INCREASED PREVALENCE; DISORDERS; DYSFUNCTION; DEFICIENCY; GENERATION;
+   CHILDREN; SKIN
+AB Vitiligo (VL) is a chronic autoimmune pigmentation disorder characterized by destruction of melanocytes. The condition is associated with several other autoimmune diseases, but autoimmune thyroid diseases, especially Hashimoto's thyroiditis (HT), is the most prevalent organ-specific autoimmune disease with a co-morbidity up to 34%. Among the many hypotheses that have been proposed for the pathogenesis of both diseases, autoimmunity and oxidative stress-mediated toxicity in melanocytes or thyrocytes, respectively, have been the most widely accepted with autoimmunity being the presumed consequence of oxidative stress-mediated toxicity. However, the predominant etiologic basis for impairment of redox balance has rarely been studied. The two autoimmune diseases are not only linked by a concordance of clinical presentations and an autoimmune/oxidative stress mediated toxicity pathogenesis but also by an apparent biochemical commonality. The target molecules produced in the thyroid and skin, i.e., thyroxine and melanin, respectively, are derived from the same primordial parent molecule, tyrosine. On the basis of these similarities between Hashimoto's thyroiditis and vitiligo, specifically with respect to the activation of oxidative stress, we propose a novel hypothesis accounting for the destruction of melanocytes or thyrocytes in VL and AT. We suggest a new therapeutic regimen of quinone derivatives to combat ROS-induced autoimmunity resulting from this common biochemical etiologic error.
+C1 [Li, Dongmei; Calderone, Richard; Bellanti, Joseph A.] Georgetown Univ, Med Ctr, Dept Microbiol Immunol, Washington, DC 20057 USA.
+   [Liang, Guanzhao] Chinese Acad Med Sci, Dept Mycol, Inst Dermatol, Nanjing, Jiangsu, Peoples R China.
+   [Liang, Guanzhao] Peking Union Med Coll, Nanjing, Jiangsu, Peoples R China.
+   [Bellanti, Joseph A.] Georgetown Univ, Dept Pediat, Med Ctr, Washington, DC 20057 USA.
+RP Bellanti, JA (corresponding author), Georgetown Univ, Med Ctr, Dept Microbiol Immunol, Washington, DC 20057 USA.
+EM bellantj@georgetown.edu
+CR Bastian TW, 2012, ENDOCRINOLOGY, V153, P5668, DOI 10.1210/en.2012-1067
+   Beard JL, 1998, J NUTR, V128, P1401
+   Birlea SA, 2011, J INVEST DERMATOL, V131, P371, DOI 10.1038/jid.2010.337
+   BOISSY RE, 1991, J INVEST DERMATOL, V97, P395, DOI 10.1111/1523-1747.ep12480976
+   Dalsgaard TK, 2013, J AGR FOOD CHEM, V61, P418, DOI 10.1021/jf303973b
+   Eletto D, 2014, J CELL SCI, V127, P3649, DOI 10.1242/jcs.153643
+   Ezzedine K, 2015, LANCET, V386, P74, DOI 10.1016/S0140-6736(14)60763-7
+   FISHER AA, 1994, CUTIS, V53, P278
+   Frisoli ML, 2017, J ALLERGY CLIN IMMUN, V140, P654, DOI 10.1016/j.jaci.2017.07.011
+   Gill L, 2016, J AM ACAD DERMATOL, V74, P295, DOI 10.1016/j.jaad.2015.08.063
+   Kakourou T, 2005, J AM ACAD DERMATOL, V53, P220, DOI 10.1016/j.jaad.2005.03.032
+   Karvonen SL, 1999, BRIT J DERMATOL, V140, P634
+   Kim H, 2012, ANN DERMATOL, V24, P1, DOI 10.5021/ad.2012.24.1.1
+   Li DM, 2011, EUKARYOT CELL, V10, P672, DOI 10.1128/EC.00303-10
+   Liu SH, 2008, J ENZYM INHIB MED CH, V23, P526, DOI [10.1080/14756360701654894, 10.1080/14756360701654894 ]
+   Loh KC, 2000, POSTGRAD MED J, V76, P133, DOI 10.1136/pmj.76.893.133
+   LOWN JW, 1982, BIOCHEM PHARMACOL, V31, P575
+   Munoz-Munoz JL, 2009, BBA-PROTEINS PROTEOM, V1794, P1017, DOI 10.1016/j.bbapap.2009.04.002
+   MANCINI A, 1989, J ENDOCRINOL INVEST, V12, P511, DOI 10.1007/BF03350748
+   Mancini A, 2011, INT J MOL SCI, V12, P9216, DOI 10.3390/ijms12129216
+   Mano T, 1998, AM J MED SCI, V315, P230, DOI 10.1097/00000441-199804000-00002
+   McLeod DSA, 2012, ENDOCRINE, V42, P252, DOI 10.1007/s12020-012-9703-2
+   Mohammed GF, 2015, WORLD J CLIN CASES, V3, P221, DOI 10.12998/wjcc.v3.i3.221
+   MOHR D, 1992, BIOCHIM BIOPHYS ACTA, V1126, P247, DOI 10.1016/0005-2760(92)90237-P
+   Moncayo R, 2015, BBA CLIN, V3, P44, DOI 10.1016/j.bbacli.2014.11.002
+   OLIVER E. A., 1939, Journal of the American Medical Association, V113, P927
+   Ongenae K, 2006, J EUR ACAD DERMATOL, V20, P1, DOI 10.1111/j.1468-3083.2005.01369.x
+   Ordooei M, 2014, IRAN J PEDIATR HEMAT, V4, P84
+   Park K, 2019, FEBS J, V286, P413, DOI 10.1111/febs.14739
+   Passi S, 1998, PIGM CELL RES, V11, P81, DOI 10.1111/j.1600-0749.1998.tb00714.x
+   PAULING L, 1990, P NATL ACAD SCI USA, V87, P244, DOI 10.1073/pnas.87.1.244
+   PORTER J, 1979, GEN HOSP PSYCHIAT, V1, P73, DOI 10.1016/0163-8343(79)90081-1
+   Rashighi M, 2015, ANN TRANSL MED, V3, DOI 10.3978/j.issn.2305-5839.2015.11.36
+   Tikhomirov AS, 2018, RECENT PAT ANTI-CANC, V13, P159, DOI 10.2174/1574892813666171206123114
+   Toda Shuji, 2011, ISRN Endocrinol, V2011, P275782, DOI 10.5402/2011/275782
+   Turrens JF, 2003, J PHYSIOL-LONDON, V552, P335, DOI 10.1113/jphysiol.2003.049478
+   Vachiramon V, 2017, BIOMED RES INT, V2017, DOI 10.1155/2017/7502935
+   Vavricka CJ, 2010, PROTEIN CELL, V1, P830, DOI 10.1007/s13238-010-0109-8
+   Watanabe N, 2004, METHOD ENZYMOL, V378, P319
+   Weetman AP, 2004, AUTOIMMUNITY, V37, P337, DOI 10.1080/08916930410001705394
+   Wu SW, 2015, PIGM CELL MELANOMA R, V28, P744, DOI 10.1111/pcmr.12402
+NR 41
+TC 1
+Z9 1
+U1 0
+U2 5
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0306-9877
+EI 1532-2777
+J9 MED HYPOTHESES
+JI Med. Hypotheses
+PD JUL
+PY 2019
+VL 128
+BP 69
+EP 75
+DI 10.1016/j.mehy.2019.05.010
+PG 7
+WC Medicine, Research & Experimental
+SC Research & Experimental Medicine
+GA IF8WS
+UT WOS:000473374600015
+PM 31203913
+DA 2020-07-08
+ER
+
+PT J
+AU Gurpinar, A
+   Gunaydin, SD
+   Kilic, C
+   Karaduman, A
+AF Gurpinar, Ahmet
+   Gunaydin, Sibel Dogan
+   Kilic, Cengiz
+   Karaduman, Aysen
+TI Association of serum cortisol and dehydroepiandrosterone sulfate (DHEAS)
+   levels with psychological stress in patients with vitiligo
+SO TURKISH JOURNAL OF MEDICAL SCIENCES
+LA English
+DT Article
+DE Vitiligo; stress; cortisol; dehydroepiandrosterone sulfate
+ID OXIDATIVE STRESS; LIFE EVENTS
+AB Background/aim: Vitiligo is a depigmentation disorder that leads to serious psychological burden in patients, who are frequently reported to have depression and anxiety. The aim of this study was to investigate the association between stress-related hormone levels and psychological stress in vitiligo.
+   Materials and methods: In this study 46 vitiligo patients and 46 controls were enrolled; their cortisol, dehydroepiandrosterone sulfate (DHEAS), and cortisol/DHEAS levels were measured. Psychological burden was assessed by the Beck Depression Inventory and Perceived Stress Scale.
+   Results: Patients and controls did not differ in terms of cortisol, DHEAS, or cortisol/DHEAS. Patients had higher perceived stress than controls but did not differ in terms of depression scores. Correlation analyses revealed that cortisol/DHEAS correlated positively with perceived stress (P = 0.009, r = 0.272). The correlation between cortisol/DHEAS and perceived stress was stronger in the patient group (P = 0.013, r = 0.363) and close to zero among controls. In regression analyses, lower depression and higher perceived stress were shown to predict cortisol/DHEAS values.
+   Conclusion: Vitiligo patients significantly differed from the healthy population in terms of hormones and psychological distress. There was also an association between perceived stress and cortisol/DHEAS ratio in vitiligo. Abnormality of hormonal response to distress lowers DHEAS, which is known for its antioxidant properties, a possible mechanism for vitiligo development. Another important finding is the significance of using the composite variable cortisol/DHEAS, which seems to be more sensitive to distress than each of its components. We suggest its use in future studies on psychological distress-hormone relationships.
+C1 [Gurpinar, Ahmet; Gunaydin, Sibel Dogan; Karaduman, Aysen] Hacettepe Univ, Fac Med, Dept Dermatol & Venereol, Ankara, Turkey.
+   [Kilic, Cengiz] Hacettepe Univ, Fac Med, Dept Psychiat, Ankara, Turkey.
+RP Gunaydin, SD (corresponding author), Hacettepe Univ, Fac Med, Dept Dermatol & Venereol, Ankara, Turkey.
+EM sibel.dogan@hacettepe.edu.tr
+OI Dogan, Sibel/0000-0002-5383-6886; Kilic, Cengiz/0000-0002-9270-8625
+FU Hacettepe University Scientific Investigations Unit
+FX The Hacettepe University Scientific Investigations Unit funded this
+   study.
+CR BECK AT, 1961, ARCH GEN PSYCHIAT, V4, P561, DOI 10.1001/archpsyc.1961.01710120031004
+   COHEN S, 1983, J HEALTH SOC BEHAV, V24, P385, DOI 10.2307/2136404
+   Camporez JPG, 2011, J PHYSIOL-LONDON, V589, P2585, DOI 10.1113/jphysiol.2011.206078
+   Iannella G, 2016, AUTOIMMUN REV, V15, P335, DOI 10.1016/j.autrev.2015.12.006
+   Jia CS, 2011, J TRACE ELEM MED BIO, V25, P154, DOI 10.1016/j.jtemb.2011.04.001
+   Kamin HS, 2017, HORM BEHAV, V89, P69, DOI 10.1016/j.yhbeh.2016.11.018
+   Manolache L, 2007, J EUR ACAD DERMATOL, V21, P921, DOI 10.1111/j.1468-3083.2006.02106.x
+   Papadopoulos L, 1998, CLIN EXP DERMATOL, V23, P243
+   Picardi A, 2003, PSYCHOTHER PSYCHOSOM, V72, P150, DOI 10.1159/000069731
+   Schallreuter KU, 1999, J INVEST DERM SYMP P, V4, P91, DOI 10.1038/sj.jidsp.5640189
+   Wolkowitz O M, 2001, World J Biol Psychiatry, V2, P115
+NR 11
+TC 2
+Z9 2
+U1 0
+U2 0
+PU TUBITAK SCIENTIFIC & TECHNICAL RESEARCH COUNCIL TURKEY
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, ANKARA, 00000, TURKEY
+SN 1300-0144
+EI 1303-6165
+J9 TURK J MED SCI
+JI Turk. J. Med. Sci.
+PY 2019
+VL 49
+IS 3
+BP 832
+EP 837
+DI 10.3906/sag-1812-84
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA ID7ZT
+UT WOS:000471902200020
+PM 31203593
+OA Bronze, Green Published
+DA 2020-07-08
+ER
+
+PT J
+AU Raam, L
+   Kaleviste, E
+   Sunina, M
+   Vaher, H
+   Saare, M
+   Prans, E
+   Pihlap, M
+   Abram, K
+   Karelson, M
+   Peterson, P
+   Rebane, A
+   Kisand, K
+   Kingo, K
+AF Raam, Liisi
+   Kaleviste, Epp
+   Sunina, Marina
+   Vaher, Helen
+   Saare, Mario
+   Prans, Ele
+   Pihlap, Maire
+   Abram, Kristi
+   Karelson, Maire
+   Peterson, Part
+   Rebane, Ana
+   Kisand, Kai
+   Kingo, Kulli
+TI Lymphoid Stress Surveillance Response Contributes to Vitiligo
+   Pathogenesis
+SO FRONTIERS IN IMMUNOLOGY
+LA English
+DT Article
+DE vitiligo; interferons; MICA/MICB; WIPH; LC3; EOMES; B cells; autophagy
+ID COLONY-STIMULATING FACTOR; MESSENGER-RNA EXPRESSION; BLOOD
+   MONONUCLEAR-CELLS; CD8(+) T-CELLS; GENERALIZED VITILIGO; SEGMENTAL
+   VITILIGO; DISEASE-ACTIVITY; GENE-EXPRESSION; LESIONAL SKIN; MELANOCYTES
+AB Vitiligo is a chronic multifactorial depigmentation disorder characterized by the destruction and functional loss of melanocytes. Although a direct cytotoxic T cell attack is thought to be responsible for melanocyte damage, the events leading to the loss of self-tolerance toward melanocytic antigens are not understood. This research aimed to identify novel cellular and molecular factors that participate in vitiligo pathogenesis through the application of gene expression and immunofluorescence analysis of skin biopsy samples along with immunophenotyping of circulating cells. Our study provides insights into the mechanisms involved in melanocyte destruction. The upregulation of stress-ligand MICA/MICB, recognized by activating receptors on innate and innate-like T cells, imply involvement of lymphoid stress surveillance responses in vitiligo lesions. A simultaneous increase in the expression of transcription factor EOMES that is characteristic for innate-like virtual memory T cells, suggest a similar scenario. Local lymphoid stress surveillance has been previously associated with the amplification of systemic humoral responses that were mirrored in our study by increased T follicular helper cells and switched memory B cell proportions in patients with active vitiligo. In addition, microtubule-associated protein light chain 3 staining was compatible with the activation of autophagy in keratinocytes and in the remaining melanocytes of vitiligo lesional skin.
+C1 [Raam, Liisi; Abram, Kristi; Karelson, Maire; Kingo, Kulli] Univ Tartu, Dept Dermatol, Tartu, Estonia.
+   [Raam, Liisi; Abram, Kristi; Karelson, Maire; Kingo, Kulli] Tartu Univ Hosp, Dermatol Clin, Tartu, Estonia.
+   [Kaleviste, Epp; Sunina, Marina; Vaher, Helen; Saare, Mario; Prans, Ele; Pihlap, Maire; Peterson, Part; Rebane, Ana; Kisand, Kai] Univ Tartu, Inst Biomed & Translat Med, Tartu, Estonia.
+RP Kingo, K (corresponding author), Univ Tartu, Dept Dermatol, Tartu, Estonia.; Kingo, K (corresponding author), Tartu Univ Hosp, Dermatol Clin, Tartu, Estonia.; Kisand, K (corresponding author), Univ Tartu, Inst Biomed & Translat Med, Tartu, Estonia.
+EM kai.kisand@ut.ee; Kylli.Kingo@kliinikum.ee
+RI Rebane, Ana/D-4279-2013; Peterson, Part/A-5788-2009; Kisand,
+   Kai/J-3483-2015; Saare, Mario/F-1986-2011; Kingo, Kulli/H-3603-2012
+OI Rebane, Ana/0000-0001-6051-1361; Peterson, Part/0000-0001-6755-791X;
+   Kisand, Kai/0000-0002-5426-4648; Saare, Mario/0000-0003-3372-7700;
+   Vaher, Helen/0000-0002-8845-0326
+FU European Union through the European Regional Development FundEuropean
+   Union (EU) [2012-2015.3.2.0701.12-0049, 2014-2020.4.01.15-0012];
+   Estonian Research Council [IUT 2-2];  [PUT1367];  [PUT177];  [PUT1465]; 
+   [PUT1669]
+FX The research was funded by the European Union through the European
+   Regional Development Fund (Project No. 2012-2015.3.2.0701.12-0049 and
+   2014-2020.4.01.15-0012), by Estonian Research Council grant IUT 2-2, and
+   by personal research grant PUT1367, PUT177, PUT1465 and PUT1669. We
+   thank Prof. Annamari Ranki for critical reading of the manuscript and
+   valuable comments.
+CR Akinduro O, 2016, J INVEST DERMATOL, V136, P1460, DOI 10.1016/j.jid.2016.03.016
+   Arya V, 2010, CASE REP DERMATOL, V2, P156, DOI 10.1159/000320207
+   Barbarin A, 2017, FRONT IMMUNOL, V8, DOI 10.3389/fimmu.2017.00316
+   Bertolotti A, 2014, PIGM CELL MELANOMA R, V27, P398, DOI 10.1111/pcmr.12219
+   Boniface K, 2018, J INVEST DERMATOL, V138, P355, DOI 10.1016/j.jid.2017.08.038
+   Boniface K, 2018, CLIN REV ALLERG IMMU, V54, P52, DOI 10.1007/s12016-017-8622-7
+   Cheuk S, 2017, IMMUNITY, V46, P287, DOI 10.1016/j.immuni.2017.01.009
+   Crampton SP, 2012, J IMMUNOL, V188, P1451, DOI 10.4049/jimmunol.1102705
+   Dahir AM, 2018, INT J DERMATOL, V57, P1157, DOI 10.1111/ijd.14055
+   Ezzedine K, 2015, LANCET, V386, P74, DOI 10.1016/S0140-6736(14)60763-7
+   Geissmann F, 1998, J EXP MED, V187, P961, DOI 10.1084/jem.187.6.961
+   Ghadially H, 2017, BRIT J CANCER, V116, P1208, DOI 10.1038/bjc.2017.79
+   Grimes PE, 2004, J AM ACAD DERMATOL, V51, P52, DOI 10.1016/j.jaad.2003.12.031
+   Hamilton JA, 2017, NAT REV DRUG DISCOV, V16, P53, DOI 10.1038/nrd.2016.231
+   HARNING R, 1991, J INVEST DERMATOL, V97, P1078, DOI 10.1111/1523-1747.ep12492607
+   Hartlova A, 2015, IMMUNITY, V42, P332, DOI 10.1016/j.immuni.2015.01.012
+   Ho HA, 2011, J BIOL CHEM, V286, DOI 10.1074/jbc.M110.200543
+   Jacquemin C, 2017, BRIT J DERMATOL, V177, P1367, DOI 10.1111/bjd.15550
+   Jeong TJ, 2010, EXP DERMATOL, V19, pE323, DOI 10.1111/j.1600-0625.2009.01039.x
+   Jian Z, 2014, J INVEST DERMATOL, V134, P2221, DOI 10.1038/jid.2014.152
+   Jin Y, 2016, NAT GENET, V48, P1418, DOI 10.1038/ng.3680
+   Kemp EH, 2007, AUTOIMMUN REV, V6, P138, DOI 10.1016/j.autrev.2006.09.010
+   Kovacs D, 2018, J INVEST DERMATOL, V138, P394, DOI 10.1016/j.jid.2017.06.033
+   LePoole IC, 1996, AM J PATHOL, V148, P1219
+   Li SL, 2017, J ALLERGY CLIN IMMUN, V140, P177, DOI 10.1016/j.jaci.2016.10.013
+   Martinet V, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms8089
+   Mohan GC, 2015, JAMA DERMATOL, V151, P522, DOI 10.1001/jamadermatol.2014.3324
+   Moll HP, 2011, CYTOKINE, V53, P52, DOI 10.1016/j.cyto.2010.09.006
+   Moretti S, 2002, PIGM CELL RES, V15, P87, DOI 10.1034/j.1600-0749.2002.1o049.x
+   Moretti S, 2009, HISTOL HISTOPATHOL, V24, P849, DOI 10.14670/HH-24.849
+   Ratsep R, 2008, BRIT J DERMATOL, V159, P1275, DOI 10.1111/j.1365-2133.2008.08785.x
+   Rashighi M, 2014, SCI TRANSL MED, V6, DOI 10.1126/scitranslmed.3007811
+   Reemann P, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0115717
+   Regazzetti C, 2015, J INVEST DERMATOL, V135, P3105, DOI 10.1038/jid.2015.335
+   Reimann E, 2012, HUM IMMUNOL, V73, P393, DOI 10.1016/j.humimm.2012.01.011
+   Richmond JM, 2018, SCI TRANSL MED, V10, DOI 10.1126/scitranslmed.aam7710
+   Richmond JM, 2017, J INVEST DERMATOL, V137, P350, DOI 10.1016/j.jid.2016.09.016
+   Sandoval-Cruz M, 2011, AUTOIMMUN REV, V10, P762, DOI 10.1016/j.autrev.2011.02.004
+   Schindelin J, 2012, NAT METHODS, V9, P676, DOI [10.1038/NMETH.2019, 10.1038/nmeth.2019]
+   Shafi S, 2011, SCI TRANSL MED, V3, DOI 10.1126/scitranslmed.3002922
+   Silverberg JI, 2013, JAMA DERMATOL, V149, P159, DOI 10.1001/jamadermatol.2013.927
+   Singh A, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-10253-w
+   Strassner JP, 2017, J AM ACAD DERMATOL, V76, P847, DOI 10.1016/j.jaad.2016.12.021
+   Strid J, 2011, SCIENCE, V334, P1293, DOI 10.1126/science.1211250
+   Tembhre MK, 2015, BRIT J DERMATOL, V172, P940, DOI 10.1111/bjd.13511
+   Tobin DJ, 2000, J PATHOL, V191, P407
+   van den Boorn JG, 2009, J INVEST DERMATOL, V129, P2220, DOI 10.1038/jid.2009.32
+   Wang P, 2016, J DERMATOL SCI, V84, P40, DOI 10.1016/j.jdermsci.2016.07.006
+   Wang XX, 2016, BRIT J DERMATOL, V174, P1318, DOI 10.1111/bjd.14416
+   Xie H, 2016, J DERMATOL SCI, V81, P3, DOI 10.1016/j.jdermsci.2015.09.003
+   Yu R, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0051040
+   Yu T, 2015, J MOL MED, V93, P31, DOI 10.1007/s00109-014-1225-3
+   Yun WJ, 2016, SCI REP-UK, V6, DOI 10.1038/srep19914
+   Zhang CF, 2015, J INVEST DERMATOL, V135, P1348, DOI 10.1038/jid.2014.439
+   Zhou XJ, 2012, AUTOPHAGY, V8, P1286, DOI 10.4161/auto.21212
+NR 55
+TC 1
+Z9 1
+U1 0
+U2 5
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-3224
+J9 FRONT IMMUNOL
+JI Front. Immunol.
+PD NOV 20
+PY 2018
+VL 9
+AR 2707
+DI 10.3389/fimmu.2018.02707
+PG 11
+WC Immunology
+SC Immunology
+GA HB0GU
+UT WOS:000450692000001
+PM 30515176
+OA DOAJ Gold, Green Published
+DA 2020-07-08
+ER
+
+PT J
+AU Bastonini, E
+   Kovacs, D
+   Filoni, A
+   Iacovelli, P
+   Leone, G
+   Picardo, M
+AF Bastonini, E.
+   Kovacs, D.
+   Filoni, A.
+   Iacovelli, P.
+   Leone, G.
+   Picardo, M.
+TI Stress-induced autophagy in vitiligo
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+LA English
+DT Meeting Abstract
+CT International Investigative Dermatology (IID) Meeting
+CY MAY 16-19, 2018
+CL Orlando, FL
+SP European Soc Dermatol Res, Japanese Soc Investigat Dermatol, Soc Investigat Dermatol
+C1 [Bastonini, E.; Kovacs, D.; Filoni, A.; Iacovelli, P.; Leone, G.; Picardo, M.] San Gallicano Dermatol Inst, Rome, Italy.
+OI Iacovelli, Paolo/0000-0001-8711-4868
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0022-202X
+EI 1523-1747
+J9 J INVEST DERMATOL
+JI J. Invest. Dermatol.
+PD SEP
+PY 2018
+VL 138
+IS 9
+MA LB1594
+BP B21
+EP B21
+DI 10.1016/j.jid.2018.06.133
+PG 1
+WC Dermatology
+SC Dermatology
+GA GR1WC
+UT WOS:000442343300121
+OA Bronze
+DA 2020-07-08
+ER
+
+PT J
+AU Patel, S
+   Rauf, A
+   Khan, H
+   Meher, BR
+   ul Hassan, SS
+AF Patel, Seema
+   Rauf, Abdur
+   Khan, Haroon
+   Meher, Biswa Ranjan
+   ul Hassan, Syed Shams
+TI A holistic review on the autoimmune disease vitiligo with emphasis on
+   the causal factors
+SO BIOMEDICINE & PHARMACOTHERAPY
+LA English
+DT Review
+DE Vitiligo; Autoimmune disease; Melanin loss; Thyroid gland; Tyrosine
+ID GENERALIZED VITILIGO; OXIDATIVE STRESS; SUBSTRATE-INHIBITION;
+   SUSCEPTIBILITY GENE; SEGMENTAL VITILIGO; THYROID-DISEASE; DNA-DAMAGE;
+   L-TYROSINE; NB-UVB; SKIN
+AB Vitiligo is an idiopathic systemic autoimmune disease affecting skin, hair and oral mucosa. This genetic yet acquired disease characterized by melanin loss is a cause of morbidity across all races. Though thyroid disturbance has been recognized as a key trigger of this pathology, an array of other factors plays critical role in its manifestation. Multiple hormones (corticotropin-releasing hormone, adrenocorticotropic hormone, a-melanocyte-stimulating hormone, melatonin, calcitriol, testosterone, estrogen), genes (Human leukocyte antigen (HLA), Cytotoxic T lymphocyte-associated antigen 4 (CTLA-4), Forkhead box D3 (FOXD3), Cluster of differentiation 117 (CD117), Estrogen receptor (ESR) 1, Cyclooxygenase-2 (COX2), Vitiligo-associated protein 1 (VIT1)), and lifestyle choices (stress, diet, cosmetic products, and medications) have been suspected as drivers of this disorder. The pathological mechanisms have been understood in recent times, with the aid of genomic studies; however a universally-effective therapy is yet to be achieved. This review discusses these under-investigated facets of vitiligo onset and progression; hence, it is expected to enrich vitiligo research. (C) 2017 Elsevier Masson SAS. All rights reserved.
+C1 [Patel, Seema] San Diego State Univ, Bioinformat & Med Informat Res Ctr, 5500 Campanile Dr, San Diego, CA 92182 USA.
+   [Rauf, Abdur] Univ Swabi, Dept Chem, Anbar 23561, Kpk, Pakistan.
+   [Khan, Haroon] Abdul Wali Khan Univ, Dept Pharm, Mardan 23200, Pakistan.
+   [Meher, Biswa Ranjan] Cent Univ Jharkhand, Ctr Life Sci, Ranchi 835205, Jharkhand, India.
+   [ul Hassan, Syed Shams] Zhejiang Univ, Ocean Coll, Dept Marine Chem & Nat Prod, Hangzhou 310058, Zhejiang, Peoples R China.
+RP Patel, S (corresponding author), San Diego State Univ, Bioinformat & Med Informat Res Ctr, 5500 Campanile Dr, San Diego, CA 92182 USA.; Rauf, A (corresponding author), Univ Swabi, Dept Chem, Anbar 23561, Kpk, Pakistan.
+EM seemabiotech83@gmail.com; mashaljcs@yahoo.com
+RI Rauf, Abdur/G-3304-2013; Hassan, Syed Shams ul/I-5382-2019
+OI Rauf, Abdur/0000-0003-2429-5491; Hassan, Syed Shams
+   ul/0000-0001-5188-6540; Khan, Prof. Dr. Haroon/0000-0002-1736-4404
+CR Abraham A, 2014, INDIAN J DERMATOL, V59, P456, DOI 10.4103/0019-5154.139872
+   Adebamowo CA, 2008, J AM ACAD DERMATOL, V58, P787, DOI 10.1016/j.jaad.2007.08.049
+   Ahad Farhana, 2010, Indian J Endocrinol Metab, V14, P13
+   Ahmadieh H, 2013, BIOMED RES INT, DOI 10.1155/2013/725410
+   Al-Shobaili HA, 2011, INT J HEALTH SCI-IJH, V5, P167
+   Alberts B., 2002, SIGNALING G PROTEIN
+   Alkhateeb A, 2003, PIGM CELL RES, V16, P208, DOI 10.1034/j.1600-0749.2003.00032.x
+   Artantas G. S., SKIN FINDINGS THYROI
+   Bagherani Nooshin, 2011, Indian J Dermatol, V56, P480, DOI 10.4103/0019-5154.87116
+   Bahrami Z, 2009, HORM METAB RES, V41, P762, DOI 10.1055/s-0029-1225629
+   Balgir RS, 2013, MEDITERR J HEMATOL I, V5, DOI 10.4084/MJHID.2013.063
+   Birlea SA, 2008, ARCH DERMATOL, V144, P310, DOI 10.1001/archderm.144.3.310
+   Brenner Michaela, 2008, Drug Discov Today Dis Mech, V5, pe189, DOI 10.1016/j.ddmec.2008.02.001
+   Bulfer SL, 2010, J BIOL CHEM, V285, P10446, DOI 10.1074/jbc.M109.094383
+   Burton RL, 2007, J BIOL CHEM, V282, P31517, DOI 10.1074/jbc.M704032200
+   Camacho Francisco, 2002, J Drugs Dermatol, V1, P127
+   Carlson JA, 2007, DERMATOL CLIN, V25, P541, DOI 10.1016/j.det.2007.06.005
+   Castro-Ferreira R, 2011, ARQ BRAS CARDIOL, V96, P332, DOI 10.1590/S0066-782X2011005000023
+   Ch'ng CL, 2007, CLIN MED RES, V5, P184, DOI 10.3121/cmr.2007.738
+   Chen CH, 2014, PHYSIOL REV, V94, P1, DOI 10.1152/physrev.00017.2013
+   Cichorek M, 2013, POSTEP DERM ALERGOL, V30, P30, DOI 10.5114/pdia.2013.33376
+   Cohen BE, 2015, AM J CLIN DERMATOL, V16, P463, DOI 10.1007/s40257-015-0153-5
+   Coondoo Arijit, 2014, Indian Dermatol Online J, V5, P416, DOI 10.4103/2229-5178.142483
+   Cooper G.M., 2000, CENTRAL ROLE ENZYMES
+   Cooper GS, 2009, J AUTOIMMUN, V33, P197, DOI 10.1016/j.jaut.2009.09.008
+   Czajkowski R, 2014, POSTEP DERM ALERGOL, V31, P247, DOI 10.5114/pdia.2014.43497
+   de Barros JC, 2014, INT J DERMATOL, V53, P842, DOI 10.1111/ijd.12055
+   Dell'Angelica EC, 2000, FASEB J, V14, P1265, DOI 10.1096/fj.14.10.1265
+   Di Nuzzo S, 2010, CLIN EXP DERMATOL, V35, P215, DOI 10.1111/j.1365-2230.2009.03412.x
+   Donelan J, 2006, P NATL ACAD SCI USA, V103, P7759, DOI 10.1073/pnas.0602210103
+   Doshi Bhavana, 2013, Indian J Dermatol, V58, P396, DOI 10.4103/0019-5154.117323
+   Dudda M, 2013, RECENT PATENTS INFLA, V7, P176, DOI 10.2174/1872213X11307020009
+   Ebanks JP, 2009, INT J MOL SCI, V10, P4066, DOI 10.3390/ijms10094066
+   Ezzedine K, 2012, PIGM CELL MELANOMA R, V25, pE1, DOI 10.1111/j.1755-148X.2012.00997.x
+   Falabella Rafael, 2009, Indian J Dermatol, V54, P313, DOI 10.4103/0019-5154.57604
+   Fernstrom JD, 2007, J NUTR, V137, p1539S, DOI 10.1093/jn/137.6.1539S
+   Fischer TW, 2008, EXP DERMATOL, V17, P713, DOI 10.1111/j.1600-0625.2008.00767.x
+   Gallo-Payet N, 2016, J MOL ENDOCRINOL, V56, pT135, DOI 10.1530/JME-15-0257
+   Gessl Alois, 2012, Handb Exp Pharmacol, P361, DOI 10.1007/978-3-642-30726-3_17
+   Guerra L, 2010, CURR DRUG METAB, V11, P451, DOI 10.2174/138920010791526105
+   Hossain C, 2016, J DRUGS DERMATOL, V15, P384
+   Hossani-Madani AR, 2010, GIORN ITAL DERMAT V, V145, P57
+   Ismail SA, 2014, J DERMATOL TREAT, V25, P205, DOI 10.3109/09546634.2012.762638
+   Jin Y, 2010, J INVEST DERMATOL, V130, P774, DOI 10.1038/jid.2009.273
+   Julius D, 2012, CSH PERSPECT BIOL, V4, DOI 10.1101/cshperspect.a005991
+   Kandaswamy Shakthisri, 2013, Indian J Dermatol, V58, P325, DOI 10.4103/0019-5154.113944
+   Kang HY, 2010, ANN DERMATOL, V22, P373, DOI 10.5021/ad.2010.22.4.373
+   Kanwar Amrinder Jit, 2012, Indian J Dermatol, V57, P466, DOI 10.4103/0019-5154.103067
+   Kazakevich Natalia, 2011, Skin Therapy Lett, V16, P5
+   Khandalavala BN, 2014, CASE REP DERMATOL, V6, P283, DOI 10.1159/000370303
+   Kose O, 2016, J PERIODONTOL, V87, pE82, DOI 10.1902/jop.2016.150541
+   Kroon MW, 2013, J EUR ACAD DERMATOL, V27, P1172, DOI 10.1111/j.1468-3083.2012.04501.x
+   Kumar KVSH, 2012, ENDOCR PRACT, V18, P194, DOI 10.4158/EP11205.OR
+   Kumar P, 2010, J ADV PHARM TECHNOL, V1, P297, DOI 10.4103/0110-5558.72420
+   Laberge G, 2005, PIGM CELL RES, V18, P300, DOI 10.1111/j.1600-0749.2005.00242.x
+   Lachenmeier DW, 2008, J OCCUP MED TOXICOL, V3, DOI 10.1186/1745-6673-3-26
+   Lee N. J., 2008, DRUG CLASS REV TOPIC
+   Lee N. J., 2017, DRUG CLASS REV TOPIC
+   Lotti T, 2008, DERMATOL THER, V21, pS20, DOI 10.1111/j.1529-8019.2008.00198.x
+   Lynn DD, 2016, ADOLESC HEALTH MED T, V7, P13, DOI 10.2147/AHMT.S55832
+   Matin R., 2008, BMJ CLIN EVID, V2008
+   McKenzie Shireen N, 2011, JRSM Short Rep, V2, P68, DOI 10.1258/shorts.2011.011034
+   Meyer G, 2002, J ENDOCRINOL INVEST, V25, P804, DOI 10.1007/BF03345516
+   Miniati A, 2012, INT J IMMUNOPATH PH, V25, P1
+   Miot F., 2017, THYROID HORMONE SYNT
+   Miot F., 2000, THYROID HORMONE SYNT
+   Molnar GA, 2016, CURR MED CHEM, V23, P667, DOI 10.2174/0929867323666160119094516
+   Moreira CG, 2015, J ETHNOPHARMACOL, V168, P315, DOI 10.1016/j.jep.2015.03.080
+   Namazi MR, 2009, INDIAN J DERMATOL VE, V75, P116, DOI 10.4103/0378-6323.48654
+   Natale CA, 2016, ELIFE, V5, DOI 10.7554/eLife.15104
+   Nath SK, 2001, AM J HUM GENET, V69, P1401, DOI 10.1086/324470
+   Nestor Mark, 2014, J Clin Aesthet Dermatol, V7, P13
+   Niederlander N, 2004, EUR J BIOCHEM, V271, P4572, DOI 10.1111/j.1432-1033.2004.04429.x
+   Pandve Harsarl T, 2008, Indian J Dermatol, V53, P40, DOI 10.4103/0019-5154.39745
+   Park JH, 2014, ANN DERMATOL, V26, P61, DOI 10.5021/ad.2014.26.1.61
+   Petersen AB, 2004, MUTAT RES-GEN TOX EN, V560, P173, DOI 10.1016/j.mrgentox.2004.03.002
+   Ponting CP, 1999, NUCLEIC ACIDS RES, V27, P229, DOI 10.1093/nar/27.1.229
+   Prakash Preeti, 2013, Indian Dermatol Online J, V4, P250, DOI 10.4103/2229-5178.115539
+   Prindaville B, 2011, INT J PEDIATR ENDOCR, DOI 10.1186/1687-9856-2011-18
+   Puri Neerja, 2012, Indian J Dermatol, V57, P247, DOI 10.4103/0019-5154.96227
+   Rajatanavin N, 2008, INT J DERMATOL, V47, P402, DOI 10.1111/j.1365-4632.2008.03356.x
+   Rao T S Sathyanarayana, 2008, Indian J Psychiatry, V50, P77, DOI 10.4103/0019-5545.42391
+   Reed MC, 2010, BIOESSAYS, V32, P422, DOI 10.1002/bies.200900167
+   Risbrough VB, 2006, HORM BEHAV, V50, P550, DOI 10.1016/j.yhbeh.2006.06.019
+   Rogosic V, 2010, ACTA DERMATOVENER CR, V18, P21
+   Rordam Ole Martin, 2012, J Clin Aesthet Dermatol, V5, P36
+   Rousseau K, 2007, FASEB J, V21, P1844, DOI 10.1096/fj.06-7398com
+   Saraceno R, 2009, DERMATOL THER, V22, P391, DOI 10.1111/j.1529-8019.2009.01252.x
+   Sarveswari K N, 2010, Indian J Dermatol, V55, P211, DOI 10.4103/0019-5154.70663
+   Schallreuter KU, 2013, FASEB J, V27, P3113, DOI 10.1096/fj.12-226779
+   Schlumpf M, 2010, DERM-ENDOCRINOL, V2, P19, DOI 10.4161/derm.2.1.12016
+   Sendur N, 2006, J DERMATOL TREAT, V17, P338, DOI 10.1080/09546630601028711
+   Shahmoradi Z, 2013, INT J PREVENTIVE MED, V4, P200
+   Shin JW, 2010, ANN DERMATOL, V22, P279, DOI 10.5021/ad.2010.22.3.279
+   Silverberg JI, 2015, CUTIS, V95, P255
+   Singh AK, 2010, J PLAST RECONSTR AES, V63, P988, DOI 10.1016/j.bjps.2009.03.013
+   Slominski A, 2008, TRENDS ENDOCRIN MET, V19, P17, DOI 10.1016/j.tem.2007.10.007
+   Slominski A, 2012, PIGM CELL MELANOMA R, V25, P14, DOI 10.1111/j.1755-148X.2011.00898.x
+   Slominski RM, 2012, MOL CELL ENDOCRINOL, V351, P152, DOI 10.1016/j.mce.2012.01.004
+   Smith AG, 2010, J INVEST DERMATOL, V130, P643, DOI 10.1038/jid.2009.403
+   Smith Sean M, 2006, Dialogues Clin Neurosci, V8, P383
+   Song TR, 2016, MEDICINE, V95, DOI 10.1097/MD.0000000000003173
+   Spritz RA, 2011, J GENET GENOMICS, V38, P271, DOI 10.1016/j.jgg.2011.05.005
+   Spritz RA, 2010, THYROID, V20, P745, DOI 10.1089/thy.2010.1643
+   Stanimirovic A, 2016, DERMATOL THER, V29, P312, DOI 10.1111/dth.12363
+   Sukan M, 2007, J SEX MARITAL THER, V33, P55, DOI 10.1080/00926230600998482
+   Szczurko O, 2011, BMC COMPLEM ALTERN M, V11, DOI 10.1186/1472-6882-11-21
+   TROMBITAS K, 1995, CIRC RES, V77, P856, DOI 10.1161/01.RES.77.4.856
+   Van Driessche F, 2015, PEDIATR DRUGS, V17, P303, DOI 10.1007/s40272-015-0135-3
+   VEDALDI D, 1988, FARMACO, V43, P333
+   Verma Indu, 2012, Int J Appl Basic Med Res, V2, P17, DOI 10.4103/2229-516X.96795
+   Vikhlyantsev IM, 2012, BIOCHEMISTRY-MOSCOW+, V77, P1515, DOI 10.1134/S0006297912130093
+   Wang SQ, 2015, EXP DERMATOL, V24, P298, DOI 10.1111/exd.12621
+   Wang ZH, 2012, NEURAL REGEN RES, V7, P1413, DOI 10.3969/j.issn.1673-5374.2012.18.008
+   Wassef C, 2013, J DRUGS DERMATOL, V12, P685
+   Williams HJ, 2007, SCHIZOPHRENIA BULL, V33, P635, DOI 10.1093/schbul/sbm019
+   Wong R, 2013, INT J DERMATOL, V52, P491, DOI 10.1111/j.1365-4632.2012.05697.x
+   Xie H, 2016, J DERMATOL SCI, V81, P3, DOI 10.1016/j.jdermsci.2015.09.003
+   Yaghoobi R, 2011, J DERMATOL, V38, P419, DOI 10.1111/j.1346-8138.2010.01139.x
+   Yamamoto H, 2015, SCI REP-UK, V5, DOI 10.1038/srep14579
+   Yee C, 2000, J EXP MED, V192, P1637, DOI 10.1084/jem.192.11.1637
+   Zhang Z, 2009, ARCH DERMATOL RES, V301, P167, DOI 10.1007/s00403-008-0900-z
+NR 122
+TC 10
+Z9 11
+U1 0
+U2 14
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0753-3322
+EI 1950-6007
+J9 BIOMED PHARMACOTHER
+JI Biomed. Pharmacother.
+PD AUG
+PY 2017
+VL 92
+BP 501
+EP 508
+DI 10.1016/j.biopha.2017.05.095
+PG 8
+WC Medicine, Research & Experimental; Pharmacology & Pharmacy
+SC Research & Experimental Medicine; Pharmacology & Pharmacy
+GA FE0MY
+UT WOS:000407915600058
+PM 28575807
+DA 2020-07-08
+ER
+
+PT J
+AU Grimes, PE
+   Nashawati, R
+AF Grimes, Pearl E.
+   Nashawati, Rama
+TI The Role of Diet and Supplements in Vitiligo Management
+SO DERMATOLOGIC CLINICS
+LA English
+DT Article
+DE Vitiligo; Autoimmune disease; Oxidative stress; Vitamin D; Vitamins;
+   Polypodium leucotomos; Ginkgo biloba; EGCG
+ID POLYPODIUM-LEUCOTOMOS EXTRACT; NARROW-BAND-UVB; AUTOIMMUNE-DISEASES;
+   FOLIC-ACID; VITAMIN-E; MELANOCYTE PROLIFERATION; CLINICAL-TRIAL;
+   GINKGO-BILOBA; PIPERINE; ANTIOXIDANTS
+AB Vitiligo is an autoimmune disorder that involves the interplay between oxidative stress and the immune system. Preliminary observations suggest that the presence of gluten in the diet may play a role in vitiligo development in some patients, but to date vitiligo-specific diets have not been studied. The role of oral supplements, including vitamins, minerals, and botanicals, is increasingly being investigated as adjuncts to conventional medical treatment due to their antioxidant and immunomodulatory activity. Studies suggest that many of these agents may have some efficacy as monotherapy, but more often as adjuncts to topical agents and phototherapy.
+C1 [Grimes, Pearl E.] Univ Calif Los Angeles, Div Dermatol, Vitiligo & Pigmentat Inst Southern Calif, David Geffen Sch Med, 10833 Le Conte Ave, Los Angeles, CA 90095 USA.
+   [Grimes, Pearl E.; Nashawati, Rama] Vitiligo & Pigmentat Inst Southern Calif, 5670 Wilshire Blvd,650, Los Angeles, CA 90036 USA.
+RP Grimes, PE (corresponding author), Univ Calif Los Angeles, Div Dermatol, Vitiligo & Pigmentat Inst Southern Calif, David Geffen Sch Med, 10833 Le Conte Ave, Los Angeles, CA 90095 USA.; Grimes, PE (corresponding author), Vitiligo & Pigmentat Inst Southern Calif, 5670 Wilshire Blvd,650, Los Angeles, CA 90036 USA.
+EM pegrimesmd@aol.com
+CR Akyol M, 2002, EUR J DERMATOL, V12, P24
+   AlGhamdi K, 2013, INDIAN J DERMATOL VE, V79, P750, DOI 10.4103/0378-6323.120720
+   Andreini C, 2006, J PROTEOME RES, V5, P196, DOI 10.1021/pr050361j
+   [Anonymous], 2016, PROP MECH ACT GINKG
+   Bagherani Nooshin, 2011, Indian J Dermatol, V56, P480, DOI 10.4103/0019-5154.87116
+   Balci DD, 2009, EUR J DERMATOL, V19, P382, DOI 10.1684/ejd.2009.0671
+   Bhattacharya A, 1999, INDIAN J EXPT BIOL, V37, P676
+   Bhattacharya S K, 1981, Indian J Dermatol, V26, P4
+   BURTON GW, 1981, J AM CHEM SOC, V103, P6472, DOI 10.1021/ja00411a035
+   Colucci R, 2015, ARCH ENVIRON CON TOX, V69, P181, DOI 10.1007/s00244-015-0138-7
+   Colucci R, 2015, DERMATOL THER, V28, P17, DOI 10.1111/dth.12172
+   Dang GK, 2011, PHYTOTHER RES, V25, P904, DOI 10.1002/ptr.3345
+   Dell'Anna ML, 2007, CLIN EXP DERMATOL, V32, P631, DOI 10.1111/j.1365-2230.2007.02514.x
+   Dell'Anna ML, 2001, J INVEST DERMATOL, V117, P908, DOI 10.1046/j.0022-202x.2001.01459.x
+   Dusso AS, 2004, SEMIN NEPHROL, V24, P10, DOI 10.1053/j.semnephrol.2003.08.018
+   Elgoweini M, 2009, J CLIN PHARMACOL, V49, P852, DOI 10.1177/0091270009335769
+   Ezzedine K, 2012, PIGM CELL MELANOMA R, V25, pE1, DOI 10.1111/j.1755-148X.2012.00997.x
+   Ezzedine K, 2015, LANCET, V386, P74, DOI 10.1016/S0140-6736(14)60763-7
+   Faas L, 2008, BRIT J DERMATOL, V158, P941, DOI 10.1111/j.1365-2133.2008.08464.x
+   Finamor DC, 2013, DERM-ENDOCRINOL, V5, DOI 10.4161/derm.24808
+   Gonul M, 2010, INDIAN J DERMATOL VE, V76, DOI 10.4103/0378-6323.66611
+   Grimes PE, 2005, JAMA-J AM MED ASSOC, V293, P730, DOI 10.1001/jama.293.6.730
+   Grimes PE, 2004, J AM ACAD DERMATOL, V51, pS5, DOI 10.1016/j.jaad.2004.01.007
+   Grimes PE, 2016, VITILIGO PATHOGENESI
+   Habib-Ur-Rehman, 2007, NAT PROD RES, V21, P775, DOI 10.1080/14786410601124664
+   Juhlin L, 1997, ACTA DERM-VENEREOL, V77, P460
+   Khandalavala BN, 2014, CASE REP DERMATOL, V6, P283, DOI 10.1159/000370303
+   Kim SM, 1999, YONSEI MED J, V40, P195, DOI 10.3349/ymj.1999.40.3.195
+   Lin ZX, 1999, PLANTA MED, V65, P600, DOI 10.1055/s-1999-14031
+   Mandelcorn-Monson RL, 2003, J INVEST DERMATOL, V121, P550, DOI 10.1046/j.1523-1747.2003.12413.x
+   Palomino OM, 2015, ARCH DERMATOL RES, V307, P199, DOI 10.1007/s00403-014-1535-x
+   Middelkamp-Hup MA, 2007, J EUR ACAD DERMATOL, V21, P942, DOI 10.1111/j.1468-3083.2006.02132.x
+   Middelkamp-Hup MA, 2004, J AM ACAD DERMATOL, V51, P910, DOI 10.1016/j.jaad.2004.06.027
+   MOHAMMAD A, 1989, INT J DERMATOL, V28, P479
+   Mohammed GF, 2015, WORLD J CLIN CASES, V3, P221, DOI 10.12998/wjcc.v3.i3.221
+   MONTES LF, 1992, CUTIS, V50, P39
+   MORRONE A, 1992, PIGM CELL RES, V5, P65, DOI 10.1111/j.1600-0749.1992.tb00003.x
+   Namazi MR, 2009, INDIAN J DERMATOL VE, V75, P116, DOI 10.4103/0378-6323.48654
+   Nestor Mark, 2014, J Clin Aesthet Dermatol, V7, P13
+   Ongenae K, 2003, PIGM CELL RES, V16, P90, DOI 10.1034/j.1600-0749.2003.00023.x
+   Ortonne JP, 2008, SURG MANAGEMENT VITI, P4
+   Parsad D, 2003, CLIN EXP DERMATOL, V28, P285, DOI 10.1046/j.1365-2230.2003.01207.x
+   Picardo M, 1996, J INVEST DERMATOL, V107, P322, DOI 10.1111/1523-1747.ep12363163
+   PRASAD AS, 1995, NUTRITION, V11, P93
+   Ramadan S, 2013, SKIN PHARMACOL PHYS, V26, P2, DOI 10.1159/000342124
+   Rashighi M, 2014, SCI TRANSL MED, V6, DOI 10.1126/scitranslmed.3007811
+   Reyes E, 2006, J DERMATOL SCI, V41, P213, DOI 10.1016/j.jdermsci.2005.12.006
+   Rodriguez-Garcia C, 2011, PEDIATR DERMATOL, V28, P209, DOI 10.1111/j.1525-1470.2011.01388.x
+   Saleh HMA, 2013, PHOTODERMATOL PHOTO, V29, P34, DOI 10.1111/phpp.12016
+   Shahmoradi Z, 2013, INT J PREVENTIVE MED, V4, P200
+   Shameer P, 2005, Indian J Dermatol Venereol Leprol, V71, P206
+   Silverberg JI, 2010, J AM ACAD DERMATOL, V62, P937, DOI 10.1016/j.jaad.2009.11.024
+   Soumyanath A, 2006, PHOTOCHEM PHOTOBIOL, V82, P1541, DOI 10.1111/j.1751-1097.2006.tb09809.x
+   Szczurko O, 2011, BMC COMPLEM ALTERN M, V11, DOI 10.1186/1472-6882-11-21
+   Tjioe M, 2002, ACTA DERM-VENEREOL, V82, P369, DOI 10.1080/000155502320624113
+   Venkatasamy R, 2004, BIOORGAN MED CHEM, V12, P1905, DOI 10.1016/j.bmc.2004.01.036
+   Winkelmann RR, 2015, J DRUGS DERMATOL, V14, P254
+   Wu DY, 2012, MOL ASPECTS MED, V33, P107, DOI 10.1016/j.mam.2011.10.001
+   Xu X, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0052778
+   Yaghoobi R, 2011, BMC DERMATOL, V11, DOI 10.1186/1471-5945-11-7
+   Yoon J., 2011, VITILIGO MANAGEMENT
+   Zhu YP, 2014, FITOTERAPIA, V99, P243, DOI 10.1016/j.fitote.2014.08.007
+NR 62
+TC 5
+Z9 5
+U1 0
+U2 4
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, PA 19103-2899 USA
+SN 0733-8635
+EI 1558-0520
+J9 DERMATOL CLIN
+JI Dermatol. Clin.
+PD APR
+PY 2017
+VL 35
+IS 2
+BP 235
+EP +
+DI 10.1016/j.det.2016.11.012
+PG 11
+WC Dermatology
+SC Dermatology
+GA ES6DV
+UT WOS:000399637500014
+PM 28317532
+DA 2020-07-08
+ER
+
+PT J
+AU Shaker, OG
+   Eltahlawi, SMR
+   Tawfic, SO
+   Eltawdy, AM
+   Bedair, NIE
+AF Shaker, O. G.
+   Eltahlawi, S. M. R.
+   Tawfic, S. O.
+   Eltawdy, A. M.
+   Bedair, N. I. E.
+TI Corticotropin-releasing hormone (CRH) and CRH receptor 1 gene expression
+   in vitiligo
+SO CLINICAL AND EXPERIMENTAL DERMATOLOGY
+LA English
+DT Article
+ID PITUITARY-ADRENAL AXIS; MELANOCYTE-STIMULATING HORMONE;
+   NECROSIS-FACTOR-ALPHA; ALOPECIA-AREATA; SKIN BIOPSIES; STRESS;
+   INTERLEUKIN-1-ALPHA; MECHANISMS; PSORIASIS; SYSTEM
+AB BackgroundVitiligo is a disorder characterized by depigmented patches in the skin. Psychological stress can activate the hypothalamic-pituitary-adrenal axis in the brain as well as on the peripheral level and aggravate autoimmune skin diseases. Skin appendages have dual functions dually as prominent targets and sources of the peripheral corticotropin-releasing hormone (CRH)-proopiomelanocortin axis.
+   AimTo assess the role of CRH and CRHR-1 in vitiligo, and its possible association with psychological stress.
+   MethodsIn total, 30 patients with vitiligo and 30 healthy controls were collected from the outpatient clinic. Expression of CRH and CRHR-1 was measured by real-time PCR in lesions and control skin.
+   ResultsA significant increase in CRH and CRHR-1 expression was significantly correlated with psychological stress in vitiligo.
+   ConclusionWe conclude that CRH and CRHR-1 are altered by psychological stress and play an important role in the pathogenesis of vitiligo.
+C1 [Shaker, O. G.] Cairo Univ, Fac Med, Dept Biochem Med Biochem & Mol Biol, Cairo, Egypt.
+   [Eltahlawi, S. M. R.; Tawfic, S. O.; Eltawdy, A. M.] Cairo Univ, Fac Med, Dept Dermatol, Cairo, Egypt.
+   [Bedair, N. I. E.] Cairo Univ, Students Hosp, Dept Dermatol, Cairo, Egypt.
+RP Shaker, OG (corresponding author), Cairo Univ, Fac Med, Dept Med Biochem, Cairo 0123, Egypt.
+EM olfatshaker@yahoo.com
+RI Shaker, Olfat G/S-2010-2017; O, Shaker/Y-6125-2019
+OI O, Shaker/0000-0002-3031-3599
+CR Birol A, 2006, INT J DERMATOL, V45, P992, DOI 10.1111/j.1365-4632.2006.02744.x
+   Cucchi ML, 2010, PIGMENT CELL RES, V13, P28
+   Funasaka Y, 1998, BRIT J DERMATOL, V139, P216
+   Ganceviciene R, 2009, BRIT J DERMATOL, V160, P345, DOI 10.1111/j.1365-2133.2008.08959.x
+   HOLMES TH, 1967, J PSYCHOSOM RES, V11, P213, DOI 10.1016/0022-3999(67)90010-4
+   Karanikas Evangelos, 2007, Hormones (Athens), V6, P314
+   Katsarou-Katsari A, 2001, DERMATOLOGY, V203, P157, DOI 10.1159/000051732
+   Kim HS, 2006, EXP DERMATOL, V15, P515, DOI 10.1111/j.1600-0625.2006.00443.x
+   Manolache L, 2007, J EUR ACAD DERMATOL, V21, P921, DOI 10.1111/j.1468-3083.2006.02106.x
+   MORRONE A, 1992, PIGM CELL RES, V5, P65, DOI 10.1111/j.1600-0749.1992.tb00003.x
+   Peters EMJ, 2006, EXP DERMATOL, V15, P1, DOI 10.1111/j.0906-6705.2005.00372.x
+   Ratsep R, 2008, BRIT J DERMATOL, V159, P1275, DOI 10.1111/j.1365-2133.2008.08785.x
+   Reimann E, 2010, J DERMATOL SCI, V60, P125, DOI 10.1016/j.jdermsci.2010.08.004
+   Richards HL, 2005, BRIT J DERMATOL, V153, P1114, DOI 10.1111/j.1365-2133.2005.06817.x
+   SALZER BA, 1995, DERMATOLOGY, V190, P109, DOI 10.1159/000246657
+   SLOMINSKI A, 1993, J LAB CLIN MED, V122, P658
+   Slominski A, 2000, PHYSIOL REV, V80, P279
+   Slominski A, 2007, MOL CELL ENDOCRINOL, V265, P143, DOI 10.1016/j.mce.2006.12.012
+   Slominski A, 2013, J STEROID BIOCHEM, V137, P107, DOI 10.1016/j.jsbmb.2013.02.006
+   Slominski A, 2006, FRONT BIOSCI-LANDMRK, V11, P2230, DOI 10.2741/1966
+   Slominski AT, 2013, ENDOCR REV, V34, P827, DOI 10.1210/er.2012-1092
+   Sullivan RM, 2006, BRAIN RES, V1076, P49, DOI 10.1016/j.brainres.2005.12.100
+   Tagen M, 2007, J INVEST DERMATOL, V127, P1789, DOI 10.1038/sj.jid.5700757
+   Tsigos C, 2002, J PSYCHOSOM RES, V53, P865, DOI 10.1016/S0022-3999(02)00429-4
+   Turnbull AV, 1999, PHYSIOL REV, V79, P1, DOI 10.1152/physrev.1999.79.1.1
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 2
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0307-6938
+EI 1365-2230
+J9 CLIN EXP DERMATOL
+JI Clin. Exp. Dermatol.
+PD OCT
+PY 2016
+VL 41
+IS 7
+BP 734
+EP 740
+DI 10.1111/ced.12907
+PG 7
+WC Dermatology
+SC Dermatology
+GA DY0WO
+UT WOS:000384817100005
+PM 27663146
+DA 2020-07-08
+ER
+
+PT J
+AU Jha, A
+   Mehta, M
+   Khaitan, BK
+   Sharma, VK
+   Ramam, M
+AF Jha, Aditi
+   Mehta, Manju
+   Khaitan, Binod K.
+   Sharma, Vinod K.
+   Ramam, M.
+TI Cognitive behavior therapy for psychosocial stress in vitiligo
+SO INDIAN JOURNAL OF DERMATOLOGY VENEREOLOGY & LEPROLOGY
+LA English
+DT Letter
+ID PSORIASIS
+C1 [Jha, Aditi; Khaitan, Binod K.; Sharma, Vinod K.; Ramam, M.] All India Inst Med Sci, Dept Dermatol & Venereol, 4th Floor,Teaching Block, New Delhi, India.
+   [Mehta, Manju] All India Inst Med Sci, Dept Psychiat, New Delhi, India.
+RP Ramam, M (corresponding author), All India Inst Med Sci, Dept Dermatol & Venereol, 4th Floor,Teaching Block, New Delhi, India.
+EM mramam@hotmail.com
+CR Fortune DG, 2004, BRIT J CLIN PSYCHOL, V43, P65, DOI 10.1348/014466504772812977
+   Fortune DG, 2002, BRIT J DERMATOL, V146, P458, DOI 10.1046/j.1365-2133.2002.04622.x
+   Pahwa P, 2013, INDIAN J DERMATOL VE, V79, P679, DOI 10.4103/0378-6323.116737
+   Papadopoulos L, 1999, BRIT J MED PSYCHOL, V72, P385, DOI 10.1348/000711299160077
+   Papadopoulos L, 2004, DERMATOL PSYCHOSOM, V5, P172, DOI [DOI 10.1159/000083091, 10.1159/000083091]
+   PRICE ML, 1991, CLIN EXP DERMATOL, V16, P114, DOI 10.1111/j.1365-2230.1991.tb00319.x
+NR 6
+TC 5
+Z9 5
+U1 0
+U2 3
+PU MEDKNOW PUBLICATIONS & MEDIA PVT LTD
+PI MUMBAI
+PA B-9, KANARA BUSINESS CENTRE, OFF LINK RD, GHAKTOPAR-E, MUMBAI, 400075,
+   INDIA
+SN 0378-6323
+EI 0973-3922
+J9 INDIAN J DERMATOL VE
+JI Indian J. Dermatol. Venereol. Leprol.
+PD MAY-JUN
+PY 2016
+VL 82
+IS 3
+BP 308
+EP U154
+DI 10.4103/0378-6323.175925
+PG 3
+WC Dermatology
+SC Dermatology
+GA DJ9IH
+UT WOS:000374526700011
+PM 27088935
+OA DOAJ Gold
+DA 2020-07-08
+ER
+
+PT J
+AU Bonotis, K
+   Pantelis, K
+   Karaoulanis, S
+   Katsimaglis, C
+   Papaliaga, M
+   Zafiriou, E
+   Tsogas, P
+AF Bonotis, Konstantinos
+   Pantelis, Konstantinos
+   Karaoulanis, Sokratis
+   Katsimaglis, Chrysanthos
+   Papaliaga, Maria
+   Zafiriou, Efterpi
+   Tsogas, Panagiotis
+TI Investigation of factors associated with health-related quality of life
+   and psychological distress in vitiligo
+SO JOURNAL DER DEUTSCHEN DERMATOLOGISCHEN GESELLSCHAFT
+LA English
+DT Article
+ID PERSONALITY; EXPERIENCE
+AB Background and objectives: Skin diseases distort the body image with possible negative effects on the quality of life and psychosocial health of patients. While vitiligo does not affect the physical well-being, it may be psychologically distressing. The present study was based on the hypothesis that particular factors might be critical regarding the adjustment to the disease.
+   Patients and Methods: We investigated the vitiligo-related quality of life and psychological distress of 216 patients diagnosed with the disease in relation to demographic factors, disease components, and personality traits. For this purpose, we administered the self-completed questionnaires Dermatological Quality of Life Index, General Health Questionnaire, Eysenck Personality Inventory, and Rosenberg Self-Esteem Scale.
+   Results: Statistical analysis revealed a significant positive correlation between patients' distress and health-related quality of life. Moreover, the impact of vitiligo on the quality of life was significantly associated with disease variables as well as personality traits and gender. On the other hand, psychological distress was significantly associated with personality traits and gender, but not with disease components.
+   Conclusions: Our results indicate that the psychosocial adjustment to the disease is mainly influenced by subjective factors. This observation could imply the need for targeted support interventions in the treatment of vitiligo.
+C1 [Bonotis, Konstantinos; Pantelis, Konstantinos; Karaoulanis, Sokratis; Katsimaglis, Chrysanthos; Papaliaga, Maria; Tsogas, Panagiotis] Univ Thessaly, Dept Psychiat, Fac Med, Biopolis 41110, Larisa, Greece.
+   [Zafiriou, Efterpi] Univ Thessaly, Dept Dermatol, Fac Med, Biopolis 41110, Larisa, Greece.
+   [Tsogas, Panagiotis] Vitiligo Ctr Clin, Athens, Greece.
+RP Bonotis, K (corresponding author), Univ Thessaly, Dept Psychiat, Fac Med, Biopolis 41110, Larisa, Greece.
+EM kbonotis@yahoo.gr
+OI Zafiriou, Efterpi/0000-0002-6594-7292
+CR Alikhan A, 2011, J AM ACAD DERMATOL, V65, P473, DOI 10.1016/j.jaad.2010.11.061
+   Borimnejad Leili, 2006, Gend Med, V3, P124, DOI 10.1016/S1550-8579(06)80201-9
+   Chan MF, 2012, J CLIN NURS, V21, P1614, DOI 10.1111/j.1365-2702.2011.03777.x
+   Connor-Smith JK, 2007, J PERS SOC PSYCHOL, V93, P1080, DOI 10.1037/0022-3514.93.6.1080
+   DIMITRIOU EC, 1978, INT J INTERCULTURAL, V2, P266
+   FINLAY AY, 1994, CLIN EXP DERMATOL, V19, P210, DOI 10.1111/j.1365-2230.1994.tb01167.x
+   Fistaro SK, 2010, J DTSCH DERMATOL GES, V8, P187, DOI 10.1111/j.1610-0387.2009.07137.x
+   Forschner Tobias, 2007, J Dtsch Dermatol Ges, V5, P467, DOI 10.1111/j.1610-0387.2007.06280.x
+   GARYFALLOS G, 1991, ACTA PSYCHIAT SCAND, V84, P371, DOI 10.1111/j.1600-0447.1991.tb03162.x
+   Homan MWL, 2009, J AM ACAD DERMATOL, V61, P411, DOI 10.1016/j.jaad.2009.03.022
+   Kostopoulou P, 2009, BRIT J DERMATOL, V161, P128, DOI 10.1111/j.1365-2133.2009.09077.x
+   Lahey BB, 2009, AM PSYCHOL, V64, P241, DOI 10.1037/a0015309
+   Lipowski ZJ, 1985, PSYCHOSOMATIC MED LI, P141
+   MCCRAE RR, 1986, J PERS, V54, P385, DOI 10.1111/j.1467-6494.1986.tb00401.x
+   Ongenae K, 2005, BRIT J DERMATOL, V152, P1165, DOI 10.1111/j.1365-2133.2005.06456.x
+   PAPADOPOULOS L, 2002, PSYCHOLOGY, V7, P425
+   Parsad Davinder, 2003, Health Qual Life Outcomes, V1, P58, DOI 10.1186/1477-7525-1-58
+   PORTER J, 1979, GEN HOSP PSYCHIAT, V1, P73, DOI 10.1016/0163-8343(79)90081-1
+   Sampogna F, 2008, BRIT J DERMATOL, V159, P351, DOI 10.1111/j.1365-2133.2008.08678.x
+   Schmid-Ott G, 2007, J EUR ACAD DERMATOL, V21, P456, DOI 10.1111/j.1468-3083.2006.01897.x
+   Schmitt DP, 2005, J PERS SOC PSYCHOL, V89, P623, DOI 10.1037/0022-3514.89.4.623
+   Swami V, 2008, BODY IMAGE, V5, P322, DOI 10.1016/j.bodyim.2008.03.007
+   Thompson A. R., 2005, PSYCHODERMATOLOGY PS, P57
+   Wood-Barcalow NL, 2010, BODY IMAGE, V7, P106, DOI 10.1016/j.bodyim.2010.01.001
+NR 24
+TC 6
+Z9 7
+U1 0
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1610-0379
+EI 1610-0387
+J9 J DTSCH DERMATOL GES
+JI J. Dtsch. Dermatol. Ges.
+PD JAN
+PY 2016
+VL 14
+IS 1
+BP 45
+EP 48
+DI 10.1111/ddg.12729
+PG 4
+WC Dermatology
+SC Dermatology
+GA DA4QT
+UT WOS:000367786100006
+PM 26713637
+DA 2020-07-08
+ER
+
+PT J
+AU Harris, JE
+AF Harris, John E.
+TI Cellular stress and innate inflammation in organ-specific autoimmunity:
+   lessons learned from vitiligo
+SO IMMUNOLOGICAL REVIEWS
+LA English
+DT Review
+DE cellular stress; innate immunity; organ-specific autoimmunity; vitiligo
+ID ENDOPLASMIC-RETICULUM STRESS; UNFOLDED PROTEIN RESPONSE;
+   THIOREDOXIN-INTERACTING PROTEIN; HYDROGEN-PEROXIDE H2O2;
+   MULTIPLE-SCLEROSIS; OXIDATIVE STRESS; HUMAN MELANOCYTES; T-CELLS;
+   GENERALIZED VITILIGO; DOUBLE-BLIND
+AB For decades, research in autoimmunity has focused primarily on immune contributions to disease. Yet recent studies report elevated levels of reactive oxygen species and abnormal activation of the unfolded protein response in cells targeted by autoimmunity, implicating cellular stress originating from the target tissue as a contributing factor. A better understanding of this contribution may help to answer important lingering questions in organ-specific autoimmunity, as to what factors initiate disease and what directs its tissue specificity. Vitiligo, an autoimmune disease of the skin, has been the focus of translational research for over 30 years, and both melanocyte stress and immune mechanisms have been thought to be mutually exclusive explanations for pathogenesis. Chemical-induced vitiligo is a unique clinical presentation that reflects the importance of environmental influences on autoimmunity, provides insight into a new paradigm linking cell stress to the immune response, and serves as a template for other autoimmune diseases. In this review, I will discuss the evidence for cell stress contributions to a number of autoimmune diseases, the questions that remain, and how vitiligo, an underappreciated example of organ-specific autoimmunity, helps to answer them.
+C1 [Harris, John E.] Univ Massachusetts, Sch Med, Dept Med, Div Dermatol, Worcester, MA 01605 USA.
+RP Harris, JE (corresponding author), Univ Massachusetts, Sch Med, Dept Med, Div Dermatol, 225 LRB,364 Plantat St, Worcester, MA 01605 USA.
+EM john.harris@umassmed.edu
+FU National Institute of Arthritis and Musculoskeletal and Skin Diseases,
+   NIHUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Arthritis &
+   Musculoskeletal & Skin Diseases (NIAMS) [AR061437]; Vitiligo Research
+   Foundation; Kawaja Family Vitiligo Research Initiative Award;
+   Dermatology Foundation Stiefel Scholar Award
+FX This work was supported by the National Institute of Arthritis and
+   Musculoskeletal and Skin Diseases, part of the NIH, under award number
+   AR061437, and research grants from the Vitiligo Research Foundation,
+   Kawaja Family Vitiligo Research Initiative Award, and Dermatology
+   Foundation Stiefel Scholar Award. The author states that he has no
+   conflicts of interest.
+CR Aaronson DS, 2002, SCIENCE, V296, P1653, DOI 10.1126/science.1071545
+   Adolph TE, 2013, NATURE, V503, P272, DOI 10.1038/nature12599
+   Agarwal P, 2015, J INVEST DERMATOL, V135, P1080, DOI 10.1038/jid.2014.529
+   Akay BN, 2010, J EUR ACAD DERMATOL, V24, P1144, DOI 10.1111/j.1468-3083.2010.03605.x
+   Alajlan A, 2002, J AM ACAD DERMATOL, V46, P606, DOI 10.1067/mjd.2002.117215
+   Alkhateeb A, 2003, PIGM CELL RES, V16, P208, DOI 10.1034/j.1600-0749.2003.00032.x
+   Annunziato F, 2007, J EXP MED, V204, P1849, DOI 10.1084/jem.20070663
+   Antonelli A, 2015, AUTOIMMUN REV, V14, P174, DOI 10.1016/j.autrev.2014.10.016
+   Au WY, 2001, BRIT J DERMATOL, V145, P1015, DOI 10.1046/j.1365-2133.2001.04500.x
+   Beecham AH, 2013, NAT GENET, V45, P1353, DOI 10.1038/ng.2770
+   BETTERLE C, 1979, ARCH DERMATOL, V115, P364, DOI 10.1001/archderm.115.3.364
+   Birlea SA, 2011, J INVEST DERMATOL, V131, P371, DOI 10.1038/jid.2010.337
+   BOISSY RE, 1991, J INVEST DERMATOL, V97, P395, DOI 10.1111/1523-1747.ep12480976
+   Bottino R, 2002, DIABETES, V51, P2561, DOI 10.2337/diabetes.51.8.2561
+   Brent GA, 2010, THYROID, V20, P755, DOI 10.1089/thy.2010.1636
+   Brix TH, 2012, CLIN ENDOCRINOL, V76, P457, DOI 10.1111/j.1365-2265.2011.04318.x
+   Burek CL, 2008, AUTOIMMUN REV, V7, P530, DOI 10.1016/j.autrev.2008.04.006
+   Cabrera SM, 2016, TRANSL RES, V167, P214, DOI 10.1016/j.trsl.2015.04.011
+   Campbell GR, 2011, ANN NEUROL, V69, P481, DOI 10.1002/ana.22109
+   Chen GY, 2010, NAT REV IMMUNOL, V10, P826, DOI 10.1038/nri2873
+   Colombo C, 2008, J CLIN INVEST, V118, P2148, DOI 10.1172/JCI33777
+   Committee TADC, 2005, REP C PROGR AUT DIS
+   Corthals AP, 2011, Q REV BIOL, V86, P287, DOI 10.1086/662453
+   Cotsapas C, 2013, TRENDS IMMUNOL, V34, P22, DOI 10.1016/j.it.2012.09.001
+   Craiglow BG, 2015, JAMA DERMATOL, V151, P1110, DOI 10.1001/jamadermatol.2015.1520
+   CUNLIFFE WJ, 1968, BRIT J DERMATOL, V80, P135, DOI 10.1111/j.1365-2133.1968.tb12282.x
+   Cunnea P, 2011, MULT SCLER J, V17, P808, DOI 10.1177/1352458511399114
+   Danese S, 2015, GUT, V64, P243, DOI 10.1136/gutjnl-2014-308004
+   Dell'Anna ML, 2007, CLIN EXP DERMATOL, V32, P631, DOI 10.1111/j.1365-2230.2007.02514.x
+   Dell'Anna ML, 2007, J INVEST DERMATOL, V127, P1226, DOI 10.1038/sj.jid.5700700
+   Dell'Anna ML, 2012, EXP DERMATOL, V21, P490, DOI 10.1111/j.1600-0625.2012.01506.x
+   Eizirik DL, 2013, DIABETOLOGIA, V56, P234, DOI 10.1007/s00125-012-2762-3
+   Elia PP, 2015, MEDIAT INFLAMM, V2015, DOI 10.1155/2015/936193
+   Engin F, 2013, SCI TRANSL MED, V5, DOI 10.1126/scitranslmed.3006534
+   Fischer MT, 2013, BRAIN, V136, P1799, DOI 10.1093/brain/awt110
+   Frigerio S, 2002, NAT MED, V8, P1414, DOI 10.1038/nm792
+   Frischer JM, 2009, BRAIN, V132, P1175, DOI 10.1093/brain/awp070
+   Fuss IJ, 2004, J CLIN INVEST, V113, P1490, DOI 10.1172/JCI200419836
+   Gargalovic PS, 2006, ARTERIOSCL THROM VAS, V26, P2490, DOI 10.1161/01.ATV.0000242903.41158.a1
+   Gawkrodger DJ, 2009, BRIT J DERMATOL, V161, P721, DOI 10.1111/j.1365-2133.2009.09292.x
+   Ghosh S, 2009, BRIT J DERMATOL, V160, P40, DOI 10.1111/j.1365-2133.2008.08815.x
+   Gibbons NQ, 2006, J INVEST DERMATOL, V126, P2576, DOI 10.1038/sj.jid.5700612
+   Gilgun-Sherki Y, 2004, J NEUROL, V251, P261, DOI 10.1007/s00415-004-0348-9
+   GILHAR A, 1995, J INVEST DERMATOL, V105, P683, DOI 10.1111/1523-1747.ep12324456
+   GILHAR A, 1989, ARCH DERMATOL, V125, P1363, DOI 10.1001/archderm.125.10.1363
+   Glassman SJ, 2011, CLIN SCI, V120, P99, DOI 10.1042/CS20090603
+   Goris A, 2012, COLD SPRING HARB PER, V4, P1
+   Guarda G, 2011, IMMUNITY, V34, P213, DOI 10.1016/j.immuni.2011.02.006
+   Hansen PS, 2006, EUR J ENDOCRINOL, V154, P29, DOI 10.1530/eje.1.02060
+   Harris JE, 2015, J AM ACAD DERMATOL
+   Harris JE, 2012, J INVEST DERMATOL, V132, P1869, DOI 10.1038/jid.2011.463
+   Hasnain SZ, 2012, IMMUNOL CELL BIOL, V90, P260, DOI 10.1038/icb.2011.112
+   Hernandez-Pedro NY, 2013, CLIN DEV IMMUNOL, DOI 10.1155/2013/413465
+   HERTZ KC, 1977, NEW ENGL J MED, V297, P634, DOI 10.1056/NEJM197709222971204
+   Hetz C, 2012, NAT REV MOL CELL BIO, V13, P89, DOI 10.1038/nrm3270
+   Higa A, 2012, CELL SIGNAL, V24, P1548, DOI 10.1016/j.cellsig.2012.03.011
+   Hueber W, 2012, GUT, V61, P1693, DOI 10.1136/gutjnl-2011-301668
+   Hugot JP, 2001, NATURE, V411, P599, DOI 10.1038/35079107
+   HUNTER MIS, 1985, NEUROCHEM RES, V10, P1645, DOI 10.1007/BF00988606
+   Jacobs LD, 1996, ANN NEUROL, V39, P285, DOI 10.1002/ana.410390304
+   Jacobson DL, 1997, CLIN IMMUNOL IMMUNOP, V84, P223, DOI 10.1006/clin.1997.4412
+   Jimbow K, 2001, BRIT J DERMATOL, V144, P55, DOI 10.1046/j.1365-2133.2001.03952.x
+   Jin Y, 2007, NEW ENGL J MED, V356, P1216, DOI 10.1056/NEJMoa061592
+   Jin Y, 2012, J INVEST DERMATOL, V132, P1730, DOI 10.1038/jid.2012.37
+   Jin Y, 2010, NEW ENGL J MED, V362, P1686, DOI 10.1056/NEJMoa0908547
+   Kaser A, 2008, CELL, V134, P743, DOI 10.1016/j.cell.2008.07.021
+   Koca R, 2004, CLIN EXP DERMATOL, V29, P406, DOI 10.1111/j.1365-2230.2004.01524.x
+   Kroll TM, 2005, J INVEST DERMATOL, V124, P798, DOI 10.1111/j.0022-202X.2005.23653.x
+   Kroon MW, 2013, J EUR ACAD DERMATOL, V27, P1172, DOI 10.1111/j.1468-3083.2012.04501.x
+   LANGEMANN H, 1992, EUR NEUROL, V32, P248, DOI 10.1159/000116835
+   Lapaquette P, 2015, MEDIAT INFLAMM, V2015, DOI 10.1155/2015/398483
+   Latz E, 2013, NAT REV IMMUNOL, V13, P397, DOI 10.1038/nri3452
+   Le Poole I C, 1993, Exp Dermatol, V2, P145
+   LePoole IC, 1996, AM J PATHOL, V148, P1219
+   Lerner AG, 2012, CELL METAB, V16, P250, DOI 10.1016/j.cmet.2012.07.007
+   Levandowski CB, 2013, P NATL ACAD SCI USA, V110, P2952, DOI 10.1073/pnas.1222808110
+   LIOU HC, 1990, SCIENCE, V247, P1581, DOI 10.1126/science.2321018
+   Liu M, 2015, MOL ASPECTS MED, V42, P3, DOI 10.1016/j.mam.2014.12.001
+   Lu FM, 2000, J NEUROL SCI, V177, P95, DOI 10.1016/S0022-510X(00)00343-9
+   Lund BT, 2006, J NEUROL SCI, V249, P122, DOI 10.1016/j.jns.2006.05.066
+   Luo YQ, 2014, INT J MOL SCI, V15, P12895, DOI 10.3390/ijms150712895
+   Mahad DH, 2015, LANCET NEUROL, V14, P183, DOI 10.1016/S1474-4422(14)70256-X
+   Malhotra JD, 2007, ANTIOXID REDOX SIGN, V9, P2277, DOI 10.1089/ars.2007.1782
+   Maresca V, 1997, J INVEST DERMATOL, V109, P310, DOI 10.1111/1523-1747.ep12335801
+   Marhfour I, 2012, DIABETOLOGIA, V55, P2417, DOI 10.1007/s00125-012-2604-3
+   Marie J, 2014, BRIT J DERMATOL, V170, P816, DOI 10.1111/bjd.12691
+   Martinon F, 2011, CURR OPIN IMMUNOL, V23, P35, DOI 10.1016/j.coi.2010.10.016
+   McMahon JM, 2012, MULT SCLER J, V18, P1437, DOI 10.1177/1352458512438455
+   MEDRANO EE, 1990, J INVEST DERMATOL, V95, P441
+   Meyskens FL, 2001, PIGM CELL RES, V14, P148, DOI 10.1034/j.1600-0749.2001.140303.x
+   Millington GWM, 2007, INT J DERMATOL, V46, P990, DOI 10.1111/j.1365-4632.2007.03195.x
+   Moretti S, 2002, PIGM CELL RES, V15, P87, DOI 10.1034/j.1600-0749.2002.1o049.x
+   Morohoshi K, 2011, DISCOV MED, V12, P505
+   Morran MP, 2015, MOL ASPECTS MED, V42, P42, DOI 10.1016/j.mam.2014.12.004
+   Mosenson JA, 2013, SCI TRANSL MED, V5, DOI 10.1126/scitranslmed.3005127
+   MOSHER DB, 1977, BRIT J DERMATOL, V97, P669, DOI 10.1111/j.1365-2133.1977.tb14275.x
+   Muralidharan S, 2013, J LEUKOCYTE BIOL, V94, P1167, DOI 10.1189/jlb.0313153
+   Nakahira K, 2011, NAT IMMUNOL, V12, P222, DOI 10.1038/ni.1980
+   NAUGHTON GK, 1983, J EXP MED, V158, P246, DOI 10.1084/jem.158.1.246
+   Neumeister P, 2000, LANCET, V355, P1334, DOI 10.1016/S0140-6736(00)02120-6
+   Nielsen OH, 2013, NEW ENGL J MED, V369, P754, DOI 10.1056/NEJMct1209614
+   NORRIS DA, 1988, J INVEST DERMATOL, V90, P783, DOI 10.1111/1523-1747.ep12461505
+   Oakes SA, 2015, ANNU REV PATHOL-MECH, V10, P173, DOI 10.1146/annurev-pathol-012513-104649
+   Ogg GS, 1998, J EXP MED, V188, P1203, DOI 10.1084/jem.188.6.1203
+   Ogura Y, 2001, NATURE, V411, P603, DOI 10.1038/35079114
+   OLIVER E. A., 1939, Journal of the American Medical Association, V113, P927
+   Oslowski CM, 2012, CELL METAB, V16, P265, DOI 10.1016/j.cmet.2012.07.005
+   Ostankovitch M, 2005, J IMMUNOL, V174, P2544, DOI 10.4049/jimmunol.174.5.2544
+   Padgett LE, 2013, ANN NY ACAD SCI, V1281, P16, DOI 10.1111/j.1749-6632.2012.06826.x
+   PANITCH HS, 1987, LANCET, V1, P893
+   Piganelli JD, 2002, DIABETES, V51, P347, DOI 10.2337/diabetes.51.2.347
+   PURI N, 1989, ARCH DERMATOL RES, V281, P178, DOI 10.1007/BF00456389
+   PURI N, 1987, J INVEST DERMATOL, V88, P434, DOI 10.1111/1523-1747.ep12469795
+   Rashighi M, 2014, SCI TRANSL MED, V6, DOI 10.1126/scitranslmed.3007811
+   Reinisch W, 2010, INFLAMM BOWEL DIS, V16, P233, DOI 10.1002/ibd.21038
+   RETORNAZ G, 1976, BRIT J DERMATOL, V95, P173, DOI 10.1111/j.1365-2133.1976.tb00822.x
+   Richmond JM, 2013, CURR OPIN IMMUNOL, V25, P676, DOI 10.1016/j.coi.2013.10.010
+   Rioux JD, 2007, NAT GENET, V39, P596, DOI 10.1038/ng2032
+   Rivas A, 2015, EXPERT OPIN THER TAR, V19, P1203, DOI 10.1517/14728222.2015.1053869
+   Schallreuter KU, 2008, EXP DERMATOL, V17, P139, DOI [10.1111/j.1600-0625.2007.00666.x, 10.1111/j.1600-0625.2007.00666_1.x]
+   Schallreuter KU, 2008, EXP DERMATOL, V17, P141, DOI 10.1111/j.1600-0625.2007.00666_2.x
+   SCHALLREUTER KU, 1991, J INVEST DERMATOL, V97, P1081, DOI 10.1111/1523-1747.ep12492612
+   Schallreuter KU, 1999, J INVEST DERM SYMP P, V4, P91, DOI 10.1038/sj.jidsp.5640189
+   Scheuner D, 2008, ENDOCR REV, V29, P317, DOI 10.1210/er.2007-0039
+   Shalbaf M, 2008, EXP DERMATOL, V17, P761, DOI 10.1111/j.1600-0625.2008.00697.x
+   Shimada K, 2012, IMMUNITY, V36, P401, DOI 10.1016/j.immuni.2012.01.009
+   Singh Suman, 2012, Indian J Dermatol, V57, P12, DOI 10.4103/0019-5154.92668
+   Skowera A, 2008, J CLIN INVEST, V118, P3390, DOI 10.1172/JCI35449
+   Sloane JA, 2010, P NATL ACAD SCI USA, V107, P11555, DOI 10.1073/pnas.1006496107
+   Spritz RA, 2013, J DERMATOL, V40, P310, DOI 10.1111/1346-8138.12147
+   Spritz RA, 2012, J INVEST DERMATOL, V132, P268, DOI 10.1038/jid.2011.321
+   Sun JH, 2015, MOL ASPECTS MED, V42, P105, DOI 10.1016/j.mam.2015.01.001
+   Taieb A, 2009, NEW ENGL J MED, V360, P160, DOI 10.1056/NEJMcp0804388
+   Thery C, 2009, NAT REV IMMUNOL, V9, P581, DOI 10.1038/nri2567
+   Toosi S, 2012, J INVEST DERMATOL, V132, P2601, DOI 10.1038/jid.2012.181
+   Tu CX, 2003, J DERMATOL SCI, V31, P73, DOI 10.1016/S0923-1811(02)00151-2
+   Vaccari JPD, 2009, J CEREBR BLOOD F MET, V29, P1251, DOI 10.1038/jcbfm.2009.46
+   Valatas V, 2015, EUR J PHARMACOL, V759, P253, DOI 10.1016/j.ejphar.2015.03.017
+   van den Boorn JG, 2011, J INVEST DERMATOL, V131, P1240, DOI 10.1038/jid.2011.16
+   van den Boorn JG, 2009, J INVEST DERMATOL, V129, P2220, DOI 10.1038/jid.2009.32
+   van den Wijngaard R, 2000, LAB INVEST, V80, P1299, DOI 10.1038/labinvest.3780138
+   Wankowicz-Kalinska A, 2003, LAB INVEST, V83, P683, DOI 10.1097/01.LAB.0000069521.42488.1B
+   Weetman AP, 2012, EUR THYROID J, V1, P243, DOI 10.1159/000343834
+   Willcox A, 2009, CLIN EXP IMMUNOL, V155, P173, DOI 10.1111/j.1365-2249.2008.03860.x
+   Wlodarska M, 2015, CELL HOST MICROBE, V17, P577, DOI 10.1016/j.chom.2015.04.008
+   Wu SW, 2015, PIGM CELL MELANOMA R, V28, P744, DOI 10.1111/pcmr.12402
+   Yu R, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0051040
+   Zhong JX, 2012, EXP DIABETES RES, DOI 10.1155/2012/238980
+   Zhong Y, 2013, FRONT IMMUNOL, V4, DOI 10.3389/fimmu.2013.00333
+   Zhou RB, 2011, NATURE, V469, P221, DOI 10.1038/nature09663
+   Zhou RB, 2010, NAT IMMUNOL, V11, P136, DOI 10.1038/ni.1831
+   Zhu H, 2012, EXP BIOL MED, V237, P474, DOI 10.1258/ebm.2011.011358
+NR 152
+TC 29
+Z9 29
+U1 1
+U2 22
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0105-2896
+EI 1600-065X
+J9 IMMUNOL REV
+JI Immunol. Rev.
+PD JAN
+PY 2016
+VL 269
+IS 1
+SI SI
+BP 11
+EP 25
+DI 10.1111/imr.12369
+PG 15
+WC Immunology
+SC Immunology
+GA CZ2EA
+UT WOS:000366916700003
+PM 26683142
+OA Green Accepted
+DA 2020-07-08
+ER
+
+PT J
+AU Silverberg, JI
+   Silverberg, NB
+AF Silverberg, Jonathan I.
+   Silverberg, Nanette B.
+TI Vitiligo Disease Triggers: Psychological Stressors Preceding the Onset
+   of Disease
+SO CUTIS
+LA English
+DT Article
+ID OF-LIFE IMPAIRMENT; SERUM HOMOCYSTEINE; FOLIC-ACID; PATHOGENESIS;
+   PSORIASIS; EVENTS; CELLS; ASSOCIATION; CYTOKINES; VULGARIS
+AB Vitiligo is the loss of skin pigmentation caused by autoimmune destruction of melanocytes. Little is known about the impact of psychological stressors preceding vitiligo onset on symptoms associated with vitiligo and the extent of disease. We performed a questionnaire-based study of 1541 adults with vitiligo to evaluate the impact of psychological stressors in this patient population. Psychological stressors should be considered as potential disease triggers in vitiligo patients, and screening of vitiligo patients for psychological stressors and associated symptoms should be included in routine assessment.
+C1 [Silverberg, Jonathan I.] Northwestern Univ, Dept Dermatol, Dept Preventat Med, Chicago, IL 60611 USA.
+   [Silverberg, Jonathan I.] Northwestern Univ, Dept Med Social Sci, Chicago, IL 60611 USA.
+   [Silverberg, Nanette B.] Icahn Sch Med Mt Sinai, Mt Sinai St Lukes Roosevelt & Beth Israel Med Ctr, New York, NY 10029 USA.
+RP Silverberg, NB (corresponding author), Dept Dermatol, 1090 Amsterdam Ave,Ste 11D, New York, NY 10025 USA.
+EM nsilverb@chpnet.org
+OI Silverberg, Jonathan/0000-0003-3686-7805
+CR ALABADIE MSK, 1994, BRIT J DERMATOL, V131, P160
+   Balci DD, 2009, EUR J DERMATOL, V19, P382, DOI 10.1684/ejd.2009.0671
+   Barisic-Drusko V, 2004, COLLEGIUM ANTROPOL, V28, P277
+   Basak PY, 2009, J AM ACAD DERMATOL, V60, P256, DOI 10.1016/j.jaad.2008.09.048
+   Birol A, 2006, INT J DERMATOL, V45, P992, DOI 10.1111/j.1365-4632.2006.02744.x
+   Cakmak SK, 2009, J EUR ACAD DERMATOL, V23, P300, DOI 10.1111/j.1468-3083.2008.03024.x
+   GORONZY J, 1985, CLIN EXP IMMUNOL, V61, P593
+   Grimes PE, 2004, J AM ACAD DERMATOL, V51, P52, DOI 10.1016/j.jaad.2003.12.031
+   Hsieh FY, 1998, STAT MED, V17, P1623, DOI 10.1002/(SICI)1097-0258(19980730)17:14<1623::AID-SIM871>3.0.CO;2-S
+   Jonasson T, 2005, CLIN CHEM LAB MED, V43, P628, DOI 10.1515/CCLM.2005.108
+   Kanwar AJ, 2013, J CUTAN MED SURG, V17, P253, DOI 10.2310/7750.2013.12075
+   Kemp EH, 2011, EXP DERMATOL, V20, P35, DOI 10.1111/j.1600-0625.2010.01181.x
+   Malerba M, 2006, BRIT J DERMATOL, V155, P1165, DOI 10.1111/j.1365-2133.2006.07503.x
+   Manolache L, 2009, J EUR ACAD DERMATOL, V23, P187, DOI 10.1111/j.1468-3083.2008.02764.x
+   Manolache L, 2007, J EUR ACAD DERMATOL, V21, P921, DOI 10.1111/j.1468-3083.2006.02106.x
+   Moretti S, 2002, PIGM CELL RES, V15, P87, DOI 10.1034/j.1600-0749.2002.1o049.x
+   Ongenae K, 2003, PIGM CELL RES, V16, P90, DOI 10.1034/j.1600-0749.2003.00023.x
+   Papadopoulos L, 1998, CLIN EXP DERMATOL, V23, P243
+   Picardi A, 2003, PSYCHOTHER PSYCHOSOM, V72, P150, DOI 10.1159/000069731
+   SALZER BA, 1995, DERMATOLOGY, V190, P109, DOI 10.1159/000246657
+   Shaker OG, 2008, BRIT J DERMATOL, V159, P720, DOI 10.1111/j.1365-2133.2008.08712.x
+   Shastry S, 2009, J INFLAMM-LOND, V6, DOI 10.1186/1476-9255-6-27
+   Silverberg JI, 2014, PEDIATR DERMATOL, V31, P309, DOI 10.1111/pde.12226
+   Silverberg JI, 2013, JAMA DERMATOL, V149, P159, DOI 10.1001/jamadermatol.2013.927
+   Silverberg JI, 2011, J AM ACAD DERMATOL, V64, P445, DOI 10.1016/j.jaad.2010.08.025
+   Silverberg JI, 2010, J AM ACAD DERMATOL, V62, P937, DOI 10.1016/j.jaad.2009.11.024
+   Zailaie MZ, 2005, SAUDI MED J, V26, P799
+NR 27
+TC 12
+Z9 14
+U1 0
+U2 4
+PU QUADRANT HEALTHCOM INC
+PI PARSIPPANY
+PA 7 CENTURY DRIVE, STE 302, PARSIPPANY, NJ 07054-4603 USA
+SN 0011-4162
+EI 2326-6929
+J9 CUTIS
+JI Cutis
+PD MAY
+PY 2015
+VL 95
+IS 5
+BP 255
+EP 262
+PG 8
+WC Dermatology
+SC Dermatology
+GA CI6ZW
+UT WOS:000354913700002
+PM 26057504
+DA 2020-07-08
+ER
+
+PT J
+AU Setaluri, V
+AF Setaluri, Vijayasaradhi
+TI Autophagy as a Melanocytic Self-Defense Mechanism
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+LA English
+DT Editorial Material
+AB Defects in autophagy have implications for melanocyte survival and manifestations of skin pigmentary disorders. Zhang et al (2015) show that mouse melanocytes lacking the autophagy protein Atg7 undergo premature senescence in vitro and accumulate products of oxidative damage, despite activation of the redox response. Interestingly, contrary to previous findings, the melanocyte-specific deficiency in autophagy did not cause major defects in melanosome biogenesis, nor did it produce visually striking changes in mouse coat color.
+C1 [Setaluri, Vijayasaradhi] Univ Wisconsin, Dept Dermatol, Madison, WI 53706 USA.
+RP Setaluri, V (corresponding author), Univ Wisconsin, Dept Dermatol, MSC, Room 439,1300 Univ Ave, Madison, WI 53706 USA.
+EM vsetaluri@dermatology.wisc.edu
+FU NIAMS NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Arthritis &
+   Musculoskeletal & Skin Diseases (NIAMS) [R21 AR062734, P30 AR066524,
+   1P30AR066524, R21AR062734]; BLRD VA [I01 BX002623]
+CR Filomeni G, 2015, CELL DEATH DIFFER, V22, P377, DOI 10.1038/cdd.2014.150
+   Ganesan AK, 2008, PLOS GENET, V4, DOI 10.1371/journal.pgen.1000298
+   HIRONE T, 1978, ACTA DERM-VENEREOL, V58, P223
+   Kalie E, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0075313
+   Lamb CA, 2013, NAT REV MOL CELL BIO, V14, P759, DOI 10.1038/nrm3696
+   Nishida Y, 2009, NATURE, V461, P654, DOI 10.1038/nature08455
+   Sitaram A, 2012, PHYSIOLOGY, V27, P85, DOI 10.1152/physiol.00043.2011
+   Smith JW, 2005, PIGM CELL RES, V18, P417, DOI 10.1111/j.1600-0749.2005.00265.x
+   Zhang CF, 2015, J INVEST DERMATOL, V135, P1348, DOI 10.1038/jid.2014.439
+NR 9
+TC 4
+Z9 5
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 0022-202X
+EI 1523-1747
+J9 J INVEST DERMATOL
+JI J. Invest. Dermatol.
+PD MAY
+PY 2015
+VL 135
+IS 5
+BP 1215
+EP 1217
+DI 10.1038/jid.2015.19
+PG 3
+WC Dermatology
+SC Dermatology
+GA CG1CQ
+UT WOS:000353011000005
+PM 25882462
+OA Green Accepted, Bronze
+DA 2020-07-08
+ER
+
+PT J
+AU Noh, S
+   Kim, M
+   Park, CO
+   Hann, SK
+   Oh, SH
+AF Noh, Seongmin
+   Kim, Miri
+   Park, Chang Ook
+   Hann, Seung-Kyung
+   Oh, Sang Ho
+TI Comparison of the Psychological Impacts of Asymptomatic and Symptomatic
+   Cutaneous Diseases: Vitiligo and Atopic Dermatitis
+SO ANNALS OF DERMATOLOGY
+LA English
+DT Article
+DE Atopic dermatitis; Psychological impacts; Vitiligo
+ID QUALITY-OF-LIFE; PSYCHIATRIC MORBIDITY; TRAIT-ANXIETY; DEPRESSION;
+   PSORIASIS; INDEX; INVENTORY; EXPERIENCE; CAMOUFLAGE; RISK
+AB Background: Vitiligo and atopic dermatitis (AD) are common dermatological disorders which may cause significant psychological and social distress leading to impaired quality of life (QoL) in patients. Objective: We evaluated the degree of psychological stress and impairment of QoL in vitiligo patients as compared with AD patients and normal controls (NCs). Methods: A total of 60 patients from each group and 60 NCs were enrolled. Five questionnaires on depression (Beck depression inventory, BDI), state anxiety (SA) and trait anxiety (TA), interaction anxiousness (IAS), private body consciousness (PBC) and dermatologic QoL were used. Results: The vitiligo patients had a significantly higher level of TA (p < 0.01), PBC (p < 0.001) and impaired QoL (p< 0.001) than NCs, but not BDI, SA and IAS. The AD patients had significantly higher scores for all five questionnaire items compared with NCs. In the comparison between the AD and vitiligo groups, all of the indexes except body consciousness were higher in AD patients than in vitiligo patients: BDI (p< 0.01), SA (p < 0.05), TA (p< 0.001), IAS (p< 0.01) and impaired QoL (p < 0.001). Exposure of vitiligo lesions was not a significant variable in the analysis of the contribution of clinical variables of vitiligo on psychological stress and QoL. Conclusion: Vitiligo, which is not accompanied by any symptoms, involves less psychological impact than AD, which is accompanied by itching. Compared to NCs, however, the elevated general anxiety and body consciousness in patients with vitiligo suggests that they may be more concerned with the aggravation of hypopigmented patches than difficulties in social interactions.
+C1 [Noh, Seongmin; Kim, Miri; Park, Chang Ook; Oh, Sang Ho] Yonsei Univ, Coll Med, Dept Dermatol, Seoul 120752, South Korea.
+   [Noh, Seongmin; Kim, Miri; Park, Chang Ook; Oh, Sang Ho] Yonsei Univ, Coll Med, Cutaneous Biol Res Inst, Seoul 120752, South Korea.
+   [Hann, Seung-Kyung] Korea Inst Vitiligo Res, Seoul, South Korea.
+   [Hann, Seung-Kyung] Drs Woo & Hanns Skin Ctr, Seoul, South Korea.
+RP Oh, SH (corresponding author), Yonsei Univ, Coll Med, Dept Dermatol, 50 Yonsei Ro, Seoul 120752, South Korea.
+EM oddung93@yuhs.ac
+OI Park, Chang Ook/0000-0003-3856-1201; Oh, Sang Ho/0000-0002-4477-1400
+CR Arima M, 2005, J DERMATOL, V32, P160, DOI 10.1111/j.1346-8138.2005.tb00738.x
+   Bae BG, 2012, ACTA DERM-VENEREOL, V92, P57, DOI 10.2340/00015555-1189
+   Basra MKA, 2008, BRIT J DERMATOL, V159, P997, DOI 10.1111/j.1365-2133.2008.08832.x
+   Belhadjali H, 2007, ANN DERMATOL VENER, V134, P233, DOI 10.1016/S0151-9638(07)91814-1
+   Bilgic O, 2011, CLIN EXP DERMATOL, V36, P360, DOI 10.1111/j.1365-2230.2010.03965.x
+   Carney CE, 2009, J PSYCHIATR RES, V43, P576, DOI 10.1016/j.jpsychires.2008.09.002
+   Choi S, 2010, J EUR ACAD DERMATOL, V24, P524, DOI 10.1111/j.1468-3083.2009.03452.x
+   Chu SY, 2012, BRIT J DERMATOL, V166, P525, DOI 10.1111/j.1365-2133.2011.10714.x
+   DiMatteo MR, 2000, ARCH INTERN MED, V160, P2101, DOI 10.1001/archinte.160.14.2101
+   FINLAY AY, 1994, CLIN EXP DERMATOL, V19, P210, DOI 10.1111/j.1365-2230.1994.tb01167.x
+   Grob JJ, 2005, BRIT J DERMATOL, V152, P289, DOI 10.1111/j.1365-2133.2005.06385.x
+   Hahn D, 1996, KOREAN J HLTH PSYCHO, V1, P1, DOI DOI 10.4069/kjwhn.2011.17.5.439
+   Hahn H. M., 1986, J KOREAN NEUROPSYCHI, V25, P487
+   HANIFIN JM, 1980, ACTA DERM-VENEREOL, P44
+   Hashiro M, 1997, J DERMATOL SCI, V14, P63, DOI 10.1016/S0923-1811(96)00553-1
+   Hashizume H, 2006, CURR OPIN ALLERGY CL, V6, P335, DOI 10.1097/01.all.0000244793.03239.40
+   Homan MWL, 2009, J AM ACAD DERMATOL, V61, P411, DOI 10.1016/j.jaad.2009.03.022
+   Kent G, 1996, J AM ACAD DERMATOL, V35, P895, DOI 10.1016/S0190-9622(96)90112-7
+   Kent G, 1996, CLIN EXP DERMATOL, V21, P330
+   Kim DY, 2009, J DERMATOL, V36, P317, DOI 10.1111/j.1346-8138.2009.00646.x
+   Kostopoulou P, 2009, BRIT J DERMATOL, V161, P128, DOI 10.1111/j.1365-2133.2009.09077.x
+   LEARY MR, 1983, J PERS ASSESS, V47, P66, DOI 10.1207/s15327752jpa4701_8
+   Mattoo SK, 2001, J DERMATOL, V28, P424, DOI 10.1111/j.1346-8138.2001.tb00004.x
+   MCCLEARY R, 1991, PSYCHOL REP, V68, P1075, DOI 10.2466/PR0.68.4.1075-1078
+   MILLER LC, 1981, J PERS SOC PSYCHOL, V41, P397, DOI 10.1037/0022-3514.41.2.397
+   Misery L, 2007, DERMATOLOGY, V215, P123, DOI 10.1159/000104263
+   NAKAZATO K, 1989, PERCEPT MOTOR SKILL, V69, P611, DOI 10.2466/pms.1989.69.2.611
+   Oh SH, 2010, ACTA DERM-VENEREOL, V90, P582, DOI 10.2340/00015555-0933
+   Ongenae K, 2005, BRIT J DERMATOL, V152, P1165, DOI 10.1111/j.1365-2133.2005.06456.x
+   Ongenae K, 2005, DERMATOLOGY, V210, P279, DOI 10.1159/000084751
+   Parsad D, 2003, BRIT J DERMATOL, V148, P373, DOI 10.1046/j.1365-2133.2003.05097_9.x
+   Parsad Davinder, 2003, Health Qual Life Outcomes, V1, P58, DOI 10.1186/1477-7525-1-58
+   Picardi A, 2001, ACTA DERM-VENEREOL, V81, P410
+   Poole H, 2006, CLIN J PAIN, V22, P790, DOI 10.1097/01.ajp.0000210930.20322.93
+   PORTER JR, 1986, J AM ACAD DERMATOL, V15, P220, DOI 10.1016/S0190-9622(86)70160-6
+   PORTER JR, 1990, J AM ACAD DERMATOL, V22, P221, DOI 10.1016/0190-9622(90)70028-G
+   Sampogna F, 2008, BRIT J DERMATOL, V159, P351, DOI 10.1111/j.1365-2133.2008.08678.x
+   Schmid-Ott G, 2007, J EUR ACAD DERMATOL, V21, P456, DOI 10.1111/j.1468-3083.2006.01897.x
+   Sharma N, 2001, J DERMATOL, V28, P419, DOI 10.1111/j.1346-8138.2001.tb00003.x
+   Stewart SH, 1997, J ANXIETY DISORD, V11, P179, DOI 10.1016/S0887-6185(97)00005-4
+   Tanioka M, 2010, J COSMET DERMATOL-US, V9, P72, DOI 10.1111/j.1473-2165.2010.00479.x
+   Wang KY, 2011, J EUR ACAD DERMATOL, V25, P429, DOI 10.1111/j.1468-3083.2010.03808.x
+   Wu WH, 2010, J ALLERGY CLIN IMMUN, V126, P290, DOI 10.1016/j.jaci.2010.05.024
+NR 43
+TC 15
+Z9 17
+U1 0
+U2 6
+PU KOREAN DERMATOLOGICAL ASSOC
+PI SEOUL
+PA 305 SEOCHO NASAN, SUITE OFFICE 1330-16, SEOCHO-2-DONG, SEOCHO-GU, SEOUL,
+   137-858, SOUTH KOREA
+SN 1013-9087
+J9 ANN DERMATOL
+JI Ann. Dermatol.
+PD NOV
+PY 2013
+VL 25
+IS 4
+BP 454
+EP 461
+DI 10.5021/ad.2013.25.4.454
+PG 8
+WC Dermatology
+SC Dermatology
+GA 280DM
+UT WOS:000329008900010
+PM 24371393
+OA Green Published, Other Gold
+DA 2020-07-08
+ER
+
+PT J
+AU Lugovic-Mihic, L
+   Ljubesic, L
+   Mihic, J
+   Vukovic-Cvetkovic, V
+   Troskot, N
+   Situm, M
+AF Lugovic-Mihic, Liborija
+   Ljubesic, Luka
+   Mihic, Josip
+   Vukovic-Cvetkovic, Vlasta
+   Troskot, Nina
+   Situm, Mirna
+TI PSYCHONEUROIMMUNOLOGIC ASPECTS OF SKIN DISEASES
+SO ACTA CLINICA CROATICA
+LA English
+DT Review
+DE Psychoneuroimmunology; Skin; Skin diseases; Interleukins; Neuropeptides;
+   Hormones
+ID CORTICOTROPIN-RELEASING HORMONE; HUMAN HACAT KERATINOCYTES;
+   ATOPIC-DERMATITIS; INTERLEUKIN-18 EXPRESSION; PSYCHOLOGICAL STRESS;
+   BETA-ENDORPHIN; PSORIASIS; NEUROENDOCRINE; AXIS; INFLAMMATION
+AB As mental and psychological issues are important in the development of many dermatologic diseases, these factors are of special interest in research. Psychoneuroimmunology is the study of interaction between psychological processes and the nervous and immune systems of the human body, and it was comprehensively described for the first time about 30 years ago. Communication between the mind and the skin involves the psycho-immuno-endocrine-cutaneous system, encompassing the activities of the brain, the immune system and the skin, with participation of different neuropeptides, interleukins, and immune system messengers. Many common dermatologic diseases have some form of psychomediated pathogenesis that partially accounts for the development of skin lesions. There is a link between emotional stressors (acute or chronic), psychiatric diseases, and dermatoses (e.g., psoriasis, atopic dermatitis, urticaria, viral warts, herpes simplex, vitiligo, acnes, alopecia, prurigo, etc.) and different cytokines and mediators produced in the skin and involved in their pathogenesis. A prominent role is played by those agents that belong to the hypothalamic-pituitary-adrenal axis.
+C1 [Lugovic-Mihic, Liborija; Ljubesic, Luka; Troskot, Nina; Situm, Mirna] Sestre Milosrdnice Univ Hosp Ctr, Clin Dept Dermatovenereol, HR-10000 Zagreb, Croatia.
+   [Mihic, Josip] Dr Josip Bencevic Gen Hosp, Div Neurosurg, Slavonski Brod, Croatia.
+   [Vukovic-Cvetkovic, Vlasta] Sestre Milosrdnice Univ Hosp Ctr, Clin Dept Neurol, HR-10000 Zagreb, Croatia.
+RP Lugovic-Mihic, L (corresponding author), Sestre Milosrdnice Univ Hosp Ctr, Clin Dept Dermatovenereol, Vinogradska C 29, HR-10000 Zagreb, Croatia.
+EM liborija@gmail.com
+RI Situm, Mirna/S-3206-2018
+OI Situm, Mirna/0000-0003-0316-7466; Lugovic-Mihic,
+   Liborija/0000-0001-7494-5742
+CR Afsar FS, 2010, J CUTAN MED SURG, V14, P13, DOI 10.2310/7750.2010.09021
+   Bakula A, 2011, ACTA CLIN CROAT, V50, P553
+   Basavaraj K H, 2010, Indian J Psychiatry, V52, P270, DOI 10.4103/0019-5545.70992
+   Buske-Kirschbaum A, 2010, BRAIN BEHAV IMMUN, V24, P1347, DOI 10.1016/j.bbi.2010.06.013
+   Chida Y, 2009, BRAIN BEHAV IMMUN, V23, P917, DOI 10.1016/j.bbi.2009.04.009
+   Chrousos GP, 1998, ANN NY ACAD SCI, V851, P311, DOI 10.1111/j.1749-6632.1998.tb09006.x
+   Chung WL, 2012, SINGAP MED J, V53, P789
+   Dhabhar FS, 2013, CLIN DERMATOL, V31, P18, DOI 10.1016/j.clindermatol.2011.11.003
+   Dou YC, 2006, ARCH DERMATOL RES, V298, P31, DOI 10.1007/s00403-006-0657-1
+   Elenkov IJ, 1999, TRENDS ENDOCRIN MET, V10, P359, DOI 10.1016/S1043-2760(99)00188-5
+   ENGEL GL, 1977, SCIENCE, V196, P129, DOI 10.1126/science.847460
+   Gabrilovac J., 2008, PSIHONEUROIMUNOLOGIJ, P103
+   GLINSKI W, 1995, ACTA DERM-VENEREOL, V75, P9
+   GUPTA MA, 1988, ARCH DERMATOL, V124, P1052, DOI 10.1001/archderm.124.7.1052
+   Karanikas E, 2009, J DERMATOL, V36, P35, DOI 10.1111/j.1346-8138.2008.00583.x
+   Katsarou-Katsari A, 1999, INT J IMMUNOPATH PH, V12, P7
+   Kiecolt-Glaser JK, 2002, ANNU REV PSYCHOL, V53, P83, DOI 10.1146/annurev.psych.53.100901.135217
+   KIM JE, 2012, STRESS HORMONE SKIN
+   Kimata H, 2003, EUR J CLIN INVEST, V33, P513, DOI 10.1046/j.1365-2362.2003.01177.x
+   Lee CH, 2006, BRIT J DERMATOL, V154, P1100, DOI 10.1111/j.1365-2133.2006.07191.x
+   Lee HJ, 2009, EXP DERMATOL, V18, P199, DOI 10.1111/j.1600-0625.2008.00781.x
+   Leibovici V, 2010, J EUR ACAD DERMATOL, V24, P897, DOI 10.1111/j.1468-3083.2009.03542.x
+   Lugovic L., 2007, Acta Medica Croatica, V61, P383
+   MOLDOFSKY H, 1989, FASEB J, V3, P1972
+   O'Kane M, 2006, EXP DERMATOL, V15, P143
+   Oh SH, 2010, ACTA DERM-VENEREOL, V90, P582, DOI 10.2340/00015555-0933
+   Orion E, 2012, CLIN DERMATOL, V30, P280, DOI 10.1016/j.clindermatol.2011.08.014
+   Park HJ, 2005, J INVEST DERMATOL, V124, P751, DOI 10.1111/j.0022-202X.2005.23656.x
+   Park HJ, 2007, J INVEST DERMATOL, V127, P1210, DOI 10.1038/sj.jid.5700703
+   Pisarchik A, 2004, EUR J BIOCHEM, V271, P2821, DOI 10.1111/j.1432-1033.2004.04216.x
+   Schmid-Ott G, 2009, BRIT J DERMATOL, V160, P782, DOI 10.1111/j.1365-2133.2008.09013.x
+   Schut C, 2013, ACTA DERM-VENEREOL, V93, P57, DOI 10.2340/00015555-1415
+   Schwartz R, 2009, REV MED CHILE, V137, P53, DOI [/S0034-98872009000100008, 10.4067/S0034-98872009000100008]
+   Segerstrom SC, 2000, ANN BEHAV MED, V22, P180, DOI 10.1007/BF02895112
+   Slominski A, 2000, PHYSIOL REV, V80, P979
+   Slominski A, 2006, J CELL PHYSIOL, V206, P780, DOI 10.1002/jcp.20530
+   Slominski A, 2007, MOL CELL ENDOCRINOL, V265, P143, DOI 10.1016/j.mce.2006.12.012
+   Theoharides TC, 2012, BBA-MOL BASIS DIS, V1822, P21, DOI 10.1016/j.bbadis.2010.12.014
+   Urpe M, 2005, DERMATOL CLIN, V23, P609, DOI 10.1016/j.det.2005.05.017
+   Verhoeven EWM, 2009, J INVEST DERMATOL, V129, P2075, DOI 10.1038/jid.2008.460
+   Vidrih B, 2012, ACTA CLIN CROAT, V51, P403
+   Zhang XQ, 2005, EXP BIOL MED, V230, P376, DOI 10.1177/15353702-0323006-05
+NR 42
+TC 16
+Z9 18
+U1 0
+U2 9
+PU SESTRE MILOSRDNICE UNIV HOSPITAL
+PI ZAGREB
+PA VINOGRADSKA C 29, ZAGREB, HR-10000, CROATIA
+SN 0353-9466
+EI 1333-9451
+J9 ACTA CLIN CROAT
+JI Acta Clin. Croat.
+PD SEP
+PY 2013
+VL 52
+IS 3
+BP 337
+EP 345
+PG 9
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 287JV
+UT WOS:000329539000009
+PM 24558766
+OA DOAJ Gold
+DA 2020-07-08
+ER
+
+PT J
+AU Passeron, T
+   Ortonne, JP
+AF Passeron, Thierry
+   Ortonne, Jean-Paul
+TI Activation of the Unfolded Protein Response in Vitiligo: The Missing
+   Link?
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+LA English
+DT Editorial Material
+ID DEPIGMENTING AGENT; MELANOCYTES; EPIDERMIS; ACCUMULATION; DYSFUNCTION;
+   MECHANISMS; GENERATION; CELLS
+AB Vitiligo is characterized by a substantial loss of functional melanocytes in the epidermis and sometimes in hair follicles. Genetic and pathophysiological studies have provided strong evidence that vitiligo is a polygenetic, multifactorial disorder. The key roles of oxidative stress within melanocytes and anti-melanocyte immune responses have been addressed in many studies, but the relationship between these mechanisms remains unclear. In this issue, Toosi et al. report the upregulation of IL-6 and IL-8 after the activation of the unfolded protein response (UPR) following exposure of melanocytes to phenols. Their results shed light on the missing link between oxidative stress and immune responses in vitiligo.
+C1 [Passeron, Thierry; Ortonne, Jean-Paul] Univ Hosp Nice, Dept Dermatol, Nice, France.
+   [Passeron, Thierry] INSERM U1065 Team 12, Nice, France.
+RP Passeron, T (corresponding author), CHU Nice, Archet Hosp 2, Dept Dermatol, 151 Route St Antoine de Ginestiere, F-06200 Nice, France.
+EM passeron@unice.fr
+OI Passeron, Thierry/0000-0002-0797-6570
+CR Alkhateeb A, 2003, PIGM CELL RES, V16, P208, DOI 10.1034/j.1600-0749.2003.00032.x
+   BOISSY RE, 1991, J INVEST DERMATOL, V97, P395, DOI 10.1111/1523-1747.ep12480976
+   Dell'Anna ML, 2006, PIGM CELL RES, V19, P406, DOI 10.1111/j.1600-0749.2006.00333.x
+   Dell'Anna ML, 2010, J CELL PHYSIOL, V223, P187, DOI 10.1002/jcp.22027
+   Goodman WA, 2009, J IMMUNOL, V183, P3170, DOI 10.4049/jimmunol.0803721
+   Grimes PE, 2004, J AM ACAD DERMATOL, V51, P52, DOI 10.1016/j.jaad.2003.12.031
+   Harris JE, 2012, J INVEST DERMATOL, V132, P1869, DOI 10.1038/jid.2011.463
+   Hoffmann A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0031298
+   Jin Y, 2012, J INVEST DERMATOL, V132, P1730, DOI 10.1038/jid.2012.37
+   Kitamura R, 2004, J PATHOL, V202, P463, DOI 10.1002/path.1538
+   Klarquist J, 2010, PIGM CELL MELANOMA R, V23, P276, DOI 10.1111/j.1755-148X.2010.00688.x
+   Kotobuki Y, 2012, PIGM CELL MELANOMA R, V25, DOI 10.1111/j.1755-148X.2011.00945.x
+   Kroll TM, 2005, J INVEST DERMATOL, V124, P798, DOI 10.1111/j.0022-202X.2005.23653.x
+   Lan CCE, 2009, BRIT J DERMATOL, V160, P1180, DOI 10.1111/j.1365-2133.2009.09064.x
+   Legros L, 2005, BRIT J DERMATOL, V153, P691, DOI 10.1111/j.1365-2133.2005.06813.x
+   Moretti S, 2009, HISTOL HISTOPATHOL, V24, P849, DOI 10.14670/HH-24.849
+   Schallreuter KU, 1999, J INVEST DERM SYMP P, V4, P91, DOI 10.1038/sj.jidsp.5640189
+   Spritz RA, 2012, J INVEST DERMATOL, V132, P268, DOI 10.1038/jid.2011.321
+   Taher ZA, 2009, BRIT J DERMATOL, V161, P654, DOI 10.1111/j.1365-2133.2009.09217.x
+   Toosi S, 2012, J INVEST DERMATOL, V132, P2601, DOI 10.1038/jid.2012.181
+   van den Boorn JG, 2011, J INVEST DERMATOL, V131, P1240, DOI 10.1038/jid.2011.16
+   Wang CQF, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018907
+NR 22
+TC 17
+Z9 17
+U1 0
+U2 1
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-202X
+EI 1523-1747
+J9 J INVEST DERMATOL
+JI J. Invest. Dermatol.
+PD NOV
+PY 2012
+VL 132
+IS 11
+BP 2502
+EP 2504
+DI 10.1038/jid.2012.328
+PG 3
+WC Dermatology
+SC Dermatology
+GA 022XJ
+UT WOS:000309997200007
+PM 23069909
+OA Bronze
+DA 2020-07-08
+ER
+
+PT J
+AU Schwartz, R
+   Sepulveda, JE
+   Quintana, T
+AF Schwartz, Rodrigo
+   Enrique Sepulveda, Juan
+   Quintana, Teresa
+TI Possible role of psychological and environmental factors in the genesis
+   of chilhood vitiligo
+SO REVISTA MEDICA DE CHILE
+LA Spanish
+DT Article
+DE Child, psychology; Temperament; Vitiligo
+ID GENERALIZED ANXIETY DISORDER; ACUTE MENTAL STRESS; QUALITY-OF-LIFE;
+   CHARACTER INVENTORY; PLASMA-CATECHOLAMINE; TEMPERAMENT; PERSONALITY;
+   EVENTS; INTERLEUKIN-6; BIOSYNTHESIS
+AB Background: The exposue to stressing ituations may play a role in the appearance of vitiligo. Patients with the disease have a greater sensitivity to environmental stress temperament and character of patients with vitiligo and explore the relationship of the disease with negative life events and life quality impairment. Material and methods: The study population were 21 patients with vitiligo aged 5 to 12 years, and two control groups (G1 and G2), G1 was composed by 14 healthy siblings of vitiligo patients. G2 was composed by 21 age and gender matched healthy students from two schools in Santiago, Chile. The Junior Temperament and Character Inventory (JTCI), the Qualitative Psychosocial Development Survey (QPDS), the Life Event Checklist (LEC) and the Childrens' Life Quality Index (CDLQI) were applied (LEC only to vitiligo patients). Results: On the temperament dimensions, vitiligo patients scored high on the " harm avoidance" scale in comparison to G2 (13.7 v/s 10.6). Compared with G1, QPDS showed in vitiligo patients a higher frequency of fear to strangers (71% and 36%. respectively) and a predominant feeling of fear and shyness in response to changes in a close relative (80% and 8%, respectively). There was a negative correlation (protective factor) between the character dimension " self-directedness" and CDLQI score (r = -0.703). Conclusions: In this group of patients, we found a possible relationship between a specific tempaerament dimension, vitiligo and its impact on life quality (Rev Med Chile 2009; 137: 53-62).
+C1 [Schwartz, Rodrigo] Dept Dermatol, Clin Las Condes, Las Condes, Chile.
+   [Schwartz, Rodrigo] Univ Chile, Serv Dermatol, Hosp Clin, Santiago, Chile.
+   [Enrique Sepulveda, Juan] Univ Chile, Clin Psiquiatr Univ, Santiago, Chile.
+   [Quintana, Teresa] Univ Adolfo Ibanez, Santiago, Chile.
+RP Schwartz, R (corresponding author), Lo Fontecilla 441, Las Condes, Fonos, Chile.
+EM Schwartz.rodrigo@gmail.com
+CR AKERSTEDT T, 1983, ACTA PHYSIOL SCAND, V117, P19, DOI 10.1111/j.1748-1716.1983.tb07174.x
+   Anderberg UM, 1999, NORD J PSYCHIAT, V53, P353, DOI 10.1080/080394899427827
+   Bell IR, 1997, BEHAV MED, V22, P168, DOI 10.1080/08964289.1997.10543550
+   Boz C, 2004, PSYCHIAT CLIN NEUROS, V58, P536, DOI 10.1111/j.1440-1819.2004.01297.x
+   Castilla-Cortazar I, 1998, J PHYSIOL BIOCHEM, V54, P203
+   Cloninger CR, 1999, AUST NZ J PSYCHIAT, V33, P174, DOI 10.1046/j.1440-1614.1999.00533.x
+   CLONINGER CR, 1993, ARCH GEN PSYCHIAT, V50, P975, DOI 10.1001/archpsyc.1993.01820240059008
+   CLONINGER R, 1998, J AFFECT DISORDERS, P21
+   Cucchi ML, 2000, PIGM CELL RES, V13, P28, DOI 10.1034/j.1600-0749.2000.130106.x
+   De Tiedra AG, 1998, ACTA DERMOSIFILIOGR, V89, P692
+   DUNERVA SG, 1973, VESTN DERMATOL VENER, V10, P33
+   Gothelf D, 2004, COMPR PSYCHIAT, V45, P192, DOI 10.1016/j.comppsych.2004.02.010
+   Hosak L, 2004, EUR PSYCHIAT, V19, P193, DOI 10.1016/j.eurpsy.2004.04.003
+   HOWITZ J, 1977, ARCH DERMATOL, V113, P47, DOI 10.1001/archderm.113.1.47
+   Jiang N, 2003, J PSYCHOSOM RES, V55, P493, DOI 10.1016/S0022-3999(03)00021-7
+   JOHNSON JH, 1980, STRESS ANXIETY HEMIS
+   KAGAN J, 1987, CHILD DEV, V58, P1459, DOI 10.1111/j.1467-8624.1987.tb03858.x
+   Kagan J, 1998, CHILD DEV, V69, P1483, DOI 10.2307/1132126
+   KAGAN J, 1988, SCIENCE, V240, P167, DOI 10.1126/science.3353713
+   LERNER AB, 1959, J INVEST DERMATOL, V32, P285, DOI 10.1038/jid.1959.49
+   LERNER AB, 1971, AM J MED, V51, P141, DOI 10.1016/0002-9343(71)90232-4
+   LEWISJONES MS, 1995, BRIT J DERMATOL, V132, P942
+   Luby JL, 1999, PSYCHOL REP, V84, P1127, DOI 10.2466/PR0.84.3.1127-1138
+   MEHTA NR, 1973, INDIAN J MED RES, V61, P145
+   Moretti S, 2002, PIGM CELL RES, V15, P87, DOI 10.1034/j.1600-0749.2002.1o049.x
+   MORRONE A, 1992, PIGM CELL RES, V5, P65, DOI 10.1111/j.1600-0749.1992.tb00003.x
+   NESSE RM, 1984, ARCH GEN PSYCHIAT, V41, P771
+   Ongenae K, 2005, BRIT J DERMATOL, V152, P1165, DOI 10.1111/j.1365-2133.2005.06456.x
+   Ongenae K, 2005, DERMATOLOGY, V210, P279, DOI 10.1159/000084751
+   Papadopoulos L, 1998, CLIN EXP DERMATOL, V23, P243
+   Parsad D, 2003, BRIT J DERMATOL, V148, P373, DOI 10.1046/j.1365-2133.2003.05097_9.x
+   PAWELEK J, 1980, NATURE, V286, P617, DOI 10.1038/286617a0
+   Picardi A, 2003, PSYCHOTHER PSYCHOSOM, V72, P150, DOI 10.1159/000069731
+   SALZER BA, 1995, DERMATOLOGY, V190, P109, DOI 10.1159/000246657
+   SCHALLREUTER KU, 1994, BBA-MOL BASIS DIS, V1226, P181, DOI 10.1016/0925-4439(94)90027-2
+   Schwartz CE, 1996, J ANXIETY DISORD, V10, P89, DOI 10.1016/0887-6185(96)87623-7
+   Schwartz CE, 2003, SCIENCE, V300, P1952, DOI 10.1126/science.1083703
+   SEVY S, 1989, BIOL PSYCHIAT, V25, P141, DOI 10.1016/0006-3223(89)90158-3
+   Starcevic V, 1996, J AFFECT DISORDERS, V37, P75, DOI 10.1016/0165-0327(95)00058-5
+   Steptoe A, 2001, CLIN SCI, V101, P185, DOI 10.1042/CS20010038
+   Tu CX, 2003, J DERMATOL SCI, V31, P73, DOI 10.1016/S0923-1811(02)00151-2
+   von Kanel R, 2006, BRAIN BEHAV IMMUN, V20, P40, DOI 10.1016/j.bbi.2005.03.013
+NR 42
+TC 17
+Z9 18
+U1 0
+U2 5
+PU SOC MEDICA SANTIAGO
+PI SANTIAGO 9
+PA BERNARDA MORIN 488 PROVIDENCIA, CASILLA 168 CORREO 55, SANTIAGO 9,
+   00000, CHILE
+SN 0034-9887
+J9 REV MED CHILE
+JI Rev. Medica Chile
+PD JAN
+PY 2009
+VL 137
+IS 1
+BP 53
+EP 62
+PG 10
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 415ZS
+UT WOS:000263975600008
+PM 19399322
+DA 2020-07-08
+ER
+
+PT J
+AU Denman, CJ
+   McCracken, J
+   Hariharan, V
+   Klarquist, J
+   Oyarbide-Valencia, K
+   Guevara-Patino, JA
+   Le Poole, IC
+AF Denman, Cecele J.
+   McCracken, James
+   Hariharan, Vidhya
+   Klarquist, Jared
+   Oyarbide-Valencia, Kepa
+   Guevara-Patino, Jose A.
+   Le Poole, I. Caroline
+TI HSP70i accelerates depigmentation in a mouse model of autoimmune
+   vitiligo
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+LA English
+DT Article
+ID TYROSINASE-RELATED PROTEIN-2; HUMAN MELANOCYTES; IMMUNE-RESPONSE;
+   TUMOR-IMMUNITY; GENE GUN; HEAT-SHOCK-PROTEIN-70; CELLS; VACCINATION;
+   EXPRESSION; MELANOMA
+AB Vitiligo is a T-cell-mediated autoimmune disease of the skin. Progressive depigmentation accelerates in response to stress. Personal trauma, contact with bleaching phenols, overexposure to UV, and mechanical injury can lead to progressive loss of melanocytes. This study was focused on the role of stress protein heat shock protein (HSP)70 for translating stress into an autoimmune disease to melanocytes. Intracellular HSP70 can act as a cytoprotectant, preventing apoptosis in cells under stress. Isoform HSP70i can be secreted by live cells, and in prior in vitro studies, HSP70 has been shown to activate dendritic cells and elicit an immune response to chaperoned proteins and peptides. Here, the role of HSP70 in precipitating and perpetuating vitiligo was assessed in vivo in a mouse model of autoimmune vitiligo. In this model, depigmentation was introduced by gene gun vaccination with eukaryotic expression plasmids encoding melanocyte differentiation antigens. Inclusion of human and mouse-derived inducible HSP70 in the vaccination protocol significantly increased and accelerated depigmentation in this model, accompanied by the induction of prolonged humoral responses to HSP70. Cytotoxicity toward targets loaded with a K(b)-restricted tyrosinase-related protein 2-derived peptide correlated with depigmentation. The data presented strongly support a role for HSP70i in progressive depigmentation in vivo.
+C1 [Denman, Cecele J.; Hariharan, Vidhya; Klarquist, Jared; Oyarbide-Valencia, Kepa; Le Poole, I. Caroline] Loyola Univ, Inst Oncol, Dept Pathol, Maywood, IL 60153 USA.
+   [McCracken, James; Guevara-Patino, Jose A.] Univ Chicago, Dept Surg, Maywood, IL USA.
+RP Le Poole, IC (corresponding author), Loyola Univ, Cardinal Bernardin Canc Ctr, Dept Pathol Microbiol & Immunol, Rm 203,2160 S 1st Ave, Maywood, IL 60153 USA.
+EM ilepool@lumc.edu
+RI Guevara, Jose/AAD-6707-2020
+FU NIAMS NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Arthritis &
+   Musculoskeletal & Skin Diseases (NIAMS) [R03 AR050137, R01 AR054749]
+CR Asea Alexzander, 2006, Current Immunology Reviews, V2, P209, DOI 10.2174/157339506778018514
+   Barisic-Drusko V, 2004, COLLEGIUM ANTROPOL, V28, P277
+   Bendz H, 2007, J BIOL CHEM, V282, P31688, DOI 10.1074/jbc.M704129200
+   Bivik C, 2007, CARCINOGENESIS, V28, P537, DOI 10.1093/carcin/bgl152
+   Boissy RE, 2004, PIGM CELL RES, V17, P208, DOI 10.1111/j.1600-0749.2004.00130.x
+   Das PK, 2001, TRENDS IMMUNOL, V22, P130, DOI 10.1016/S1471-4906(00)01844-5
+   Engelhorn ME, 2006, NAT MED, V12, P198, DOI 10.1038/nm1363
+   Gastpar R, 2005, CANCER RES, V65, P5238, DOI 10.1158/0008-5472.CAN-04-3804
+   Haug M, 2005, EUR J IMMUNOL, V35, P3163, DOI 10.1002/eji.200535050
+   HEDSTRAND H, 2006, ARCH DERMATOL RES, V298, P131
+   Kroll TM, 2005, J INVEST DERMATOL, V124, P798, DOI 10.1111/j.0022-202X.2005.23653.x
+   Lane C, 2004, CANCER RES, V64, P1509, DOI 10.1158/0008-5472.CAN-03-3227
+   Lauterbach H, 2006, J IMMUNOL, V176, P4600, DOI 10.4049/jimmunol.176.8.4600
+   Le Poole I. Caroline, 2008, V10, P227, DOI 10.1159/000131485
+   LEPOOLE IC, 1993, J INVEST DERMATOL, V100, P816, DOI 10.1111/1523-1747.ep12476645
+   LEPOOLE IC, 1993, EXP CELL RES, V205, P388, DOI 10.1006/excr.1993.1102
+   Mambula SS, 2006, J IMMUNOL, V177, P7849, DOI 10.4049/jimmunol.177.11.7849
+   Marnbula SS, 2007, METHODS, V43, P168, DOI 10.1016/j.ymeth.2007.06.009
+   Multhoff G, 2006, HANDB EXP PHARM, V172, P279
+   Namazi MR, 2007, PIGM CELL RES, V20, P360, DOI 10.1111/j.1600-0749.2007.00408.x
+   NORDLUND JJ, 1983, J AM ACAD DERMATOL, V9, P689, DOI 10.1016/S0190-9622(83)70182-9
+   Ogg GS, 1998, J EXP MED, V188, P1203, DOI 10.1084/jem.188.6.1203
+   Okamoto T, 1998, J INVEST DERMATOL, V111, P1034, DOI 10.1046/j.1523-1747.1998.00411.x
+   Overwijk WW, 1999, P NATL ACAD SCI USA, V96, P2982, DOI 10.1073/pnas.96.6.2982
+   Pido-Lopez J, 2007, J IMMUNOL, V178, P1671, DOI 10.4049/jimmunol.178.3.1671
+   Sanchez-Perez L, 2006, J IMMUNOL, V177, P4168, DOI 10.4049/jimmunol.177.6.4168
+   Spritz RA, 2007, PIGM CELL RES, V20, P271, DOI 10.1111/j.1600-0749.2007.00384.x
+   Steitz J, 2000, INT J CANCER, V86, P89, DOI 10.1002/(SICI)1097-0215(20000401)86:1<89::AID-IJC14>3.0.CO;2-I
+   Tavaria M, 1996, CELL STRESS CHAPERON, V1, P23, DOI 10.1379/1466-1268(1996)001<0023:AHSGTT>2.3.CO;2
+   Trimble C, 2003, VACCINE, V21, P4036, DOI 10.1016/S0264-410X(03)00275-5
+NR 30
+TC 59
+Z9 64
+U1 1
+U2 11
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-202X
+EI 1523-1747
+J9 J INVEST DERMATOL
+JI J. Invest. Dermatol.
+PD AUG
+PY 2008
+VL 128
+IS 8
+BP 2041
+EP 2048
+DI 10.1038/jid.2008.45
+PG 8
+WC Dermatology
+SC Dermatology
+GA 331SA
+UT WOS:000258031700025
+PM 18337834
+OA Bronze, Green Accepted
+DA 2020-07-08
+ER
+
+PT J
+AU Manolache, L
+   Benea, V
+AF Manolache, Liana
+   Benea, Vasile
+TI Stress in patients with alopecia areata and vitiligo
+SO JOURNAL OF THE EUROPEAN ACADEMY OF DERMATOLOGY AND VENEREOLOGY
+LA English
+DT Article
+DE alopecia areata; case-control study; life events; stress; vitiligo
+ID PSYCHIATRIC MORBIDITY; LIFE EVENTS; PREVALENCE; PSORIASIS; PATTERN;
+   IMPACT; ONSET; INDIA
+AB Objective To study the involvement of stress before the onset/development of alopecia areata and vitiligo.
+   Patients and method Forty-five outpatients with alopecia areata and 32 outpatients with vitiligo were enrolled. The design was a case-control study (controls had skin diseases unrelated to stress). Stressful events were evaluated using Holmes and Rahe's social readjustment rating scale.
+   Results Mean age was around 30 years in both conditions. More than 65% of cases (both alopecia areata and vitiligo) experienced stressful events compared to 22% of controls. The odds ratio was 7.75 for alopecia areata and 6.81 for vitiligo. There was a significant difference in the mean number of stressful events between alopecia areata patients and controls (P = 0.005), and also a significant difference in the number of stressful events between men (P = 0.05) and women (P = 0.001) across these two groups. In the vitiligo group there was a significant difference in the mean number of stressful events between patients and controls only in women (P = 0.02). A potential stressful situation occurred more often in both patient groups. Alopecia areata patients described family problems in 45.6% of patients (especially women), which was statistically significant when compared to controls (P = 0.0004). Personal problems were reported by 35.7% of alopecia areata patients (P = 0.04 compared to controls). Vitiligo patients mentioned personal problems in 47% of cases (one-third were related to exams) and 31% of cases were related to job/financial problems. Again, this was statistically significant when compared to controls (P = 0.0002).
+   Conclusions Stress seems to play an important role in the onset and aggravation of both alopecia areata and vitiligo, mostly with one stressful event before disease onset.
+C1 Cetatea Histria Polyclin, Bucharest, Romania.
+   Scarlat Longhin Clin Dermatol, Bucharest, Romania.
+RP Manolache, L (corresponding author), Aleea Politechn Nr 2,Bl 2,SC 2,Ap 16 Sector 6, Bucharest 060816, Romania.
+EM manoliana@b.astral.ro
+RI Manolache, Liana/J-6369-2015
+OI Manolache, Liana/0000-0003-2357-4229
+CR AGARWAL G, 1998, FAM PRACT S1, V15, pS198
+   Brajac I, 2003, J DERMATOL, V30, P871, DOI 10.1111/j.1346-8138.2003.tb00341.x
+   COLON EA, 1991, COMPR PSYCHIAT, V32, P245, DOI 10.1016/0010-440X(91)90045-E
+   CORRIN E, 2000, DERMATOL PSYCHOSO S1, V1, P42
+   Elgowieni M, 2003, DERMATOL PSYCHOSOM, V4, P107
+   Firooz A, 2004, INT J DERMATOL, V43, P811, DOI 10.1111/j.1365-4632.2004.02059.x
+   Gieler U, 2000, DERMATOL PSYCHOSOM, V1, P6
+   Gulec AT, 2004, INT J DERMATOL, V43, P352, DOI 10.1111/j.1365-4632.2004.02028.x
+   Gupta MA, 1996, J AM ACAD DERMATOL, V34, P1030, DOI 10.1016/S0190-9622(96)90284-4
+   Gupta MA, 1997, ACTA DERM-VENEREOL, V77, P296
+   HOLMES TH, 1967, J PSYCHOSOM RES, V11, P213, DOI 10.1016/0022-3999(67)90010-4
+   Koo John Y. M., 1994, International Journal of Dermatology, V33, P849, DOI 10.1111/j.1365-4362.1994.tb01018.x
+   MANOLACHE L, 2002, JEADV S1, V16, P299
+   Manolache L, 2003, DERMATOL PSYCHOSOM, V4, P112
+   Mattoo SK, 2002, J EUR ACAD DERMATOL, V16, P573, DOI 10.1046/j.1468-3083.2002.00590.x
+   Mattoo SK, 2001, J DERMATOL, V28, P424, DOI 10.1111/j.1346-8138.2001.tb00004.x
+   Onunu AN, 2003, INT J DERMATOL, V42, P800, DOI 10.1046/j.1365-4362.2003.01908.x
+   Panconesi E, 1996, DERMATOL CLIN, V14, P399, DOI 10.1016/S0733-8635(05)70368-5
+   Papadopoulos L, 1998, CLIN EXP DERMATOL, V23, P243
+   Picardi A, 2003, PSYCHOSOMATICS, V44, P374, DOI 10.1176/appi.psy.44.5.374
+   Picardi A, 2003, PSYCHOTHER PSYCHOSOM, V72, P150, DOI 10.1159/000069731
+   Poot F, 2004, Rev Med Brux, V25, pA286
+   Ruiz-Doblado S, 2003, INT J DERMATOL, V42, P434, DOI 10.1046/j.1365-4362.2003.01340.x
+   SAYAR K, 2001, DERMATOL PSYCHOSOM, V2, P12
+   Sharma N, 2001, J DERMATOL, V28, P419, DOI 10.1111/j.1346-8138.2001.tb00003.x
+   Silvan M, 2004, CUTIS, V73, P163
+   Tan E, 2002, INT J DERMATOL, V41, P748, DOI 10.1046/j.1365-4362.2002.01357.x
+   VANDERSTEEN P, 1992, ACTA DERM-VENEREOL, V72, P279
+   Wygledowska-Kania M, 1996, Psychiatr Pol, V30, P669
+NR 29
+TC 86
+Z9 91
+U1 0
+U2 7
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 0926-9959
+J9 J EUR ACAD DERMATOL
+JI J. Eur. Acad. Dermatol. Venereol.
+PD AUG
+PY 2007
+VL 21
+IS 7
+BP 921
+EP 928
+DI 10.1111/j.1468-3083.2006.02106.x
+PG 8
+WC Dermatology
+SC Dermatology
+GA 200UV
+UT WOS:000248789200008
+PM 17659001
+DA 2020-07-08
+ER
+
+PT J
+AU Picardi, A
+   Pasquini, P
+   Cattaruzza, MS
+   Gaetano, P
+   Melchi, CF
+   Baliva, G
+   Camaioni, D
+   Tiago, A
+   Abeni, D
+   Biondi, M
+AF Picardi, A
+   Pasquini, P
+   Cattaruzza, MS
+   Gaetano, P
+   Melchi, CF
+   Baliva, G
+   Camaioni, D
+   Tiago, A
+   Abeni, D
+   Biondi, M
+TI Stressful life events, social support, attachment security and
+   alexithymia in vitiligo
+SO PSYCHOTHERAPY AND PSYCHOSOMATICS
+LA English
+DT Article
+DE stress; life events; attachment; alexithymia; social support; vitiligo;
+   skin disease
+ID ADULT ATTACHMENT; MULTIDIMENSIONAL SCALE; PSYCHOSOMATIC-MEDICINE;
+   PSYCHOLOGICAL DISTRESS; COPING STRATEGIES; CROSS-VALIDATION; RESPONSES;
+   STYLES; HEALTH; PERSPECTIVES
+AB Background. It has often been suggested that stress might trigger vitiligo. However, only one study supported this hypothesis, and no study explored the role of other personality or social factors. Methods: Out-patients experiencing a recent onset or exacerbation of vitiligo (n = 31) were compared with out-patients with skin conditions in which psychosomatic factors are commonly were regarded as negligible (n = 116). Stressful events during the last 12 months were assessed with Paykel's Interview for Recent Life Events. Attachment style, alexithymia and social support were assessed with the 'Experiences in Close Relationships' questionnaire, the Toronto Alexithymia Scale (TAS-20), and the Multidimensional Scale of Perceived Social Support, respectively. Results: Cases and controls did not differ regarding the total number of events and the number of undesirable, uncontrollable or major events. Three or more uncontrollable events had occurred more frequently among cases than controls. Perceived social support was lower in cases than in controls. Cases scored higher than controls on anxious attachment, tended towards higher scores on avoidant attachment and were classified more often as insecure. Cases scored higher than controls on the TAS-20 and were classified more often as alexithymic or borderline alexithymic. The occurrence of many uncontrollable events, alexithymia and anxious attachment were associated with vitiligo also in multiple logistic regression analysis. Conclusions: These findings suggest that vulnerability to vitiligo is not increased by stressful events, except for many uncontrollable events. Alexithymia, insecure attachment and poor social support appear to increase susceptibility to vitiligo, possibly through deficits in emotion regulation or reduced ability to cope effectively with stress. Copyright (C) 2003 S. Karger AG, Basel.
+C1 IRCCS, IDI, Inst Dermatol, Clin Epidemiol Unit, I-00167 Rome, Italy.
+   IRCCS, IDI, Inst Dermatol, Dermatol Clin 2, I-00167 Rome, Italy.
+   IRCCS, IDI, Inst Dermatol, Dermatol Clin 3, I-00167 Rome, Italy.
+   IRCCS, IDI, Inst Dermatol, Dermatol Clin 8, I-00167 Rome, Italy.
+   IRCCS, IDI, Inst Dermatol, Dermatol Clin 1, I-00167 Rome, Italy.
+   Univ Roma La Sapienza, Dept Publ Hlth, Rome, Italy.
+   Univ Roma La Sapienza, Dept Psychiat Sci & Psychol Med, Rome, Italy.
+RP Picardi, A (corresponding author), IRCCS, IDI, Inst Dermatol, Clin Epidemiol Unit, Via Monti Creta 104, I-00167 Rome, Italy.
+RI Picardi, Angelo/B-2181-2013; Biondi, Massimo/D-3035-2018; Abeni,
+   Damiano/AAA-1401-2019
+OI Picardi, Angelo/0000-0003-2392-3011; Biondi,
+   Massimo/0000-0001-8777-5498; Abeni, Damiano/0000-0002-0167-7617
+CR ALLOWAY R, 1987, PSYCHOL MED, V17, P91, DOI 10.1017/S0033291700013015
+   Anan RM, 1999, DEV PSYCHOL, V35, P1210, DOI 10.1037/0012-1649.35.5.1210
+   BAGBY RM, 1994, J PSYCHOSOM RES, V38, P33, DOI 10.1016/0022-3999(94)90006-X
+   BAGBY RM, 1994, J PSYCHOSOM RES, V38, P23, DOI 10.1016/0022-3999(94)90005-1
+   BARTHOLOMEW K, 1991, J PERS SOC PSYCHOL, V61, P226, DOI 10.1037/0022-3514.61.2.226
+   Bartholomew K, 1997, BRIT J MED PSYCHOL, V70, P249, DOI 10.1111/j.2044-8341.1997.tb01903.x
+   BARTHOLOMEW K, 1997, SOURCEBOOK SOCIAL SU
+   Biondi M, 1999, PSYCHOTHER PSYCHOSOM, V68, P114, DOI 10.1159/000012323
+   BOISSY RE, 1996, CUTANEOUS MED SURG
+   BRENNAN KA, 1998, ATTACHMENT THEORY CL
+   Bressi C, 1996, J PSYCHOSOM RES, V41, P551, DOI 10.1016/S0022-3999(96)00228-0
+   Carpenter EM, 1996, PERS RELATIONSHIP, V3, P351, DOI 10.1111/j.1475-6811.1996.tb00121.x
+   COBB S, 1976, PSYCHOSOM MED, V38, P300, DOI 10.1097/00006842-197609000-00003
+   COHEN S, 1985, PSYCHOL BULL, V98, P310, DOI 10.1037/0033-2909.98.2.310
+   Cohen S, 1996, ANNU REV PSYCHOL, V47, P113, DOI 10.1146/annurev.psych.47.1.113
+   Cohen S., 2000, SOCIAL SUPPORT MEASU
+   COHEN S, 1985, SOCIAL SUPPORT H LTH
+   Cozzarelli C, 1998, J PERS SOC PSYCHOL, V74, P453, DOI 10.1037/0022-3514.74.2.453
+   DAHLEM NW, 1991, J CLIN PSYCHOL, V47, P756, DOI 10.1002/1097-4679(199111)47:6<756::AID-JCLP2270470605>3.0.CO;2-L
+   Eker D, 2000, SOC PSYCH PSYCH EPID, V35, P228, DOI 10.1007/s001270050232
+   Fava GA, 2000, PSYCHOTHER PSYCHOSOM, V69, P184, DOI 10.1159/000012393
+   FAVA GA, 1981, VERSIONE ITALIANA SC
+   Feeney BC, 1996, J PERS SOC PSYCHOL, V70, P255, DOI 10.1037/0022-3514.70.2.255
+   Florian V, 1995, J PSYCHOL, V129, P665, DOI 10.1080/00223980.1995.9914937
+   Grassi L, 2000, PSYCHOTHER PSYCHOSOM, V69, P95, DOI 10.1159/000012372
+   Gunnar MR, 1996, DEV PSYCHOBIOL, V29, P191, DOI 10.1002/(SICI)1098-2302(199604)29:3<191::AID-DEV1>3.0.CO;2-M
+   KAZARIAN SS, 1991, J COMMUNITY PSYCHOL, V19, P150, DOI 10.1002/1520-6629(199104)19:2<150::AID-JCOP2290190206>3.0.CO;2-J
+   Kent G, 1996, J AM ACAD DERMATOL, V35, P895, DOI 10.1016/S0190-9622(96)90112-7
+   KOBLENZER CS, 1983, ARCH DERMATOL, V119, P501, DOI 10.1001/archderm.119.6.501
+   Kraemer S, 1995, J PSYCHOSOM RES, V39, P937, DOI 10.1016/0022-3999(95)00511-0
+   LAKCY B, 2000, SOCIAL SUPPORT MEASU
+   LESSER IM, 1981, PSYCHOSOM MED, V43, P531, DOI 10.1097/00006842-198112000-00009
+   Lotti T, 1999, INT J DERMATOL, V38, P673, DOI 10.1046/j.1365-4362.1999.00767.x
+   Luminet O, 2001, PSYCHOTHER PSYCHOSOM, V70, P254, DOI 10.1159/000056263
+   Lumley MA, 1996, J PSYCHOSOM RES, V41, P519, DOI 10.1016/S0022-3999(96)00227-9
+   MARTIN JB, 1985, PSYCHOTHER PSYCHOSOM, V43, P169, DOI 10.1159/000287876
+   MARTIN JB, 1986, PSYCHOTHER PSYCHOSOM, V45, P66, DOI 10.1159/000287930
+   MIKULINCER M, 1993, J PERS SOC PSYCHOL, V64, P817, DOI 10.1037/0022-3514.64.5.817
+   MIKULINCER M, 1998, ATTACHMENT THEORY CL
+   Naatanen P, 1999, PSYCHOTHER PSYCHOSOM, V68, P252, DOI 10.1159/000012341
+   Nordlund JJ, 1997, DERMATOL CLIN, V15, P69, DOI 10.1016/S0733-8635(05)70416-2
+   NORUSIS MJ, 1998, SPSS WINDOWS PROFESS
+   Ognibene TC, 1998, J SOC PERS RELAT, V15, P323, DOI 10.1177/0265407598153002
+   Papadopoulos L, 1998, CLIN EXP DERMATOL, V23, P243
+   Paykel ES, 1997, PSYCHOL MED, V27, P301, DOI 10.1017/S0033291796004424
+   PAYKEL ES, 1983, J PSYCHOSOM RES, V27, P341, DOI 10.1016/0022-3999(83)90065-X
+   Picardi A, 2000, BRIT J DERMATOL, V143, P983, DOI 10.1046/j.1365-2133.2000.03831.x
+   Picardi A, 2001, PSYCHOTHER PSYCHOSOM, V70, P118, DOI 10.1159/000056237
+   PICARDI A, IN PRESS G ITAL PSIC
+   Picardi A., 2000, RIV PSICHIATR, V35, P114
+   PORTER JR, 1990, J AM ACAD DERMATOL, V22, P221, DOI 10.1016/0190-9622(90)70028-G
+   RAPHAEL KG, 1991, HEALTH PSYCHOL, V10, P62, DOI 10.1037/0278-6133.10.1.62
+   REIS H, 2000, SOCIAL SUPPORT MEASU
+   Russiello F., 1995, J EUR ACAD DERMATOL, V5, P234, DOI [10.1016/0926-9959(95)00096-1, DOI 10.1016/0926-9959(95)00096-1]
+   SALMINEN JK, 1994, J PSYCHOSOM RES, V38, P681, DOI 10.1016/0022-3999(94)90020-5
+   Scheidt CE, 1999, J NERV MENT DIS, V187, P47, DOI 10.1097/00005053-199901000-00008
+   Sifneos PE, 1996, AM J PSYCHIAT, V153, P137
+   Stone LA, 2001, PSYCHOTHER PSYCHOSOM, V70, P92, DOI 10.1159/000056232
+   TAYLOR G, 1992, INTERFACES PSYCHOANA
+   TAYLOR GJ, 1984, AM J PSYCHIAT, V141, P725
+   Troisi A, 2001, J NERV MENT DIS, V189, P311, DOI 10.1097/00005053-200105000-00007
+   TURNER RJ, 1995, MEASURING STRESS
+   Uchino BN, 1996, PSYCHOL BULL, V119, P488, DOI 10.1037/0033-2909.119.3.488
+   Valera EM, 2001, PSYCHOTHER PSYCHOSOM, V70, P239, DOI 10.1159/000056261
+   VANMOFFAERT M, 1992, PSYCHOTHER PSYCHOSOM, V58, P125, DOI 10.1159/000288621
+   Waters E, 2000, CHILD DEV, V71, P684, DOI 10.1111/1467-8624.00176
+   WEINER H, 1982, J AM ACAD PSYCHOAN, V10, P27, DOI 10.1521/jaap.1.1982.10.1.27
+   ZIMET GD, 1990, J PERS ASSESS, V55, P610, DOI 10.1207/s15327752jpa5503&4_17
+   ZIMET GD, 1988, J PERS ASSESS, V52, P30, DOI 10.1207/s15327752jpa5201_2
+NR 69
+TC 77
+Z9 81
+U1 0
+U2 12
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0033-3190
+J9 PSYCHOTHER PSYCHOSOM
+JI Psychother. Psychosom.
+PD MAY-JUN
+PY 2003
+VL 72
+IS 3
+BP 150
+EP 158
+DI 10.1159/000069731
+PG 9
+WC Psychiatry; Psychology
+SC Psychiatry; Psychology
+GA 678FK
+UT WOS:000182854300006
+PM 12707482
+DA 2020-07-08
+ER
+
+PT J
+AU Picardi, A
+   Abeni, D
+AF Picardi, A
+   Abeni, D
+TI Stressful life events and skin diseases: Disentangling evidence from
+   myth
+SO PSYCHOTHERAPY AND PSYCHOSOMATICS
+LA English
+DT Review
+DE psychological stress; life change events; skin diseases; psoriasis;
+   alopecia areata; atopic dermatitis; urticaria; acne; vitiligo; lichen
+   planus
+ID ORAL LICHEN-PLANUS; ATOPIC-DERMATITIS; ALOPECIA-AREATA;
+   PSYCHIATRIC-DISORDERS; EMOTIONAL-STRESS; PSORIASIS; DERMATOLOGY;
+   SYMPTOMS; URTICARIA; NEUROPEPTIDES
+AB The possibility of a causal influence of emotional stress, especially of stressful life events, on the course of various skin diseases has long been postulated. Clinical wisdom and experience, as well as many anecdotal observations and uncontrolled case series, support this opinion. We reviewed the available evidence on the role of stressful life events in triggering or exacerbating skin diseases. The role of stressful events in vitiligo, lichen planus, acne, pemphigus and seborrhoeic dermatitis was either controversial or insufficiently explored. The role of stressful events in psoriasis, alopecia areata, atopic dermatitis and urticaria was apparently clearer. However, only a few studies met acceptable methodological standards for stress measurement. Also, few studies considered common potential confounding factors (e.g. age, duration of illness, familial factors), and no study controlled adequately for the influence of other crucial factors (e.g. discontinuation of treatment, seasonal effects). Adding that the large majority of studies were retrospective, it seems wise to conclude that only preliminary evidence has been published so far on the role of stressful life events in bringing on or worsening any dermatological disease. Further research is mandatory, either in the form of prospective studies or, more feasibly, of well-designed case-control studies with adequate statistical power. Future studies should also pay more attention to protective as well as vulnerability factors in stressful events. Further, it would be important to investigate other sources of psychological stress, such as ch ron ic stress and everyday stress. Measuring stress appraisal, although difficult, would also be important. Copyright (C) 2001 S. Karger AG, Basel.
+C1 IRCCS, IDI, Inst Dermatol Immacolata, Clin Epidemiol Unit, I-00167 Rome, Italy.
+RP Picardi, A (corresponding author), IRCCS, IDI, Inst Dermatol Immacolata, Clin Epidemiol Unit, Via Monti di Creta 104, I-00167 Rome, Italy.
+EM angelo.picardi@flashnet.it
+RI Picardi, Angelo/B-2181-2013; Abeni, Damiano/AAA-1401-2019
+OI Picardi, Angelo/0000-0003-2392-3011; Abeni, Damiano/0000-0002-0167-7617
+CR Aktan S, 1998, DERMATOLOGY, V197, P230, DOI 10.1159/000018002
+   ALABADIE MS, 1994, BRIT J DERMATOL, V130, P199, DOI 10.1111/j.1365-2133.1994.tb02900.x
+   ALKHAWAJAH M, 1991, ANN SAUDI MED, V11, P651, DOI 10.5144/0256-4947.1991.651
+   ALLEN CM, 1986, ORAL SURG ORAL MED O, V61, P44, DOI 10.1016/0030-4220(86)90201-X
+   ALTMAN J, 1961, ARCH DERMATOL, V84, P179, DOI 10.1001/archderm.1961.01580140005001
+   ANDERSON I, 1950, BRIT MED J, V2, P1250, DOI 10.1136/bmj.2.4691.1250
+   BALDARO B, 1989, MED PSICOSOMATICA, V34, P271
+   Baldaro B, 1989, MED PSICOSOMATICA, V34, P47
+   BALDARO B, 1987, MED PSICOSOM, V32, P307
+   BAUGHMAN R, 1971, ARCH DERMATOL, V103, P599, DOI 10.1001/archderm.103.6.599
+   BEARE JM, 1978, BRIT J DERMATOL, V98, P553, DOI 10.1111/j.1365-2133.1978.tb01941.x
+   Bergbrant I M, 1991, Acta Derm Venereol Suppl (Stockh), V167, P1
+   Biondi M, 1996, PSYCHOTHER PSYCHOSOM, V65, P229, DOI 10.1159/000289082
+   Biondi M, 1999, PSYCHOTHER PSYCHOSOM, V68, P111, DOI 10.1159/000012321
+   BOLGERT M, 1955, Ann Dermatol Syphiligr (Paris), V82, P252
+   BOYD AS, 1989, J AM ACAD DERMATOL, V21, P985, DOI 10.1016/S0190-9622(89)70287-5
+   Braun-Falco O, 1972, Munch Med Wochenschr, V114, P1105
+   BRENNER S, 1984, J AM ACAD DERMATOL, V11, P524, DOI 10.1016/S0190-9622(84)80380-1
+   Buhk H, 1997, HAUTARZT, V48, P5, DOI 10.1007/s001050050539
+   Burkhart NW, 1996, J AM DENT ASSOC, V127, P648, DOI 10.14219/jada.archive.1996.0277
+   Capoore HS, 1998, POSTGRAD MED J, V74, P662, DOI 10.1136/pgmj.74.877.662
+   CLEARY PJ, 1980, J PSYCHOSOM RES, V24, P199, DOI 10.1016/0022-3999(80)90042-2
+   COBB S, 1976, PSYCHOSOM MED, V38, P300, DOI 10.1097/00006842-197609000-00003
+   Cohen S., 1995, MEASURING STRESS
+   Cossidente A, 1982, G Ital Dermatol Venereol, V117, P337
+   COTTERILL JA, 1989, BRIT J HOSP MED, V42, P401
+   Cremniter D, 1998, ARCH DERMATOL, V134, P1486, DOI 10.1001/archderm.134.11.1486
+   Dahan S, 1998, NOUV DERMATOL, V17, P90
+   DE GRACIANSKY P, 1952, Ann Dermatol Syphiligr (Paris), V79, P5
+   de la Brassinne M, 1986, ACTA PSYCHIAT BELG, V86, P36
+   DEWAARDVANDERSPEK FB, 1989, CLIN EXP DERMATOL, V14, P429
+   DEWEERT J, 1984, DERMATOLOGICA, V168, P224, DOI 10.1159/000249708
+   DUGAS M, 1983, ACTA PAEDOPSYCHIATR, V49, P221
+   ENGEL GL, 1980, AM J PSYCHIAT, V137, P535
+   ENGEL GL, 1977, SCIENCE, V196, P129, DOI 10.1126/science.847460
+   FARBER EM, 1968, ARCH DERMATOL, V98, P248, DOI 10.1001/archderm.98.3.248
+   FARBER EM, 1986, J AM ACAD DERMATOL, V14, P305, DOI 10.1016/S0190-9622(86)70034-0
+   FARBER EM, 1974, DERMATOLOGICA, V148, P1, DOI 10.1159/000251595
+   FAVA GA, 1980, BRIT J MED PSYCHOL, V53, P277, DOI 10.1111/j.2044-8341.1980.tb02551.x
+   Fava GA, 2000, PSYCHOTHER PSYCHOSOM, V69, P184, DOI 10.1159/000012393
+   Felten D. L., 1990, PSYCHONEUROIMMUNOLOG
+   FORNASA CV, 1982, GIORN ITAL DERMAT V, V117, P211
+   Fortune DG, 1998, J AM ACAD DERMATOL, V39, P196, DOI 10.1016/S0190-9622(98)70074-X
+   Fortune DG, 1997, BRIT J DERMATOL, V137, P755
+   GASTON L, 1991, ACTA DERM-VENEREOL, P37
+   GASTON L, 1987, J AM ACAD DERMATOL, V17, P82, DOI 10.1016/S0190-9622(87)70176-5
+   GIL KM, 1987, J PSYCHOSOM RES, V31, P673, DOI 10.1016/0022-3999(87)90016-X
+   GINSBURG IH, 1995, DERMATOL CLIN, V13, P793, DOI 10.1016/S0733-8635(18)30043-3
+   GIP L, 1969, ACTA DERM-VENEREOL, V49, P180
+   GOULD WM, 1983, J AM ACAD DERMATOL, V9, P73, DOI 10.1016/S0190-9622(83)70109-X
+   Green J, 1997, GENITOURIN MED, V73, P253
+   Greenhill MH, 1942, ARCH DERMATOL SYPH, V46, P187, DOI 10.1001/archderm.1942.01500140003001
+   GRIESEMER RD, 1978, PSYCHIAT ANN, V8, P49
+   GUIDANO VF, 1991, SELF PROCESS
+   GUPTA MA, 1990, ARCH DERMATOL, V126, P90, DOI 10.1001/archderm.126.1.90
+   GUPTA MA, 1994, PSYCHOSOM MED, V56, P36, DOI 10.1097/00006842-199401000-00005
+   Gupta MA, 1996, J AM ACAD DERMATOL, V34, P1030, DOI 10.1016/S0190-9622(96)90284-4
+   Gupta MA, 1997, ACTA DERM-VENEREOL, V77, P296
+   Harrington CI, 1997, BRIT J DERMATOL, V137, P478, DOI 10.1111/j.1365-2133.1997.tb03771.x
+   Harvima RJ, 1996, ACTA DERM-VENEREOL, V76, P467
+   HAWKINS NG, 1957, AM REV TUBERC PULM, V75, P768
+   HELLGREN L, 1964, ACTA DERM-VENEREOL, V44, P191
+   HOLMES TH, 1967, J PSYCHOSOM RES, V11, P213, DOI 10.1016/0022-3999(67)90010-4
+   HUGHES JE, 1983, BRIT J PSYCHIAT, V143, P51, DOI 10.1192/bjp.143.1.51
+   INVERNIZZI G, 1987, Medical Science Research, V15, P1219
+   JOHNSON FYA, 1995, INT J DERMATOL, V34, P244, DOI 10.1111/j.1365-4362.1995.tb01589.x
+   KARVONEN J, 1992, ACTA DERM-VENEREOL, V72, P208
+   KATUGAMPOLA G, 1990, INT J DERMATOL, V29, P234, DOI 10.1111/j.1365-4362.1990.tb03816.x
+   KING RM, 1991, J PSYCHOSOM RES, V35, P697, DOI 10.1016/0022-3999(91)90120-D
+   KISSLING S, 1993, HAUTARZT, V44, P569
+   KOBLENZER CS, 1983, ARCH DERMATOL, V119, P501, DOI 10.1001/archderm.119.6.501
+   KOBLENZER CS, 1986, INT J DERMATOL, V25, P28, DOI 10.1111/j.1365-4362.1986.tb03398.x
+   Kodama A, 1999, J ALLERGY CLIN IMMUN, V104, P173, DOI 10.1016/S0091-6749(99)70130-2
+   LAMMINTAUSTA K, 1991, INT J DERMATOL, V30, P563
+   Liakopoulou M, 1997, J AM ACAD CHILD PSY, V36, P678, DOI 10.1097/00004583-199705000-00019
+   LORENZ TH, 1953, J LAB CLIN MED, V41, P11
+   LOTTI T, 1995, J AM ACAD DERMATOL, V33, P482, DOI 10.1016/0190-9622(95)91395-5
+   Luger TA, 1998, J EUR ACAD DERMATOL, V10, P207, DOI 10.1016/S0926-9959(98)00009-9
+   LYKETSOS GC, 1985, PSYCHOTHER PSYCHOSOM, V44, P122, DOI 10.1159/000287903
+   MACALPINE I, 1958, BRIT J DERMATOL, V70, P118
+   MAHONEY MJ, 1995, COGNITIVE CONSTRUCTI
+   MAZZETTI M, 1994, ACTA DERM-VENEREOL, V74, P62
+   MEHLMAN RD, 1968, AM J PSYCHIAT, V125, P605, DOI 10.1176/ajp.125.5.605
+   MICHAELS.G, 1969, ACTA DERM-VENEREOL, V49, P404
+   Mikulincer M, 1998, ATTACHMENT THEORY CL
+   Monroe S, 1995, MEASURING STRESS
+   MULLER SA, 1963, ARCH DERMATOL, V88, P290, DOI 10.1001/archderm.1963.01590210048007
+   NEIMEYER RA, 2000, CONSTRUCTION DISORDE
+   NEIMEYER RA, 1992, CASEBOOK CONSTRUCTIV
+   Nevitt GJ, 1996, BRIT J DERMATOL, V135, P533, DOI 10.1111/j.1365-2133.1996.tb03826.x
+   Niemeier V, 1998, DERMATOLOGY, V196, P108, DOI 10.1159/000017842
+   NYFORS A, 1975, BRIT J DERMATOL, V92, P437, DOI 10.1111/j.1365-2133.1975.tb03105.x
+   PAGA G, 1992, NEW TRENDS EXP CLIN, V8, P73
+   Panconesi E, 1996, DERMATOL CLIN, V14, P399, DOI 10.1016/S0733-8635(05)70368-5
+   Papadopoulos L, 1998, CLIN EXP DERMATOL, V23, P243
+   Park Byung Soon, 1998, Journal of Dermatology (Tokyo), V25, P97
+   PAYKEL ES, 1983, J PSYCHOSOM RES, V27, P341, DOI 10.1016/0022-3999(83)90065-X
+   PAYNE RA, 1985, CLIN EXP DERMATOL, V10, P239, DOI 10.1111/j.1365-2230.1985.tb00564.x
+   PERINI GI, 1984, PSYCHOTHER PSYCHOSOM, V41, P48, DOI 10.1159/000287786
+   PERRY HO, 1965, ARCH DERMATOL, V91, P10, DOI 10.1001/archderm.1965.01600070016002
+   Picardi A, 2000, BRIT J DERMATOL, V143, P983, DOI 10.1046/j.1365-2133.2000.03831.x
+   POIKOLAINEN K, 1994, BRIT J DERMATOL, V130, P473, DOI 10.1111/j.1365-2133.1994.tb03380.x
+   Polenghi M M, 1989, Acta Derm Venereol Suppl (Stockh), V146, P84
+   Polenghi M M, 1987, G Ital Dermatol Venereol, V122, P167
+   POLENGHI MM, 1994, ACTA DERM-VENEREOL, V74, P65
+   RABKIN JG, 1976, SCIENCE, V194, P1013, DOI 10.1126/science.790570
+   RAJKA G, 1986, INT J DERMATOL, V25, P301, DOI 10.1111/j.1365-4362.1986.tb02249.x
+   RAPHAEL KG, 1991, HEALTH PSYCHOL, V10, P62, DOI 10.1037/0278-6133.10.1.62
+   RECHARDT M, 1991, ACTA DERM-VENEREOL, P56
+   REES L, 1957, J PSYCHOSOM RES, V2, P172, DOI 10.1016/0022-3999(57)90002-8
+   REINHOLD M, 1960, BRIT MED J, V1, P846, DOI 10.1136/bmj.1.5176.846
+   ROQUETA FJF, 1996, ACTA DERMOSIFILIOGR, V87, P597
+   ROS AM, 1987, J AM ACAD DERMATOL, V17, P752, DOI 10.1016/S0190-9622(87)70258-8
+   Russiello F., 1995, J EUR ACAD DERMATOL, V5, P234, DOI [10.1016/0926-9959(95)00096-1, DOI 10.1016/0926-9959(95)00096-1]
+   Ryff CD, 2000, PSYCHOTHER PSYCHOSOM, V69, P170, DOI 10.1159/000012390
+   SARASON IG, 1978, J CONSULT CLIN PSYCH, V46, P932, DOI 10.1037/0022-006X.46.5.932
+   SCHUDEL P, 1985, Z HAUTKRANKHEITEN, V60, P479
+   SEVILLE RH, 1977, BRIT J DERMATOL, V97, P297, DOI 10.1111/j.1365-2133.1977.tb15186.x
+   Shalita A., 1980, DERMATOLOGY, V3, P23
+   SHUSTER S, 1979, BRIT J DERMATOL, V100, P614, DOI 10.1111/j.1365-2133.1979.tb05591.x
+   STEWART JH, 1989, CUTIS, V43, P340
+   SULZBERGER MB, 1948, MED CLIN N AM, P669
+   SUSSKIND W, 1959, Scott Med J, V4, P503
+   TAKAHASHI S, 1996, JPN J PSYCHOSOM MED, V36, P337
+   TAMIR A, 1994, DERMATOLOGY, V189, P210, DOI 10.1159/000246837
+   TERASHIMA Y, 1989, JPN J PSYCHIAT NEUR, V43, P585
+   TESHIMA H, 1982, PSYCHOTHER PSYCHOSOM, V37, P165, DOI 10.1159/000287569
+   TOMPKINS JK, 1955, ARCH DERMATOL, V71, P515, DOI 10.1001/archderm.1955.01540280091022
+   TURNER RJ, 1995, MEASURING STRESS
+   ULLMAN KC, 1977, J ASTHMA RES, V14, P91, DOI 10.3109/02770907709098955
+   VANDERSTEEN P, 1992, ACTA DERM-VENEREOL, V72, P279
+   VANMOFFAERT M, 1992, PSYCHOTHER PSYCHOSOM, V58, P125, DOI 10.1159/000288621
+   WELTMANN G, 1966, HAUTARZT, V17, P7
+   WESSELY SC, 1989, BRIT J PSYCHIAT, V155, P686
+   Wethington E, 1995, MEASURING STRESS
+   WITTKOWER E, 1951, AMA ARCH DERM SYPH, V63, P207, DOI 10.1001/archderm.1951.01570020041005
+   Woodruff PWR, 1997, GEN HOSP PSYCHIAT, V19, P29, DOI 10.1016/S0163-8343(97)00155-2
+   Wygledowska-Kania M, 1996, Psychiatr Pol, V30, P669
+   York J, 1998, PSYCHOL REP, V82, P1044
+   ZALKA AD, 1994, ARCH DERMATOL, V130, P390, DOI 10.1001/archderm.130.3.390
+   Zorrilla EP, 1996, AM J PSYCHIAT, V153, P626
+NR 141
+TC 149
+Z9 156
+U1 2
+U2 27
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0033-3190
+EI 1423-0348
+J9 PSYCHOTHER PSYCHOSOM
+JI Psychother. Psychosom.
+PD MAY-JUN
+PY 2001
+VL 70
+IS 3
+BP 118
+EP 136
+DI 10.1159/000056237
+PG 19
+WC Psychiatry; Psychology
+SC Psychiatry; Psychology
+GA 430EP
+UT WOS:000168561600002
+PM 11340413
+DA 2020-07-08
+ER
+
+EF
